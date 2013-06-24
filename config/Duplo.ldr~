@@ -1,0 +1,112 @@
+0 !FILENAME 31001.dat !DESCRIPTION Duplo Primo Brick 1 x 2
+0 !FILENAME 31002.dat !DESCRIPTION Duplo Primo Brick 1 x 3
+0 !FILENAME 31007.dat !DESCRIPTION Duplo Primo Brick 1 x 1 with 4 Duplo Studs
+0 !FILENAME 31012.dat !DESCRIPTION Duplo Primo Plate 3 x 3
+0 !FILENAME 40666.dat !DESCRIPTION Duplo Plate 2 x 4
+0 !FILENAME 4196.dat !DESCRIPTION Duplo Plate 6 x 12
+0 !FILENAME 44524.dat !DESCRIPTION Duplo Plate 2 x 8
+0 !FILENAME 4672.dat !DESCRIPTION Duplo Plate 4 x 8
+0 !FILENAME 51262.dat !DESCRIPTION Duplo Plate 8 x 8
+0 !FILENAME 6309.dat !DESCRIPTION Duplo Tile 2 x 2
+0 !FILENAME 6309p01.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Isosceles Triangle Pattern
+0 !FILENAME 6309p02.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Inverse Isosceles Triangle Pattern
+0 !FILENAME 6309p03.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Right-angled Triangle Pattern
+0 !FILENAME 6309p04.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Quarter Disc Pattern
+0 !FILENAME 6309p05.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Inverse Quarter Disc Pattern
+0 !FILENAME 6309p06.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Disc Pattern
+0 !FILENAME 6309p07.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Inverse Arch Pattern
+0 !FILENAME 6309p08.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Square Pattern
+0 !FILENAME 6309p09.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Isosceles Triangle Pattern
+0 !FILENAME 6309p0a.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Inverse Isosceles Triangle Pattern
+0 !FILENAME 6309p0b.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Right-angled Triangle Pattern
+0 !FILENAME 6309p0c.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Quarter Disc Pattern
+0 !FILENAME 6309p0d.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Inverse Quarter Disc Pattern
+0 !FILENAME 6309p0e.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Disc Pattern
+0 !FILENAME 6309p0f.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Inverse Arch Pattern
+0 !FILENAME 6309p0g.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Square Pattern
+0 !FILENAME 6309p0h.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Isosceles Triangle Pattern
+0 !FILENAME 6309p0j.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Inverse Isosceles Triangle Pattern
+0 !FILENAME 6309p0k.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Right-angled Triangle Pattern
+0 !FILENAME 6309p0m.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Quarter Disc Pattern
+0 !FILENAME 6309p0n.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Inverse Quarter Disc Pattern
+0 !FILENAME 6309p0q.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Disc Pattern
+0 !FILENAME 6309p0r.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Inverse Arch Pattern
+0 !FILENAME 6309p0s.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Square Pattern
+0 !FILENAME 6309p0t.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Isosceles Triangle Pattern
+0 !FILENAME 6309p0u.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Inverse Isosceles Triangle Pattern
+0 !FILENAME 6309p0v.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Right-angled Triangle Pattern
+0 !FILENAME 6309p0w.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Quarter Disc Pattern
+0 !FILENAME 6309p0x.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Inverse Quarter Disc Pattern
+0 !FILENAME 6309p0y.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Disc Pattern
+0 !FILENAME 6309p0z.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Inverse Arch Pattern
+0 !FILENAME 6309p10.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Square Pattern
+0 !FILENAME 6309p11.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Isosceles Triangle Pattern
+0 !FILENAME 6309p12.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Inverse Isosc. Triangle Pattern
+0 !FILENAME 6309p13.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Right-angled Triangle Pattern
+0 !FILENAME 6309p14.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Quarter Disc Pattern
+0 !FILENAME 6309p15.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Inverse Quarter Disc Pattern
+0 !FILENAME 6309p16.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Disc Pattern
+0 !FILENAME 6309p17.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Inverse Arch Pattern
+0 !FILENAME 6309p18.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Square Pattern
+0 !FILENAME 6309pta.dat !DESCRIPTION Duplo Tile 2 x 2 with "A" Pattern
+0 !FILENAME 6309ptb.dat !DESCRIPTION Duplo Tile 2 x 2 with "B" Pattern
+0 !FILENAME 6309ptc.dat !DESCRIPTION Duplo Tile 2 x 2 with "C" Pattern
+0 !FILENAME 6309pug.dat !DESCRIPTION Duplo Tile 2 x 2 with Equality Pattern
+0 !FILENAME 6309pul.dat !DESCRIPTION Duplo Tile 2 x 2 with Addition Pattern
+0 !FILENAME 6490.dat !DESCRIPTION Duplo Plate 8 x 16
+0 !FILENAME 31001.dat !DESCRIPTION Duplo Primo Brick 1 x 2
+0 !FILENAME 31002.dat !DESCRIPTION Duplo Primo Brick 1 x 3
+0 !FILENAME 31007.dat !DESCRIPTION Duplo Primo Brick 1 x 1 with 4 Duplo Studs
+0 !FILENAME 31012.dat !DESCRIPTION Duplo Primo Plate 3 x 3
+0 !FILENAME 40666.dat !DESCRIPTION Duplo Plate 2 x 4
+0 !FILENAME 4196.dat !DESCRIPTION Duplo Plate 6 x 12
+0 !FILENAME 44524.dat !DESCRIPTION Duplo Plate 2 x 8
+0 !FILENAME 4672.dat !DESCRIPTION Duplo Plate 4 x 8
+0 !FILENAME 51262.dat !DESCRIPTION Duplo Plate 8 x 8
+0 !FILENAME 6309.dat !DESCRIPTION Duplo Tile 2 x 2
+0 !FILENAME 6309p01.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Isosceles Triangle Pattern
+0 !FILENAME 6309p02.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Inverse Isosceles Triangle Pattern
+0 !FILENAME 6309p03.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Right-angled Triangle Pattern
+0 !FILENAME 6309p04.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Quarter Disc Pattern
+0 !FILENAME 6309p05.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Inverse Quarter Disc Pattern
+0 !FILENAME 6309p06.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Disc Pattern
+0 !FILENAME 6309p07.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Inverse Arch Pattern
+0 !FILENAME 6309p08.dat !DESCRIPTION Duplo Tile 2 x 2 with Black Square Pattern
+0 !FILENAME 6309p09.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Isosceles Triangle Pattern
+0 !FILENAME 6309p0a.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Inverse Isosceles Triangle Pattern
+0 !FILENAME 6309p0b.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Right-angled Triangle Pattern
+0 !FILENAME 6309p0c.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Quarter Disc Pattern
+0 !FILENAME 6309p0d.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Inverse Quarter Disc Pattern
+0 !FILENAME 6309p0e.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Disc Pattern
+0 !FILENAME 6309p0f.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Inverse Arch Pattern
+0 !FILENAME 6309p0g.dat !DESCRIPTION Duplo Tile 2 x 2 with Blue Square Pattern
+0 !FILENAME 6309p0h.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Isosceles Triangle Pattern
+0 !FILENAME 6309p0j.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Inverse Isosceles Triangle Pattern
+0 !FILENAME 6309p0k.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Right-angled Triangle Pattern
+0 !FILENAME 6309p0m.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Quarter Disc Pattern
+0 !FILENAME 6309p0n.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Inverse Quarter Disc Pattern
+0 !FILENAME 6309p0q.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Disc Pattern
+0 !FILENAME 6309p0r.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Inverse Arch Pattern
+0 !FILENAME 6309p0s.dat !DESCRIPTION Duplo Tile 2 x 2 with Green Square Pattern
+0 !FILENAME 6309p0t.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Isosceles Triangle Pattern
+0 !FILENAME 6309p0u.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Inverse Isosceles Triangle Pattern
+0 !FILENAME 6309p0v.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Right-angled Triangle Pattern
+0 !FILENAME 6309p0w.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Quarter Disc Pattern
+0 !FILENAME 6309p0x.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Inverse Quarter Disc Pattern
+0 !FILENAME 6309p0y.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Disc Pattern
+0 !FILENAME 6309p0z.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Inverse Arch Pattern
+0 !FILENAME 6309p10.dat !DESCRIPTION Duplo Tile 2 x 2 with Red Square Pattern
+0 !FILENAME 6309p11.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Isosceles Triangle Pattern
+0 !FILENAME 6309p12.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Inverse Isosc. Triangle Pattern
+0 !FILENAME 6309p13.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Right-angled Triangle Pattern
+0 !FILENAME 6309p14.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Quarter Disc Pattern
+0 !FILENAME 6309p15.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Inverse Quarter Disc Pattern
+0 !FILENAME 6309p16.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Disc Pattern
+0 !FILENAME 6309p17.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Inverse Arch Pattern
+0 !FILENAME 6309p18.dat !DESCRIPTION Duplo Tile 2 x 2 with Yellow Square Pattern
+0 !FILENAME 6309pta.dat !DESCRIPTION Duplo Tile 2 x 2 with "A" Pattern
+0 !FILENAME 6309ptb.dat !DESCRIPTION Duplo Tile 2 x 2 with "B" Pattern
+0 !FILENAME 6309ptc.dat !DESCRIPTION Duplo Tile 2 x 2 with "C" Pattern
+0 !FILENAME 6309pug.dat !DESCRIPTION Duplo Tile 2 x 2 with Equality Pattern
+0 !FILENAME 6309pul.dat !DESCRIPTION Duplo Tile 2 x 2 with Addition Pattern
+0 !FILENAME 6490.dat !DESCRIPTION Duplo Plate 8 x 16

@@ -1,0 +1,220 @@
+0 !FILENAME 2341.dat !DESCRIPTION Slope Brick 45 3 x 1 Inverted Double
+0 !FILENAME 2449.dat !DESCRIPTION Slope Brick 75 2 x 1 x 3 Inverted
+0 !FILENAME 2875.dat !DESCRIPTION Slope Brick 45 2 x 6 x
+0 !FILENAME 2876.dat !DESCRIPTION Slope Brick 33/45 6 x 6 with 4 x 4 Cutout
+0 !FILENAME 30180.dat !DESCRIPTION Slope Brick 45 1
+0 !FILENAME 30180p01.dat !DESCRIPTION Slope Brick 45 1
+0 !FILENAME 30182.dat !DESCRIPTION Slope Brick 45 4 x 4
+0 !FILENAME 30183.dat !DESCRIPTION Slope Brick 45 6 x 4 Double Inverted
+0 !FILENAME 30183p01.dat !DESCRIPTION Slope Brick 45 6 x 4 Double Inverted w/ "POLICE" Red Line Pat.
+0 !FILENAME 30249.dat !DESCRIPTION Slope Brick 55 1 x 6 x 5
+0 !FILENAME 30249ps0.dat !DESCRIPTION Slope Brick 55 1 x 6 x 5 with Red and DkGray Pattern
+0 !FILENAME 30283.dat !DESCRIPTION Slope Brick 45 6 x 4 Double Inverted with Open Center
+0 !FILENAME 30363.dat !DESCRIPTION Slope Brick 18 4 x 2
+0 !FILENAME 30363ps1.dat !DESCRIPTION Slope Brick 18 4 x 2 with Orange and Grey Rectangles Pattern
+0 !FILENAME 30363ps2.dat !DESCRIPTION Slope Brick 18 4 x 2 with Imperial Shuttle Cockpit Pattern
+0 !FILENAME 3037.dat !DESCRIPTION Slope Brick 45 2 x 4
+0 !FILENAME 30373.dat !DESCRIPTION Slope Brick 65 6 x 6 x 2 Inverted Quadruple
+0 !FILENAME 3037ps0.dat !DESCRIPTION Slope Brick 45 2 x 4 with Red and Gold Triangles Left Pattern
+0 !FILENAME 3037ps1.dat !DESCRIPTION Slope Brick 45 2 x 4 with Red and Gold Triangles Right Pattern
+0 !FILENAME 3037ps2.dat !DESCRIPTION Slope Brick 45 2 x 4 with Red Dragon Left Pattern
+0 !FILENAME 3037ps3.dat !DESCRIPTION Slope Brick 45 2 x 4 with Red Dragon Right Pattern
+0 !FILENAME 3038.dat !DESCRIPTION Slope Brick 45 2 x 3
+0 !FILENAME 3038p01.dat !DESCRIPTION Slope Brick 45 2 x 3 with Yellow Line and Black Border Pattern
+0 !FILENAME 3039.dat !DESCRIPTION Slope Brick 45 2 x 2
+0 !FILENAME 30390.dat !DESCRIPTION Slope Brick 45 4 x 2 Double Inverted with Pins
+0 !FILENAME 3039p01.dat !DESCRIPTION Slope Brick 45 2 x 2 with Right Green Inverse 1/4 Disc Pattern
+0 !FILENAME 3039p02.dat !DESCRIPTION Slope Brick 45 2 x 2 with Left Green Inverse 1/4 Disc Pattern
+0 !FILENAME 3039p05.dat !DESCRIPTION Slope Brick 45 2 x 2 with Black Grille Pattern
+0 !FILENAME 3039p09.dat !DESCRIPTION Slope Brick 45 2 x 2 with Fire Logo Pattern
+0 !FILENAME 3039p0u.dat !DESCRIPTION Slope Brick 45 2 x 2 with Red/Blue U-shaped Stripe Pattern
+0 !FILENAME 3039p10.dat !DESCRIPTION Slope Brick 45 2 x 2 with Yellow Grille Pattern
+0 !FILENAME 3039p11.dat !DESCRIPTION Slope Brick 45 2 x 2 with Black Phone Pattern
+0 !FILENAME 3039p12.dat !DESCRIPTION Slope Brick 45 2 x 2 with White Phone Pattern
+0 !FILENAME 3039p15.dat !DESCRIPTION Slope Brick 45 2 x 2 with Space Display Pattern
+0 !FILENAME 3039p23.dat !DESCRIPTION Slope Brick 45 2 x 2 with Computer Screen Pattern
+0 !FILENAME 3039p32.dat !DESCRIPTION Slope Brick 45 2 x 2 with 12 Buttons 3 Lamps on Black Pattern
+0 !FILENAME 3039p33.dat !DESCRIPTION Slope Brick 45 2 x 2 with 12 Buttons 3 Lamps on Yellow Pattern
+0 !FILENAME 3039p34.dat !DESCRIPTION Slope Brick 45 2 x 2 with Computer Panel Pattern (needs work)
+0 !FILENAME 3039p58.dat !DESCRIPTION Slope Brick 45 2 x 2 with Divers Computer Pattern
+0 !FILENAME 3039p68.dat !DESCRIPTION Slope Brick 45 2 x 2 with MTron Logo Pattern
+0 !FILENAME 3039p70.dat !DESCRIPTION Slope Brick 45 2 x 2 with Buttons and "15
+0 !FILENAME 3039p72.dat !DESCRIPTION Slope Brick 45 2 x 2 with Red "2" and Green Stripes Pattern
+0 !FILENAME 3039p75.dat !DESCRIPTION Slope Brick 45 2 x 2 with Red/White "5" and White Stripe Patt
+0 !FILENAME 3039p76.dat !DESCRIPTION Slope Brick 45 2 x 2 with Red/Yellow "6" Pattern
+0 !FILENAME 3039pc0.dat !DESCRIPTION Slope Brick 45 2 x 2 with Red Square and Circuitry Pattern
+0 !FILENAME 3039pc1.dat !DESCRIPTION Slope Brick 45 2 x 2 with Gauge Pattern
+0 !FILENAME 3039pc2.dat !DESCRIPTION Slope Brick 45 2 x 2 with Flame and Control Panel Pattern
+0 !FILENAME 3039pc3.dat !DESCRIPTION Slope Brick 45 2 x 2 with Horizon Indicator Screen Pattern
+0 !FILENAME 3039pc4.dat !DESCRIPTION Slope Brick 45 2 x 2 with 3 Gauges and 3 Knobs Pattern
+0 !FILENAME 3039pc5.dat !DESCRIPTION Slope Brick 45 2 x 2 with Flight Control Pattern
+0 !FILENAME 3039pc6.dat !DESCRIPTION Slope Brick 45 2 x 2 with Radar Screen Pattern
+0 !FILENAME 3039pc7.dat !DESCRIPTION Slope Brick 45 2 x 2 with Spyrius Droid Image Pattern
+0 !FILENAME 3039ph2.dat !DESCRIPTION Slope Brick 45 2 x 2 with Pillow Pattern
+0 !FILENAME 3039ps1.dat !DESCRIPTION Slope Brick 45 2 x 2 with SW Trench Computer Pattern
+0 !FILENAME 3039ps2.dat !DESCRIPTION Slope Brick 45 2 x 2 with SW AT-AT Pattern
+0 !FILENAME 3039ps4.dat !DESCRIPTION Slope Brick 45 2 x 2 with SW Blue Segmented Fish Pattern
+0 !FILENAME 3039pt1.dat !DESCRIPTION Slope Brick 45 2 x 2 with White "1" Pattern
+0 !FILENAME 3039pt2.dat !DESCRIPTION Slope Brick 45 2 x 2 with White "2" Pattern
+0 !FILENAME 3040a.dat !DESCRIPTION Slope Brick 45 2 x 1 without Centre Stud
+0 !FILENAME 3040b.dat !DESCRIPTION Slope Brick 45 2 x 1
+0 !FILENAME 3040p01.dat !DESCRIPTION Slope Brick 45 2 x 1 with 3 Buttons 3 Lamps on Yellow Pattern
+0 !FILENAME 3040p02.dat !DESCRIPTION Slope Brick 45 2 x 1 with White Rotary Dial Pattern
+0 !FILENAME 3040p03.dat !DESCRIPTION Slope Brick 45 2 x 1 with Black Rotary Dial Pattern
+0 !FILENAME 3040p04.dat !DESCRIPTION Slope Brick 45 2 x 1 with 5 White Red Green Controls Pattern
+0 !FILENAME 3040p05.dat !DESCRIPTION Slope Brick 45 2 x 1 with Orange Microphone Pattern
+0 !FILENAME 3040p06.dat !DESCRIPTION Slope Brick 45 2 x 1 with Green + Red Lamps and Keypad Pattern
+0 !FILENAME 3040p32.dat !DESCRIPTION Slope Brick 45 2 x 1 with 9 + 3 Black Buttons Pattern
+0 !FILENAME 3040p33.dat !DESCRIPTION Slope Brick 45 2 x 1 with 9 + 3 White Buttons Pattern
+0 !FILENAME 3040p58.dat !DESCRIPTION Slope Brick 45 2 x 1 with Targeting Screen Pattern
+0 !FILENAME 3041.dat !DESCRIPTION Slope Brick 45 2 x 4 Double
+0 !FILENAME 3041p01.dat !DESCRIPTION Slope Brick 45 2 x 4 Double with Headlamp Pattern
+0 !FILENAME 3042.dat !DESCRIPTION Slope Brick 45 2 x 3 Double
+0 !FILENAME 3043.dat !DESCRIPTION Slope Brick 45 2 x 2 Double
+0 !FILENAME 3044a.dat !DESCRIPTION Slope Brick 45 2 x 1 Double with Hollow Bottom
+0 !FILENAME 3044b.dat !DESCRIPTION Slope Brick 45 2 x 1 Double
+0 !FILENAME 3044p37.dat !DESCRIPTION Slope Brick 45 2 x 1 Double with Double 3 Button Black Pattern
+0 !FILENAME 3045.dat !DESCRIPTION Slope Brick 45 2 x 2 Double Convex
+0 !FILENAME 3046.dat !DESCRIPTION Slope Brick 45 2 x 2 Double Concave
+0 !FILENAME 3048.dat !DESCRIPTION Slope Brick 45 1 x 2 Triple
+0 !FILENAME 3049a.dat !DESCRIPTION Slope Brick 45 1 x 2 Double / Inverted with Centre Tube
+0 !FILENAME 3049b.dat !DESCRIPTION Slope Brick 45 1 x 2 Double / Inverted
+0 !FILENAME 3049c.dat !DESCRIPTION Slope Brick 45 1 x 2 Double / Inverted without Centre Stud
+0 !FILENAME 30602.dat !DESCRIPTION Slope Brick Curved Top 2 x 2 x 1
+0 !FILENAME 30603.dat !DESCRIPTION Slope Brick 2 x 2 x 1 with Flanges and Pistons
+0 !FILENAME 30614.dat !DESCRIPTION Roof 6 x 6 x 3
+0 !FILENAME 3135.dat !DESCRIPTION Slope Brick 45 2 x 3 x 1 & 1/3 Double Crane
+0 !FILENAME 32083.dat !DESCRIPTION Slope Brick 45 6 x 4 Double
+0 !FILENAME 3297.dat !DESCRIPTION Slope Brick 33 3 x 4
+0 !FILENAME 3297p01.dat !DESCRIPTION Slope Brick 33 3 x 4 with Red Stripes Pattern
+0 !FILENAME 3297p02.dat !DESCRIPTION Slope Brick 33 3 x 4 with Yellow Triangles Pattern
+0 !FILENAME 3297p03.dat !DESCRIPTION Slope Brick 33 3 x 4 with White Stripes Pattern
+0 !FILENAME 3297p04.dat !DESCRIPTION Slope Brick 33 3 x 4 with Roof Tile Pattern
+0 !FILENAME 3297p05.dat !DESCRIPTION Slope Brick 33 3 x 4 with Yellow Stripes Pattern
+0 !FILENAME 3297p06.dat !DESCRIPTION Slope Brick 33 3 x 4 with Green Stripes Pattern
+0 !FILENAME 3297p10.dat !DESCRIPTION Slope Brick 33 3 x 4 with Black "POLICE" and Red Line Pattern
+0 !FILENAME 3297p11.dat !DESCRIPTION Slope Brick 33 3 x 4 with White "POLICE" and Red Line Pattern
+0 !FILENAME 3297p14.dat !DESCRIPTION Slope Brick 3 x 4 with Headlights Pattern
+0 !FILENAME 3297p90.dat !DESCRIPTION Slope Brick 33 3 x 4 with Classic Space Pattern
+0 !FILENAME 3297ps1.dat !DESCRIPTION Slope Brick 33 3 x 4 with SW Grille Pattern
+0 !FILENAME 3298.dat !DESCRIPTION Slope Brick 33 3 x 2
+0 !FILENAME 3298p01.dat !DESCRIPTION Slope Brick 33 3 x 2 with White "1" Outlined Pattern
+0 !FILENAME 3298p04.dat !DESCRIPTION Slope Brick 33 3 x 2 with Roof Tile Pattern
+0 !FILENAME 3298p10.dat !DESCRIPTION Slope Brick 33 3 x 2 with Explorien Logo Pattern
+0 !FILENAME 3298p11.dat !DESCRIPTION Slope Brick 33 3 x 2 with Red on Yellow Triangles Pattern
+0 !FILENAME 3298p12.dat !DESCRIPTION Slope Brick 33 3 x 2 with Green on Yellow Triangles Pattern
+0 !FILENAME 3298p13.dat !DESCRIPTION Slope Brick 33 3 x 2 with Blue on Yellow Triangles Pattern
+0 !FILENAME 3298p15.dat !DESCRIPTION Slope Brick 33 3 x 2 with Yellow Stripes Pattern
+0 !FILENAME 3298p16.dat !DESCRIPTION Slope Brick 33 3 x 2 with White Triangles Pattern
+0 !FILENAME 3298p17.dat !DESCRIPTION Slope Brick 33 3 x 2 with Red Stripes Pattern
+0 !FILENAME 3298p18.dat !DESCRIPTION Slope Brick 33 3 x 2 with Yellow Triangles Pattern
+0 !FILENAME 3298p19.dat !DESCRIPTION Slope Brick 33 3 x 2 with Freestyle Pattern
+0 !FILENAME 3298p1a.dat !DESCRIPTION Slope Brick 33 3 x 2 with Red V Pattern
+0 !FILENAME 3298p1b.dat !DESCRIPTION Slope Brick 33 3 x 2 with Yellow and Green V Pattern
+0 !FILENAME 3298p20.dat !DESCRIPTION Slope Brick 33 3 x 2 with White Stripes Pattern
+0 !FILENAME 3298p21.dat !DESCRIPTION Slope Brick 33 3 x 2 with Red Stars Pattern
+0 !FILENAME 3298p53.dat !DESCRIPTION Slope Brick 33 3 x 2 with Space Police I Pattern
+0 !FILENAME 3298p54.dat !DESCRIPTION Slope Brick 33 3 x 2 with Red "1" and Black Stripes Pattern
+0 !FILENAME 3298p55.dat !DESCRIPTION Slope Brick 33 3 x 2 with White "2" and Stripes Pattern
+0 !FILENAME 3298p56.dat !DESCRIPTION Slope Brick 33 3 x 2 with White "3" and Stripes Pattern
+0 !FILENAME 3298p57.dat !DESCRIPTION Slope Brick 33 3 x 2 with Yellow "4" and Stripes Pattern
+0 !FILENAME 3298p61.dat !DESCRIPTION Slope Brick 33 3 x 2 with Ice Planet Logo Pattern
+0 !FILENAME 3298p66.dat !DESCRIPTION Slope Brick 33 3 x 2 with Pink Triangles Pattern
+0 !FILENAME 3298p68.dat !DESCRIPTION Slope Brick 33 3 x 2 with MTron Logo Pattern
+0 !FILENAME 3298p69.dat !DESCRIPTION Slope Brick 33 3 x 2 with Space Police II Pattern
+0 !FILENAME 3298p6u.dat !DESCRIPTION Slope Brick 33 3 x 2 with UFO Pattern
+0 !FILENAME 3298p71.dat !DESCRIPTION Slope Brick 33 3 x 2 with Red "1" and Yellow Outline Pattern
+0 !FILENAME 3298p72.dat !DESCRIPTION Slope Brick 33 3 x 2 with Red "2" over Two Green Stripes Patt.
+0 !FILENAME 3298p73.dat !DESCRIPTION Slope Brick 33 3 x 2 with "3" over Black Triangle Pattern
+0 !FILENAME 3298p74.dat !DESCRIPTION Slope Brick 33 3 x 2 with Black "4" and Red Stripes Pattern
+0 !FILENAME 3298p75.dat !DESCRIPTION Slope Brick 33 3 x 2 with Red "5" and White Stripes Pattern
+0 !FILENAME 3298p76.dat !DESCRIPTION Slope Brick 33 3 x 2 with Red "6" Pattern
+0 !FILENAME 3298p90.dat !DESCRIPTION Slope Brick 33 3 x 2 with Classic Space Logo Pattern
+0 !FILENAME 3298ps0.dat !DESCRIPTION Slope Brick 33 3 x 2 with SW Crisscross Pattern
+0 !FILENAME 3299.dat !DESCRIPTION Slope Brick 33 2 x 4 Double
+0 !FILENAME 3300.dat !DESCRIPTION Slope Brick 33 2 x 2 Double
+0 !FILENAME 3660.dat !DESCRIPTION Slope Brick 45 2 x 2 Inverted
+0 !FILENAME 3660p01.dat !DESCRIPTION Slope Brick 45 2 x 2 Inverted with Computer Screen Pattern
+0 !FILENAME 3660p02.dat !DESCRIPTION Slope Brick 45 2 x 2 Inverted with 4 Black Rectangles Pattern
+0 !FILENAME 3660p03.dat !DESCRIPTION Slope Brick 45 2 x 2 Inverted with Black/Blue Stripes Pattern
+0 !FILENAME 3665.dat !DESCRIPTION Slope Brick 45 2 x 1 Inverted
+0 !FILENAME 3665p01.dat !DESCRIPTION Slope Brick 45 2 x 1 Inverted with 2 Black Rectangles Pattern
+0 !FILENAME 3675.dat !DESCRIPTION Slope Brick 33 3 x 3 Double Convex
+0 !FILENAME 3676.dat !DESCRIPTION Slope Brick 45 2 x 2 Inverted Double Convex
+0 !FILENAME 3678a.dat !DESCRIPTION Slope Brick 65 2 x 2 x 2 without Centre Tube
+0 !FILENAME 3678ap01.dat !DESCRIPTION Slope Brick 65 2 x 2 x 2 with Witch's Dress Pattern
+0 !FILENAME 3678apc0.dat !DESCRIPTION Slope Brick 65 2 x 2 x 2 with Lamps and Dials Pattern
+0 !FILENAME 3678b.dat !DESCRIPTION Slope Brick 65 2 x 2 x 2 with Centre Tube
+0 !FILENAME 3678bp4w.dat !DESCRIPTION Slope Brick 65 2 x 2 x 2 with Tube and White Apron Pattern
+0 !FILENAME 3678bp4x.dat !DESCRIPTION Slope Brick 65 2 x 2 x 2 with Tube and DarkGreen Dress Patt.
+0 !FILENAME 3678p4h.dat !DESCRIPTION Slope Brick 65 2 x 2 x 2 with Queen's Dress Pattern
+0 !FILENAME 3684.dat !DESCRIPTION Slope Brick 75 2 x 2 x 3
+0 !FILENAME 3684p22.dat !DESCRIPTION Slope Brick 75 2 x 2 x 3 with 16 Black Squares Pattern
+0 !FILENAME 3685.dat !DESCRIPTION Slope Brick 75 2 x 2 x 3 Double Convex
+0 !FILENAME 3688.dat !DESCRIPTION Slope Brick 75 2 x 2 x 2 Quadruple Convex
+0 !FILENAME 3747a.dat !DESCRIPTION Slope Brick 33 3 x 2 Inverted without Ribs between Studs
+0 !FILENAME 3747b.dat !DESCRIPTION Slope Brick 33 3 x 2 Inverted with Ribs between Studs
+0 !FILENAME 3939.dat !DESCRIPTION Slope Brick 33 3 x 6
+0 !FILENAME 3939p68.dat !DESCRIPTION Slope Brick 33 3 x 6 with MTron Logo Pattern
+0 !FILENAME 3939p90.dat !DESCRIPTION Slope Brick 33 3 x 6 with Classic Space Small Pattern
+0 !FILENAME 3939p91.dat !DESCRIPTION Slope Brick 33 3 x 6 with Classic Space Large Pattern
+0 !FILENAME 4089.dat !DESCRIPTION Slope Brick 33 3 x 2 Inverted Hollow with Towball
+0 !FILENAME 4161.dat !DESCRIPTION Slope Brick 33 3 x 3
+0 !FILENAME 41749.dat !DESCRIPTION Slope Brick Round 3 x 8 x 2 Right
+0 !FILENAME 41750.dat !DESCRIPTION Slope Brick Round 3 x 8 x 2 Left
+0 !FILENAME 41766.dat !DESCRIPTION Slope Brick Curved 8 x 2 x 2
+0 !FILENAME 41855.dat !DESCRIPTION Slope Brick Round 2 x 2 x 2/3
+0 !FILENAME 42022.dat !DESCRIPTION Slope Brick Curved 6 x 1
+0 !FILENAME 42023.dat !DESCRIPTION Slope Brick Curved 6 x 1 Inverted
+0 !FILENAME 4228.dat !DESCRIPTION Slope Brick 33 5 x 6 x 2 Inverted
+0 !FILENAME 4286.dat !DESCRIPTION Slope Brick 33 3 x 1
+0 !FILENAME 4287.dat !DESCRIPTION Slope Brick 33 3 x 1 Inverted
+0 !FILENAME 4323.dat !DESCRIPTION Fabuland Roof Slope without Top Hole
+0 !FILENAME 43708.dat !DESCRIPTION Slope Brick 18 4 x 4 Corner
+0 !FILENAME 43710.dat !DESCRIPTION Slope Brick 2 x 4 Triple Left
+0 !FILENAME 43711.dat !DESCRIPTION Slope Brick 2 x 4 Triple Right
+0 !FILENAME 44126.dat !DESCRIPTION Slope Brick Curved 6 x 2
+0 !FILENAME 4445.dat !DESCRIPTION Slope Brick 45 2 x 8
+0 !FILENAME 4460.dat !DESCRIPTION Slope Brick 75 2 x 1 x 3
+0 !FILENAME 44675.dat !DESCRIPTION Slope Brick Curved Top 2 x 2 x 1 with Dimples
+0 !FILENAME 4509.dat !DESCRIPTION Slope Brick 33 6 x 6 Double
+0 !FILENAME 4515.dat !DESCRIPTION Slope Brick 1
+0 !FILENAME 4515p02.dat !DESCRIPTION Slope Brick 1
+0 !FILENAME 4515p03.dat !DESCRIPTION Slope Brick 1
+0 !FILENAME 45410.dat !DESCRIPTION Slope Brick Curved 6 x 8 x 2 Inverted Double
+0 !FILENAME 45411.dat !DESCRIPTION Slope Brick Curved 6 x 8 x 2 Double
+0 !FILENAME 47456.dat !DESCRIPTION Slope Brick Curved 2 x 2 x 2/3 with Fin and 2 Studs
+0 !FILENAME 47457.dat !DESCRIPTION Slope Brick Curved 2 x 2 x 2/3 Triple with Two Top Studs
+0 !FILENAME 47458.dat !DESCRIPTION Slope Brick Curved 1 x 2 x 2/3 with Fin without Studs
+0 !FILENAME 4854.dat !DESCRIPTION Slope Brick 45 4 x 4 Double Inverted with Open Center
+0 !FILENAME 4857.dat !DESCRIPTION Slope Brick 45 4 x 4 Double with Hinge
+0 !FILENAME 4861.dat !DESCRIPTION Slope Brick 45 3 x 4 Double / 33
+0 !FILENAME 4871.dat !DESCRIPTION Slope Brick 45 4 x 2 Double Inverted with Open Center
+0 !FILENAME 50948.dat !DESCRIPTION Slope Brick 3 x 4 x
+0 !FILENAME 50950.dat !DESCRIPTION Slope Brick Curved 3 x 1
+0 !FILENAME 50967.dat !DESCRIPTION Slope Brick Curved 8 x 1 x 1 & 2/3 with Arch
+0 !FILENAME 52501.dat !DESCRIPTION Slope Brick 45 6 x 1 Double Inverted with Open Center
+0 !FILENAME 54091.dat !DESCRIPTION Slope Brick Curved 8 x 8 x 2 Inverted Double
+0 !FILENAME 54095.dat !DESCRIPTION Slope Brick Curved 8 x 8 x 2 Double
+0 !FILENAME 54200.dat !DESCRIPTION Slope Brick 31 1 x 1 x 2/3
+0 !FILENAME 56204.dat !DESCRIPTION Slope Brick Curved 6 x 8 x 2 Double
+0 !FILENAME 58181.dat !DESCRIPTION Slope Brick 33 3 x 6 without Inner Walls
+0 !FILENAME 60219.dat !DESCRIPTION Slope Brick 45 6 x 4 Double Inverted with Center Holes
+0 !FILENAME 6044.dat !DESCRIPTION Slope Brick 53 3 x 1 x 3 & 1/3 with Studs on Slope
+0 !FILENAME 60477.dat !DESCRIPTION Slope Brick 18 4 x 1
+0 !FILENAME 60481.dat !DESCRIPTION Slope Brick 65 2 x 1 x 2
+0 !FILENAME 61068.dat !DESCRIPTION Slope Brick Curved 2 x 4 without Underside Studs
+0 !FILENAME 61068p01.dat !DESCRIPTION Slope Brick Curved 2 x 4 with 2 Gold Stripes Pattern
+0 !FILENAME 61409.dat !DESCRIPTION Slope Brick 18 2 x 1 x 2/3 Grille
+0 !FILENAME 61487.dat !DESCRIPTION Slope Brick Curved 4 x 4 x 2
+0 !FILENAME 61678.dat !DESCRIPTION Slope Brick Curved 4 x 1
+0 !FILENAME 72454.dat !DESCRIPTION Slope Brick 45 4 x 4 Double Inverted with Center Holes
+0 !FILENAME 789.dat !DESCRIPTION Fabuland Roof Slope with Top Hole
+0 !FILENAME 85970.dat !DESCRIPTION Slope Brick Curved 8 x 1 with Plate 1 x 2
+0 !FILENAME 85984.dat !DESCRIPTION Slope Brick 31 1 x 2 x
+0 !FILENAME 88930.dat !DESCRIPTION Slope Brick Curved 2 x 4 with Underside Studs
+0 !FILENAME 92946.dat !DESCRIPTION Slope Plate 45 2 x 1
+0 !FILENAME 93273.dat !DESCRIPTION Slope Brick Curved 4 x 1 Double
+0 !FILENAME 93604.dat !DESCRIPTION Slope Brick Curved 3 x 4 x
+0 !FILENAME 962.dat !DESCRIPTION Slope Brick 45 2 x 2 Double Concave / Double Convex
+0 !FILENAME 99301.dat !DESCRIPTION Slope Brick 33 3 x 3 Double Concave

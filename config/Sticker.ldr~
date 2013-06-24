@@ -1,0 +1,528 @@
+0 !FILENAME 003238a.dat !DESCRIPTION Sticker Minifig Shield Triangular with Crown on DkPink B/ground
+0 !FILENAME 003238b.dat !DESCRIPTION Sticker for Minifig Shield Triangular w/ Green Chevrons/DkGray
+0 !FILENAME 003238c.dat !DESCRIPTION Sticker Minifig Shield Triangular with White Maltese Cross
+0 !FILENAME 003238d.dat !DESCRIPTION Sticker for Minifig Shield Triangular w/ Yellow Trefoils/Blue
+0 !FILENAME 003238e.dat !DESCRIPTION Sticker Minifig Vest with Crown on Dark Pink Background
+0 !FILENAME 003238f.dat !DESCRIPTION Sticker Minifig Vest with Shield with Green Chevrons/DkGray
+0 !FILENAME 003238g.dat !DESCRIPTION Sticker Minifig Vest w/ Shield with White Maltese Cross/DkGray
+0 !FILENAME 003238h.dat !DESCRIPTION Sticker Minifig Vest with Yellow Trefoils on Blue Background
+0 !FILENAME 003238i.dat !DESCRIPTION Sticker Flag with Crown on Dark-Pink
+0 !FILENAME 003238j.dat !DESCRIPTION Sticker 1 x 5.8 with Dark_Pink Banner
+0 !FILENAME 003238k.dat !DESCRIPTION Sticker Minifig Shield Triangular with Crown on Violet B/ground
+0 !FILENAME 003238l.dat !DESCRIPTION Sticker for Minifig Shield Triangular w/ Green Chevrons LtGray
+0 !FILENAME 003238m.dat !DESCRIPTION Sticker for Minifig Shield Triangular w/ Yellow Trefoils/DkBlue
+0 !FILENAME 003238n.dat !DESCRIPTION Sticker Minifig Vest with Crown on Violet Background
+0 !FILENAME 003238o.dat !DESCRIPTION Sticker Minifig Vest with Shield with Green Chevrons/LtGray
+0 !FILENAME 003238p.dat !DESCRIPTION Sticker Minifig Vest w/ Shield with White Maltese Cross/LtGrey
+0 !FILENAME 003238q.dat !DESCRIPTION Sticker Minifig Vest with Yellow Trefoils on DkBlue Background
+0 !FILENAME 003238r.dat !DESCRIPTION Sticker Flag with Crown Violet
+0 !FILENAME 003238s.dat !DESCRIPTION Sticker 1 x 5.8 with Violet Banner
+0 !FILENAME 003432a.dat !DESCRIPTION Sticker System with Norway Flag Pattern
+0 !FILENAME 003432b.dat !DESCRIPTION Sticker System with Finland Flag Pattern
+0 !FILENAME 003432c.dat !DESCRIPTION Sticker System with Denmark Flag Pattern
+0 !FILENAME 003432d.dat !DESCRIPTION Sticker System with Sweden Flag Pattern
+0 !FILENAME 003432e.dat !DESCRIPTION Sticker System with Iceland Flag Pattern
+0 !FILENAME 003437a.dat !DESCRIPTION Sticker Train "181"
+0 !FILENAME 003439a.dat !DESCRIPTION Sticker Train "171"
+0 !FILENAME 003440a.dat !DESCRIPTION Sticker 2.6 x 5.5 "International TRANSPORT"
+0 !FILENAME 004158a.dat !DESCRIPTION Sticker System with Germany Flag Pattern
+0 !FILENAME 004158b.dat !DESCRIPTION Sticker System with The Netherlands Flag Pattern
+0 !FILENAME 004158c.dat !DESCRIPTION Sticker System with United Kingdom Flag Pattern
+0 !FILENAME 004158d.dat !DESCRIPTION Sticker System with Austria Flag Pattern
+0 !FILENAME 004158e.dat !DESCRIPTION Sticker System with Switzerland Flag Pattern
+0 !FILENAME 004158f.dat !DESCRIPTION Sticker System with Italy Flag Pattern
+0 !FILENAME 004159a.dat !DESCRIPTION Sticker System with Portugal Flag Pattern
+0 !FILENAME 004159b.dat !DESCRIPTION Sticker System with Belgium Flag Pattern
+0 !FILENAME 004159c.dat !DESCRIPTION Sticker System with France Flag Pattern
+0 !FILENAME 004159d.dat !DESCRIPTION Sticker System with Japan Flag Pattern
+0 !FILENAME 004159e.dat !DESCRIPTION Sticker System with United States Flag Pattern
+0 !FILENAME 004159h.dat !DESCRIPTION Sticker System with United States Flag Pattern (Mirrored)
+0 !FILENAME 004219a.dat !DESCRIPTION Sticker System with Ireland Flag Pattern
+0 !FILENAME 004219b.dat !DESCRIPTION Sticker System with Australia Flag Pattern
+0 !FILENAME 004219c.dat !DESCRIPTION Sticker System with Canada Flag Pattern
+0 !FILENAME 004315a.dat !DESCRIPTION Sticker Minifig Torso with Yellow Buttons and Grey Belt
+0 !FILENAME 004315b.dat !DESCRIPTION Sticker 1.2 x 1 with White "1" on Red
+0 !FILENAME 004511a.dat !DESCRIPTION Sticker 2.4 x 3 with Red Cross Logo
+0 !FILENAME 004511b.dat !DESCRIPTION Sticker
+0 !FILENAME 004511c.dat !DESCRIPTION Sticker 1 x 6 with White "Hospital" on Red
+0 !FILENAME 004585a.dat !DESCRIPTION Sticker Minifig Torso with White Buttons and Old Police Badge
+0 !FILENAME 004587a.dat !DESCRIPTION Sticker Train "133"
+0 !FILENAME 004630a.dat !DESCRIPTION Sticker 1.2 x 3 with "Spirit of St. Louis" Right
+0 !FILENAME 004630b.dat !DESCRIPTION Sticker 1.2 x 3 with "Spirit of St. Louis" Left
+0 !FILENAME 004631a.dat !DESCRIPTION Sticker 1.8 x 1.8 with Red Cross Logo
+0 !FILENAME 004631c.dat !DESCRIPTION Sticker 1 x 3.5 with Red "L-386"
+0 !FILENAME 004747a.dat !DESCRIPTION Sticker Train 183
+0 !FILENAME 164365a.dat !DESCRIPTION Sticker 3.6 x 4 with Black Aircraft and Five Coloured Stripes
+0 !FILENAME 164365c.dat !DESCRIPTION Sticker 1.2 x 1 with Red Outline "5"
+0 !FILENAME 168185a.dat !DESCRIPTION Sticker 1 x 4 with Red/Green "Octan"
+0 !FILENAME 168225a.dat !DESCRIPTION Sticker 1 x 2 Letter
+0 !FILENAME 168315a.dat !DESCRIPTION Sticker 1.9 x 7.9 Technic Supercar 4x4x4 Logo
+0 !FILENAME 168315b.dat !DESCRIPTION Sticker 1.8 x
+0 !FILENAME 168315c.dat !DESCRIPTION Sticker 1.8 x
+0 !FILENAME 168315d.dat !DESCRIPTION Sticker
+0 !FILENAME 168315e.dat !DESCRIPTION Sticker 1.7 x 3.2 Technic Supercar Mirror
+0 !FILENAME 168315f.dat !DESCRIPTION Sticker 1.8 x
+0 !FILENAME 168315g.dat !DESCRIPTION Sticker 1.1 x 3.9 Technic Supercar Instrument Panel 1
+0 !FILENAME 168315h.dat !DESCRIPTION Sticker 1.1 x 3.9 Technic Supercar Instrument Panel 2
+0 !FILENAME 170872a.dat !DESCRIPTION Sticker with White "POLICE" and Red Line on Black Ground
+0 !FILENAME 170876a.dat !DESCRIPTION Sticker 1.1 x 1.5 with Octan Logo
+0 !FILENAME 190145a.dat !DESCRIPTION Sticker 1.9 x 3.8 with Yellow Box and Arrows
+0 !FILENAME 190315a.dat !DESCRIPTION Sticker Flag with Tri-Coloured Shield on Red/Gold Border
+0 !FILENAME 190595a.dat !DESCRIPTION Sticker 1.9 x 3.8 with Yellow Box and Arrows
+0 !FILENAME 190775a.dat !DESCRIPTION Sticker 3.1 x 3.1 Round with Black "6" or "9" on White
+0 !FILENAME 191888a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "771
+0 !FILENAME 191888b.dat !DESCRIPTION Sticker
+0 !FILENAME 191888c.dat !DESCRIPTION Sticker 1.2 x 1 with White "1"
+0 !FILENAME 191888d.dat !DESCRIPTION Sticker 1.2 x 1 with White "2"
+0 !FILENAME 191888e.dat !DESCRIPTION Sticker 2 x 2.1 with Black German Railways Logo
+0 !FILENAME 191895a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "772
+0 !FILENAME 191895b.dat !DESCRIPTION Sticker
+0 !FILENAME 191895c.dat !DESCRIPTION Sticker 2.4 x 2 with White British Rail Logo and "772
+0 !FILENAME 191895d.dat !DESCRIPTION Sticker 2.4 x 2 with White Swiss Railways Logo and "772
+0 !FILENAME 191895e.dat !DESCRIPTION Sticker 2.4 x 2 with White Netherlands Rail. Logo and "772
+0 !FILENAME 191895f.dat !DESCRIPTION Sticker 2.4 x 2 with White Austrian Railways Logo and "772
+0 !FILENAME 191895n.dat !DESCRIPTION Sticker 1.2 x 2.4 with Diagonal Black/Yellow Stripes
+0 !FILENAME 191895o.dat !DESCRIPTION Sticker 1.2 x 3.8 with Double Diagonal Black/Yellow Stripes
+0 !FILENAME 191895p.dat !DESCRIPTION Sticker 4.8 x 6.1 with Wagon Door Outline
+0 !FILENAME 191905a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "773
+0 !FILENAME 191905b.dat !DESCRIPTION Sticker
+0 !FILENAME 191915a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "774
+0 !FILENAME 191915b.dat !DESCRIPTION Sticker
+0 !FILENAME 191915c.dat !DESCRIPTION Sticker 1.2 x 1.6 with White German Railways Logo
+0 !FILENAME 191915d.dat !DESCRIPTION Sticker 2 x 2.1 with White German Railways Logo
+0 !FILENAME 191915e.dat !DESCRIPTION Sticker
+0 !FILENAME 191915f.dat !DESCRIPTION Sticker 1.5 x 1.5 Round with Green Circle on White
+0 !FILENAME 191915g.dat !DESCRIPTION Sticker 1.2 x 1 with Green "1"
+0 !FILENAME 191915h.dat !DESCRIPTION Sticker 1.2 x 1 with Green "2"
+0 !FILENAME 191915i.dat !DESCRIPTION Sticker 1.1 x 1.9 with "Basel / Hamburg"
+0 !FILENAME 191915j.dat !DESCRIPTION Sticker 1.1 x 1.9 with "Paris / Roma"
+0 !FILENAME 191915k.dat !DESCRIPTION Sticker 1.1 x 1.9 with "Wien / Zürich"
+0 !FILENAME 191915l.dat !DESCRIPTION Sticker 1.1 x 1.9 with "Brussell / Amsterdam"
+0 !FILENAME 191925a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "775
+0 !FILENAME 191925b.dat !DESCRIPTION Sticker
+0 !FILENAME 191936a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "776
+0 !FILENAME 191936b.dat !DESCRIPTION Sticker
+0 !FILENAME 191945a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "781
+0 !FILENAME 191945b.dat !DESCRIPTION Sticker
+0 !FILENAME 192425a.dat !DESCRIPTION Sticker 2.4 x 3 with Classic Space Logo
+0 !FILENAME 192425b.dat !DESCRIPTION Sticker 2.4 x 3 with Classic Space Logo (Mirrored)
+0 !FILENAME 193075a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "7725"
+0 !FILENAME 194215a.dat !DESCRIPTION Sticker 3.3 x 3.5 with Mail Logo
+0 !FILENAME 194325b.dat !DESCRIPTION Sticker 2 x 2 with 3 Black Circles Pattern
+0 !FILENAME 195405a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "7727"
+0 !FILENAME 195475a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "7755"
+0 !FILENAME 195515a.dat !DESCRIPTION Sticker 2.4 x 2.4 with Mail Pattern
+0 !FILENAME 196925a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "7715"
+0 !FILENAME 196935a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "7722"
+0 !FILENAME 196935b.dat !DESCRIPTION Sticker
+0 !FILENAME 196945a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "7735"
+0 !FILENAME 196945n.dat !DESCRIPTION Sticker 2.4 x 2 with Black German Railways Logo and "7735"
+0 !FILENAME 196945o.dat !DESCRIPTION Sticker 2.4 x 2 with Black British Rail Logo and "7735"
+0 !FILENAME 196945p.dat !DESCRIPTION Sticker 2.4 x 2 with Black Swiss Railways Logo and "7735"
+0 !FILENAME 196945q.dat !DESCRIPTION Sticker 2.4 x 2 with Black Netherlands Rail Logo and "7735"
+0 !FILENAME 196945r.dat !DESCRIPTION Sticker 2.4 x 2 with Black Austrian Railways Logo and "7735"
+0 !FILENAME 196955a.dat !DESCRIPTION Sticker 2.4 x 2 w Black German Railways Logo and White "7745"
+0 !FILENAME 199025a.dat !DESCRIPTION Sticker Minifig Vest Danger Pattern
+0 !FILENAME 4100418a.dat !DESCRIPTION Sticker 5.4 x 7.5 Red/White "V" for Air Spoiler
+0 !FILENAME 4106330a.dat !DESCRIPTION Sticker 3.2 x 4 with "GOLD MINE" Sign
+0 !FILENAME 4106332a.dat !DESCRIPTION Sticker 2.4 x 3 with Cavalry Logo
+0 !FILENAME 4106332b.dat !DESCRIPTION Sticker 2.3 x 5.9 with "Fort Legoredo" Sign
+0 !FILENAME 4106332c.dat !DESCRIPTION Sticker 1.1 x 8 with "Headquarters" Sign
+0 !FILENAME 4106752a.dat !DESCRIPTION Sticker 1 x
+0 !FILENAME 4106752b.dat !DESCRIPTION Sticker 1 x
+0 !FILENAME 4106752c.dat !DESCRIPTION Sticker 1 x
+0 !FILENAME 4106752d.dat !DESCRIPTION Sticker 1 x
+0 !FILENAME 4106981a.dat !DESCRIPTION Sticker 2.1 x 2.3 with Town TV Logo
+0 !FILENAME 4119056a.dat !DESCRIPTION Sticker 1 x 2 with "A41" on White/Blue
+0 !FILENAME 4119430a.dat !DESCRIPTION Sticker 3.2 x 3.2 Round Mirror
+0 !FILENAME 4129790a.dat !DESCRIPTION Sticker 1.2 x 4 with 7 Black Squares
+0 !FILENAME 4129790b.dat !DESCRIPTION Sticker 1.2 x 6 with White "P&O Stena" on Blue
+0 !FILENAME 4129790c.dat !DESCRIPTION Sticker 2.4 x 3 with Stena Flag
+0 !FILENAME 4158884a.dat !DESCRIPTION Sticker 3.2 x 3.2 Round with "9 3/4"
+0 !FILENAME 4174735a.dat !DESCRIPTION Sticker 2.8 x 2.8 Round Train Fan
+0 !FILENAME 4216816a.dat !DESCRIPTION Sticker 1.6 x 1.8 with US Flag Pattern
+0 !FILENAME 4216816b.dat !DESCRIPTION Sticker 1.6 x 1.8 with US Flag Pattern (Mirrored)
+0 !FILENAME 4250285a.dat !DESCRIPTION Sticker 1 x 1.9 with White "96" on Red/Yellow/Black
+0 !FILENAME 4250285b.dat !DESCRIPTION Sticker
+0 !FILENAME 4270894a.dat !DESCRIPTION Sticker 1.8 x 1.8 Round with Brown, Yellow, Red Rings Pattern
+0 !FILENAME 4297014a.dat !DESCRIPTION Sticker 2.2 x 3.7 Oval with Batman Logo Yellow/Black
+0 !FILENAME 4297014b.dat !DESCRIPTION Sticker 1.6 x 1.6 with Black "BANG!" on White/Red Background
+0 !FILENAME 4297014c.dat !DESCRIPTION Sticker Tail with Red "J" on White Left
+0 !FILENAME 4297014d.dat !DESCRIPTION Sticker Tail with Red "J" on White Right
+0 !FILENAME 4297014e.dat !DESCRIPTION Sticker 2.6 x 1.6 with Dark Green Cover and Green Bolts
+0 !FILENAME 4297014f.dat !DESCRIPTION Sticker 2.5 x 3.6 with Joker Face
+0 !FILENAME 4521703a.dat !DESCRIPTION Sticker 1.1 x 8 with "CARWASH" and Red/Green Stripes
+0 !FILENAME 4521703b.dat !DESCRIPTION Sticker 1.1 x 8 with "SERVICESTATION" and Red/Green Stripes
+0 !FILENAME 4521703c.dat !DESCRIPTION Sticker 2.4 x 3.4 Oval with Octan Logo/Text
+0 !FILENAME 4521703e.dat !DESCRIPTION Sticker 1.9 x 1.9 Round with Octan Logo/Text
+0 !FILENAME 4521703f.dat !DESCRIPTION Sticker
+0 !FILENAME 4521703g.dat !DESCRIPTION Sticker
+0 !FILENAME 4521703o.dat !DESCRIPTION Sticker 1.7 x 1.7 with Dark_Red "C"
+0 !FILENAME 4521703p.dat !DESCRIPTION Sticker 1.7 x 1.7 with Dark_Red "I"
+0 !FILENAME 4521703q.dat !DESCRIPTION Sticker 1.7 x 1.7 with Dark_Red "N"
+0 !FILENAME 4521703r.dat !DESCRIPTION Sticker 1.7 x 1.7 with Dark_Red "E"
+0 !FILENAME 4521703s.dat !DESCRIPTION Sticker 1.7 x 1.7 with Dark_Red "M"
+0 !FILENAME 4521703t.dat !DESCRIPTION Sticker 1.7 x 1.7 with Dark_Red "A"
+0 !FILENAME 4521703u.dat !DESCRIPTION Sticker 3.5 x 3.9 with "LEGO TOWN" Map
+0 !FILENAME 4542422a.dat !DESCRIPTION Sticker 1.8 x 1.8 Round with Roadsign "5
+0 !FILENAME 4542422b.dat !DESCRIPTION Sticker Roadsign Triangle with Traffic Light Pattern
+0 !FILENAME 4542422c.dat !DESCRIPTION Sticker 1.8 x 1.8 with Roadsign Minifig Crosswalk
+0 !FILENAME 4544045f.dat !DESCRIPTION Sticker 1.7 x 1.7 Round with Motor Pattern
+0 !FILENAME 4544258a.dat !DESCRIPTION Sticker
+0 !FILENAME 4544258b.dat !DESCRIPTION Sticker 1.8 x 1.8 with Porthole Rear Right
+0 !FILENAME 4544258c.dat !DESCRIPTION Sticker 1.8 x 1.8 with Porthole Front Right
+0 !FILENAME 4544258d.dat !DESCRIPTION Sticker 1.8 x 1.8 with Porthole Front Left
+0 !FILENAME 4544258e.dat !DESCRIPTION Sticker 1.8 x 1.8 with Porthole Rear Left
+0 !FILENAME 4544258fc01.dat !DESCRIPTION Sticker
+0 !FILENAME 4544258gc01.dat !DESCRIPTION Sticker
+0 !FILENAME 4544258h.dat !DESCRIPTION Sticker 1.1 x 3.9 with Gold "1
+0 !FILENAME 4544258i.dat !DESCRIPTION Sticker 1.1 x 3.9 with Gold "1
+0 !FILENAME 4544258j.dat !DESCRIPTION Sticker 1.1 x 3.9 with "L R"
+0 !FILENAME 4544258k.dat !DESCRIPTION Sticker 1.1 x 3.9 with "T S"
+0 !FILENAME 4544258l.dat !DESCRIPTION Sticker 1.8 x 1.8 with Four Rivets
+0 !FILENAME 4544258m.dat !DESCRIPTION Sticker
+0 !FILENAME 4544258n.dat !DESCRIPTION Sticker 1.1 x 1.8 with Gold "LRTS"
+0 !FILENAME 4544258o.dat !DESCRIPTION Sticker 1.1 x 1.8 with Gold "FIRST"
+0 !FILENAME 4550640a.dat !DESCRIPTION Sticker 2 x 2 Round with Radioactive Hazard Trefoil
+0 !FILENAME 4586822a.dat !DESCRIPTION Sticker
+0 !FILENAME 4613857a.dat !DESCRIPTION Sticker 1.6 x 1.6 Round Red/White/DkBlue Concentric Rings
+0 !FILENAME 4613857b.dat !DESCRIPTION Sticker Tail Left with White Eagle Head in Circle on DkRed
+0 !FILENAME 4613857c.dat !DESCRIPTION Sticker Tail Right with White Eagle Head in Circle on DkRed
+0 !FILENAME 4613857d.dat !DESCRIPTION Sticker
+0 !FILENAME 4613857e.dat !DESCRIPTION Sticker
+0 !FILENAME 4613857f.dat !DESCRIPTION Sticker 4.8 x 1.8 Horus Head and Hieroglyphs on Tan
+0 !FILENAME 4613857g.dat !DESCRIPTION Sticker 4.8 x 1.8 Tan with Hieroglyphs
+0 !FILENAME 4613905a.dat !DESCRIPTION Sticker
+0 !FILENAME 4613905b.dat !DESCRIPTION Sticker
+0 !FILENAME 4613905c.dat !DESCRIPTION Sticker 2.2 x 1.8 Tan with Hieroglyphs, 3 Snakes
+0 !FILENAME 4613905d.dat !DESCRIPTION Sticker 5.8 x 1.8 Tan with Hieroglyphs, Scarab/Eye on Top
+0 !FILENAME 4616559cc01.dat !DESCRIPTION Sticker 1.8 x 1.8 with Maersk Logo (Formed)
+0 !FILENAME 4616559e.dat !DESCRIPTION Sticker 3.8 x 4.4 with Maersk Logo
+0 !FILENAME 4616559ec01.dat !DESCRIPTION Sticker 3.8 x 4.4 with Maersk Logo (Formed)
+0 !FILENAME 4616559g.dat !DESCRIPTION Sticker 3.7 x 2.9 with Maersk Blue/White Diagonal Up Left
+0 !FILENAME 4616559h.dat !DESCRIPTION Sticker 3.7 x 2.9 with Maersk Blue/White Diagonal Up Right
+0 !FILENAME 4616559i.dat !DESCRIPTION Sticker 3.9 x 1.8 with Maersk Blue/White Diagonal Up Left
+0 !FILENAME 4616559j.dat !DESCRIPTION Sticker 3.9 x 1.8 with Maersk Blue/White Diagonal Up Right
+0 !FILENAME 4616559k.dat !DESCRIPTION Sticker
+0 !FILENAME 4616559m.dat !DESCRIPTION Sticker
+0 !FILENAME 4616559n.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303a.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303ac01.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303b.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303bc01.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303c.dat !DESCRIPTION Sticker 1.5 x 4.5 Red/White Diagonal Stripes Right Up
+0 !FILENAME 4622303d.dat !DESCRIPTION Sticker 1.5 x 4.5 Red/White Diagonal Stripes Left Up
+0 !FILENAME 4622303e.dat !DESCRIPTION Sticker 1.63 x 1.25 Red/White Diagonal Stripes Right Up
+0 !FILENAME 4622303f.dat !DESCRIPTION Sticker 1.63 x 1.25 Red/White Diagonal Stripes Left Up
+0 !FILENAME 4622303g.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303h.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303i.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303j.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303k.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303l.dat !DESCRIPTION Sticker 1.75 x 1.75 Mercedes-Benz Logo on Orange
+0 !FILENAME 4622303m.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303n.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303o.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303p.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303q.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303r.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303s.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303t.dat !DESCRIPTION Sticker
+0 !FILENAME 4629677a.dat !DESCRIPTION Sticker 2.8 x 3.8 with Golden Post Horn
+0 !FILENAME 4629677c.dat !DESCRIPTION Sticker 1.8 x
+0 !FILENAME 4629677d.dat !DESCRIPTION Sticker
+0 !FILENAME 4629677e.dat !DESCRIPTION Sticker 1.9 x 1.9 with Stamps and Price List
+0 !FILENAME 4629677f.dat !DESCRIPTION Sticker 1.9 Round with Five-String Banjo
+0 !FILENAME 47261a.dat !DESCRIPTION Sticker 2.9 x 2.9 Round with Axlehole Black and White
+0 !FILENAME 59718a.dat !DESCRIPTION Sticker
+0 !FILENAME 59718b.dat !DESCRIPTION Sticker
+0 !FILENAME 59718c.dat !DESCRIPTION Sticker 2.5 x 2.5 with Round Green Arrows
+0 !FILENAME 59718d.dat !DESCRIPTION Sticker
+0 !FILENAME 59826a.dat !DESCRIPTION Sticker 3 x 9.4 with Blue and White Diagonal Stripes
+0 !FILENAME 59826ac01.dat !DESCRIPTION Sticker 3 x 9.4 with Blue and White Diagonal Stripes (Formed)
+0 !FILENAME 59826d.dat !DESCRIPTION Sticker 1 x 3.8 with Cement Mixer and Blue Stripes
+0 !FILENAME 59826e.dat !DESCRIPTION Sticker 1 x 3.8 with "HA 799
+0 !FILENAME 59826f.dat !DESCRIPTION Sticker
+0 !FILENAME 59826h.dat !DESCRIPTION Sticker 1 x 3.8 with "HA 799
+0 !FILENAME 820675a.dat !DESCRIPTION Sticker 1.8 x 1.2 with Yellow Outline "5"
+0 !FILENAME 820785a.dat !DESCRIPTION Sticker 4.8 x 6 with Crossed Cannons Blue Crossed Flag Left
+0 !FILENAME 820785b.dat !DESCRIPTION Sticker 4.8 x 6 with Crossed Cannons Blue Crossed Flag Right
+0 !FILENAME 821410a.dat !DESCRIPTION Sticker 3.5 x 3.5 with White/Clear Stripes Pattern
+0 !FILENAME 821410b.dat !DESCRIPTION Sticker 1.6 x 3.5 with White/Clear Stripes
+0 !FILENAME 821410c.dat !DESCRIPTION Sticker
+0 !FILENAME 821410d.dat !DESCRIPTION Sticker with Black "POLICE" and Red Line Large
+0 !FILENAME 86037a.dat !DESCRIPTION Sticker 17.5 x 77.5 with "MK 8265" Banner Side A
+0 !FILENAME 86037b.dat !DESCRIPTION Sticker 17.5 x 77.5 with "MK 8265" Banner Side B
+0 !FILENAME s10.dat !DESCRIPTION Sticker 2 x 2 Round with Lifepreserver Pattern
+0 !FILENAME s11.dat !DESCRIPTION Sticker 1 x 6 with Thin Black "POLICE" Pattern
+0 !FILENAME s12a.dat !DESCRIPTION Sticker 1.9 x 1.9 Round with Hot Heat Sensitive UFO Drawing
+0 !FILENAME s12b.dat !DESCRIPTION Sticker 1.9 x 1.9 Round with Warm Heat Sensitive UFO Drawing
+0 !FILENAME s12c.dat !DESCRIPTION Sticker 1.9 x 1.9 Round with Cold Heat Sensitive UFO Drawing
+0 !FILENAME s12d.dat !DESCRIPTION Sticker 1.9 x 1.9 Round with V.Cold Heat Sensitive UFO Drawing
+0 !FILENAME s7.dat !DESCRIPTION Sticker 1 x 4 with Yellow/Black Chevrons Pattern
+0 !FILENAME s8.dat !DESCRIPTION Sticker
+0 !FILENAME s9.dat !DESCRIPTION Sticker Technic Blue Snowflake
+0 !FILENAME 003238a.dat !DESCRIPTION Sticker Minifig Shield Triangular with Crown on DkPink B/ground
+0 !FILENAME 003238b.dat !DESCRIPTION Sticker for Minifig Shield Triangular w/ Green Chevrons/DkGray
+0 !FILENAME 003238c.dat !DESCRIPTION Sticker Minifig Shield Triangular with White Maltese Cross
+0 !FILENAME 003238d.dat !DESCRIPTION Sticker for Minifig Shield Triangular w/ Yellow Trefoils/Blue
+0 !FILENAME 003238e.dat !DESCRIPTION Sticker Minifig Vest with Crown on Dark Pink Background
+0 !FILENAME 003238f.dat !DESCRIPTION Sticker Minifig Vest with Shield with Green Chevrons/DkGray
+0 !FILENAME 003238g.dat !DESCRIPTION Sticker Minifig Vest w/ Shield with White Maltese Cross/DkGray
+0 !FILENAME 003238h.dat !DESCRIPTION Sticker Minifig Vest with Yellow Trefoils on Blue Background
+0 !FILENAME 003238i.dat !DESCRIPTION Sticker Flag with Crown on Dark-Pink
+0 !FILENAME 003238j.dat !DESCRIPTION Sticker 1 x 5.8 with Dark_Pink Banner
+0 !FILENAME 003238k.dat !DESCRIPTION Sticker Minifig Shield Triangular with Crown on Violet B/ground
+0 !FILENAME 003238l.dat !DESCRIPTION Sticker for Minifig Shield Triangular w/ Green Chevrons LtGray
+0 !FILENAME 003238m.dat !DESCRIPTION Sticker for Minifig Shield Triangular w/ Yellow Trefoils/DkBlue
+0 !FILENAME 003238n.dat !DESCRIPTION Sticker Minifig Vest with Crown on Violet Background
+0 !FILENAME 003238o.dat !DESCRIPTION Sticker Minifig Vest with Shield with Green Chevrons/LtGray
+0 !FILENAME 003238p.dat !DESCRIPTION Sticker Minifig Vest w/ Shield with White Maltese Cross/LtGrey
+0 !FILENAME 003238q.dat !DESCRIPTION Sticker Minifig Vest with Yellow Trefoils on DkBlue Background
+0 !FILENAME 003238r.dat !DESCRIPTION Sticker Flag with Crown Violet
+0 !FILENAME 003238s.dat !DESCRIPTION Sticker 1 x 5.8 with Violet Banner
+0 !FILENAME 003432a.dat !DESCRIPTION Sticker System with Norway Flag Pattern
+0 !FILENAME 003432b.dat !DESCRIPTION Sticker System with Finland Flag Pattern
+0 !FILENAME 003432c.dat !DESCRIPTION Sticker System with Denmark Flag Pattern
+0 !FILENAME 003432d.dat !DESCRIPTION Sticker System with Sweden Flag Pattern
+0 !FILENAME 003432e.dat !DESCRIPTION Sticker System with Iceland Flag Pattern
+0 !FILENAME 003437a.dat !DESCRIPTION Sticker Train "181"
+0 !FILENAME 003439a.dat !DESCRIPTION Sticker Train "171"
+0 !FILENAME 003440a.dat !DESCRIPTION Sticker 2.6 x 5.5 "International TRANSPORT"
+0 !FILENAME 004158a.dat !DESCRIPTION Sticker System with Germany Flag Pattern
+0 !FILENAME 004158b.dat !DESCRIPTION Sticker System with The Netherlands Flag Pattern
+0 !FILENAME 004158c.dat !DESCRIPTION Sticker System with United Kingdom Flag Pattern
+0 !FILENAME 004158d.dat !DESCRIPTION Sticker System with Austria Flag Pattern
+0 !FILENAME 004158e.dat !DESCRIPTION Sticker System with Switzerland Flag Pattern
+0 !FILENAME 004158f.dat !DESCRIPTION Sticker System with Italy Flag Pattern
+0 !FILENAME 004159a.dat !DESCRIPTION Sticker System with Portugal Flag Pattern
+0 !FILENAME 004159b.dat !DESCRIPTION Sticker System with Belgium Flag Pattern
+0 !FILENAME 004159c.dat !DESCRIPTION Sticker System with France Flag Pattern
+0 !FILENAME 004159d.dat !DESCRIPTION Sticker System with Japan Flag Pattern
+0 !FILENAME 004159e.dat !DESCRIPTION Sticker System with United States Flag Pattern
+0 !FILENAME 004159h.dat !DESCRIPTION Sticker System with United States Flag Pattern (Mirrored)
+0 !FILENAME 004219a.dat !DESCRIPTION Sticker System with Ireland Flag Pattern
+0 !FILENAME 004219b.dat !DESCRIPTION Sticker System with Australia Flag Pattern
+0 !FILENAME 004219c.dat !DESCRIPTION Sticker System with Canada Flag Pattern
+0 !FILENAME 004315a.dat !DESCRIPTION Sticker Minifig Torso with Yellow Buttons and Grey Belt
+0 !FILENAME 004315b.dat !DESCRIPTION Sticker 1.2 x 1 with White "1" on Red
+0 !FILENAME 004511a.dat !DESCRIPTION Sticker 2.4 x 3 with Red Cross Logo
+0 !FILENAME 004511b.dat !DESCRIPTION Sticker
+0 !FILENAME 004511c.dat !DESCRIPTION Sticker 1 x 6 with White "Hospital" on Red
+0 !FILENAME 004585a.dat !DESCRIPTION Sticker Minifig Torso with White Buttons and Old Police Badge
+0 !FILENAME 004587a.dat !DESCRIPTION Sticker Train "133"
+0 !FILENAME 004630a.dat !DESCRIPTION Sticker 1.2 x 3 with "Spirit of St. Louis" Right
+0 !FILENAME 004630b.dat !DESCRIPTION Sticker 1.2 x 3 with "Spirit of St. Louis" Left
+0 !FILENAME 004631a.dat !DESCRIPTION Sticker 1.8 x 1.8 with Red Cross Logo
+0 !FILENAME 004631c.dat !DESCRIPTION Sticker 1 x 3.5 with Red "L-386"
+0 !FILENAME 004747a.dat !DESCRIPTION Sticker Train 183
+0 !FILENAME 164365a.dat !DESCRIPTION Sticker 3.6 x 4 with Black Aircraft and Five Coloured Stripes
+0 !FILENAME 164365c.dat !DESCRIPTION Sticker 1.2 x 1 with Red Outline "5"
+0 !FILENAME 168185a.dat !DESCRIPTION Sticker 1 x 4 with Red/Green "Octan"
+0 !FILENAME 168225a.dat !DESCRIPTION Sticker 1 x 2 Letter
+0 !FILENAME 168315a.dat !DESCRIPTION Sticker 1.9 x 7.9 Technic Supercar 4x4x4 Logo
+0 !FILENAME 168315b.dat !DESCRIPTION Sticker 1.8 x
+0 !FILENAME 168315c.dat !DESCRIPTION Sticker 1.8 x
+0 !FILENAME 168315d.dat !DESCRIPTION Sticker
+0 !FILENAME 168315e.dat !DESCRIPTION Sticker 1.7 x 3.2 Technic Supercar Mirror
+0 !FILENAME 168315f.dat !DESCRIPTION Sticker 1.8 x
+0 !FILENAME 168315g.dat !DESCRIPTION Sticker 1.1 x 3.9 Technic Supercar Instrument Panel 1
+0 !FILENAME 168315h.dat !DESCRIPTION Sticker 1.1 x 3.9 Technic Supercar Instrument Panel 2
+0 !FILENAME 170872a.dat !DESCRIPTION Sticker with White "POLICE" and Red Line on Black Ground
+0 !FILENAME 170876a.dat !DESCRIPTION Sticker 1.1 x 1.5 with Octan Logo
+0 !FILENAME 190145a.dat !DESCRIPTION Sticker 1.9 x 3.8 with Yellow Box and Arrows
+0 !FILENAME 190315a.dat !DESCRIPTION Sticker Flag with Tri-Coloured Shield on Red/Gold Border
+0 !FILENAME 190595a.dat !DESCRIPTION Sticker 1.9 x 3.8 with Yellow Box and Arrows
+0 !FILENAME 190775a.dat !DESCRIPTION Sticker 3.1 x 3.1 Round with Black "6" or "9" on White
+0 !FILENAME 191888a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "771
+0 !FILENAME 191888b.dat !DESCRIPTION Sticker
+0 !FILENAME 191888c.dat !DESCRIPTION Sticker 1.2 x 1 with White "1"
+0 !FILENAME 191888d.dat !DESCRIPTION Sticker 1.2 x 1 with White "2"
+0 !FILENAME 191888e.dat !DESCRIPTION Sticker 2 x 2.1 with Black German Railways Logo
+0 !FILENAME 191895a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "772
+0 !FILENAME 191895b.dat !DESCRIPTION Sticker
+0 !FILENAME 191895c.dat !DESCRIPTION Sticker 2.4 x 2 with White British Rail Logo and "772
+0 !FILENAME 191895d.dat !DESCRIPTION Sticker 2.4 x 2 with White Swiss Railways Logo and "772
+0 !FILENAME 191895e.dat !DESCRIPTION Sticker 2.4 x 2 with White Netherlands Rail. Logo and "772
+0 !FILENAME 191895f.dat !DESCRIPTION Sticker 2.4 x 2 with White Austrian Railways Logo and "772
+0 !FILENAME 191895n.dat !DESCRIPTION Sticker 1.2 x 2.4 with Diagonal Black/Yellow Stripes
+0 !FILENAME 191895o.dat !DESCRIPTION Sticker 1.2 x 3.8 with Double Diagonal Black/Yellow Stripes
+0 !FILENAME 191895p.dat !DESCRIPTION Sticker 4.8 x 6.1 with Wagon Door Outline
+0 !FILENAME 191905a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "773
+0 !FILENAME 191905b.dat !DESCRIPTION Sticker
+0 !FILENAME 191915a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "774
+0 !FILENAME 191915b.dat !DESCRIPTION Sticker
+0 !FILENAME 191915c.dat !DESCRIPTION Sticker 1.2 x 1.6 with White German Railways Logo
+0 !FILENAME 191915d.dat !DESCRIPTION Sticker 2 x 2.1 with White German Railways Logo
+0 !FILENAME 191915e.dat !DESCRIPTION Sticker
+0 !FILENAME 191915f.dat !DESCRIPTION Sticker 1.5 x 1.5 Round with Green Circle on White
+0 !FILENAME 191915g.dat !DESCRIPTION Sticker 1.2 x 1 with Green "1"
+0 !FILENAME 191915h.dat !DESCRIPTION Sticker 1.2 x 1 with Green "2"
+0 !FILENAME 191915i.dat !DESCRIPTION Sticker 1.1 x 1.9 with "Basel / Hamburg"
+0 !FILENAME 191915j.dat !DESCRIPTION Sticker 1.1 x 1.9 with "Paris / Roma"
+0 !FILENAME 191915k.dat !DESCRIPTION Sticker 1.1 x 1.9 with "Wien / Zürich"
+0 !FILENAME 191915l.dat !DESCRIPTION Sticker 1.1 x 1.9 with "Brussell / Amsterdam"
+0 !FILENAME 191925a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "775
+0 !FILENAME 191925b.dat !DESCRIPTION Sticker
+0 !FILENAME 191936a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "776
+0 !FILENAME 191936b.dat !DESCRIPTION Sticker
+0 !FILENAME 191945a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "781
+0 !FILENAME 191945b.dat !DESCRIPTION Sticker
+0 !FILENAME 192425a.dat !DESCRIPTION Sticker 2.4 x 3 with Classic Space Logo
+0 !FILENAME 192425b.dat !DESCRIPTION Sticker 2.4 x 3 with Classic Space Logo (Mirrored)
+0 !FILENAME 193075a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "7725"
+0 !FILENAME 194215a.dat !DESCRIPTION Sticker 3.3 x 3.5 with Mail Logo
+0 !FILENAME 194325b.dat !DESCRIPTION Sticker 2 x 2 with 3 Black Circles Pattern
+0 !FILENAME 195405a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "7727"
+0 !FILENAME 195475a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "7755"
+0 !FILENAME 195515a.dat !DESCRIPTION Sticker 2.4 x 2.4 with Mail Pattern
+0 !FILENAME 196925a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "7715"
+0 !FILENAME 196935a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "7722"
+0 !FILENAME 196935b.dat !DESCRIPTION Sticker
+0 !FILENAME 196945a.dat !DESCRIPTION Sticker 2.4 x 2 with White German Railways Logo and "7735"
+0 !FILENAME 196945n.dat !DESCRIPTION Sticker 2.4 x 2 with Black German Railways Logo and "7735"
+0 !FILENAME 196945o.dat !DESCRIPTION Sticker 2.4 x 2 with Black British Rail Logo and "7735"
+0 !FILENAME 196945p.dat !DESCRIPTION Sticker 2.4 x 2 with Black Swiss Railways Logo and "7735"
+0 !FILENAME 196945q.dat !DESCRIPTION Sticker 2.4 x 2 with Black Netherlands Rail Logo and "7735"
+0 !FILENAME 196945r.dat !DESCRIPTION Sticker 2.4 x 2 with Black Austrian Railways Logo and "7735"
+0 !FILENAME 196955a.dat !DESCRIPTION Sticker 2.4 x 2 w Black German Railways Logo and White "7745"
+0 !FILENAME 199025a.dat !DESCRIPTION Sticker Minifig Vest Danger Pattern
+0 !FILENAME 4100418a.dat !DESCRIPTION Sticker 5.4 x 7.5 Red/White "V" for Air Spoiler
+0 !FILENAME 4106330a.dat !DESCRIPTION Sticker 3.2 x 4 with "GOLD MINE" Sign
+0 !FILENAME 4106332a.dat !DESCRIPTION Sticker 2.4 x 3 with Cavalry Logo
+0 !FILENAME 4106332b.dat !DESCRIPTION Sticker 2.3 x 5.9 with "Fort Legoredo" Sign
+0 !FILENAME 4106332c.dat !DESCRIPTION Sticker 1.1 x 8 with "Headquarters" Sign
+0 !FILENAME 4106752a.dat !DESCRIPTION Sticker 1 x
+0 !FILENAME 4106752b.dat !DESCRIPTION Sticker 1 x
+0 !FILENAME 4106752c.dat !DESCRIPTION Sticker 1 x
+0 !FILENAME 4106752d.dat !DESCRIPTION Sticker 1 x
+0 !FILENAME 4106981a.dat !DESCRIPTION Sticker 2.1 x 2.3 with Town TV Logo
+0 !FILENAME 4119056a.dat !DESCRIPTION Sticker 1 x 2 with "A41" on White/Blue
+0 !FILENAME 4119430a.dat !DESCRIPTION Sticker 3.2 x 3.2 Round Mirror
+0 !FILENAME 4129790a.dat !DESCRIPTION Sticker 1.2 x 4 with 7 Black Squares
+0 !FILENAME 4129790b.dat !DESCRIPTION Sticker 1.2 x 6 with White "P&O Stena" on Blue
+0 !FILENAME 4129790c.dat !DESCRIPTION Sticker 2.4 x 3 with Stena Flag
+0 !FILENAME 4158884a.dat !DESCRIPTION Sticker 3.2 x 3.2 Round with "9 3/4"
+0 !FILENAME 4174735a.dat !DESCRIPTION Sticker 2.8 x 2.8 Round Train Fan
+0 !FILENAME 4216816a.dat !DESCRIPTION Sticker 1.6 x 1.8 with US Flag Pattern
+0 !FILENAME 4216816b.dat !DESCRIPTION Sticker 1.6 x 1.8 with US Flag Pattern (Mirrored)
+0 !FILENAME 4250285a.dat !DESCRIPTION Sticker 1 x 1.9 with White "96" on Red/Yellow/Black
+0 !FILENAME 4250285b.dat !DESCRIPTION Sticker
+0 !FILENAME 4270894a.dat !DESCRIPTION Sticker 1.8 x 1.8 Round with Brown, Yellow, Red Rings Pattern
+0 !FILENAME 4297014a.dat !DESCRIPTION Sticker 2.2 x 3.7 Oval with Batman Logo Yellow/Black
+0 !FILENAME 4297014b.dat !DESCRIPTION Sticker 1.6 x 1.6 with Black "BANG!" on White/Red Background
+0 !FILENAME 4297014c.dat !DESCRIPTION Sticker Tail with Red "J" on White Left
+0 !FILENAME 4297014d.dat !DESCRIPTION Sticker Tail with Red "J" on White Right
+0 !FILENAME 4297014e.dat !DESCRIPTION Sticker 2.6 x 1.6 with Dark Green Cover and Green Bolts
+0 !FILENAME 4297014f.dat !DESCRIPTION Sticker 2.5 x 3.6 with Joker Face
+0 !FILENAME 4521703a.dat !DESCRIPTION Sticker 1.1 x 8 with "CARWASH" and Red/Green Stripes
+0 !FILENAME 4521703b.dat !DESCRIPTION Sticker 1.1 x 8 with "SERVICESTATION" and Red/Green Stripes
+0 !FILENAME 4521703c.dat !DESCRIPTION Sticker 2.4 x 3.4 Oval with Octan Logo/Text
+0 !FILENAME 4521703e.dat !DESCRIPTION Sticker 1.9 x 1.9 Round with Octan Logo/Text
+0 !FILENAME 4521703f.dat !DESCRIPTION Sticker
+0 !FILENAME 4521703g.dat !DESCRIPTION Sticker
+0 !FILENAME 4521703o.dat !DESCRIPTION Sticker 1.7 x 1.7 with Dark_Red "C"
+0 !FILENAME 4521703p.dat !DESCRIPTION Sticker 1.7 x 1.7 with Dark_Red "I"
+0 !FILENAME 4521703q.dat !DESCRIPTION Sticker 1.7 x 1.7 with Dark_Red "N"
+0 !FILENAME 4521703r.dat !DESCRIPTION Sticker 1.7 x 1.7 with Dark_Red "E"
+0 !FILENAME 4521703s.dat !DESCRIPTION Sticker 1.7 x 1.7 with Dark_Red "M"
+0 !FILENAME 4521703t.dat !DESCRIPTION Sticker 1.7 x 1.7 with Dark_Red "A"
+0 !FILENAME 4521703u.dat !DESCRIPTION Sticker 3.5 x 3.9 with "LEGO TOWN" Map
+0 !FILENAME 4542422a.dat !DESCRIPTION Sticker 1.8 x 1.8 Round with Roadsign "5
+0 !FILENAME 4542422b.dat !DESCRIPTION Sticker Roadsign Triangle with Traffic Light Pattern
+0 !FILENAME 4542422c.dat !DESCRIPTION Sticker 1.8 x 1.8 with Roadsign Minifig Crosswalk
+0 !FILENAME 4544045f.dat !DESCRIPTION Sticker 1.7 x 1.7 Round with Motor Pattern
+0 !FILENAME 4544258a.dat !DESCRIPTION Sticker
+0 !FILENAME 4544258b.dat !DESCRIPTION Sticker 1.8 x 1.8 with Porthole Rear Right
+0 !FILENAME 4544258c.dat !DESCRIPTION Sticker 1.8 x 1.8 with Porthole Front Right
+0 !FILENAME 4544258d.dat !DESCRIPTION Sticker 1.8 x 1.8 with Porthole Front Left
+0 !FILENAME 4544258e.dat !DESCRIPTION Sticker 1.8 x 1.8 with Porthole Rear Left
+0 !FILENAME 4544258fc01.dat !DESCRIPTION Sticker
+0 !FILENAME 4544258gc01.dat !DESCRIPTION Sticker
+0 !FILENAME 4544258h.dat !DESCRIPTION Sticker 1.1 x 3.9 with Gold "1
+0 !FILENAME 4544258i.dat !DESCRIPTION Sticker 1.1 x 3.9 with Gold "1
+0 !FILENAME 4544258j.dat !DESCRIPTION Sticker 1.1 x 3.9 with "L R"
+0 !FILENAME 4544258k.dat !DESCRIPTION Sticker 1.1 x 3.9 with "T S"
+0 !FILENAME 4544258l.dat !DESCRIPTION Sticker 1.8 x 1.8 with Four Rivets
+0 !FILENAME 4544258m.dat !DESCRIPTION Sticker
+0 !FILENAME 4544258n.dat !DESCRIPTION Sticker 1.1 x 1.8 with Gold "LRTS"
+0 !FILENAME 4544258o.dat !DESCRIPTION Sticker 1.1 x 1.8 with Gold "FIRST"
+0 !FILENAME 4550640a.dat !DESCRIPTION Sticker 2 x 2 Round with Radioactive Hazard Trefoil
+0 !FILENAME 4586822a.dat !DESCRIPTION Sticker
+0 !FILENAME 4613857a.dat !DESCRIPTION Sticker 1.6 x 1.6 Round Red/White/DkBlue Concentric Rings
+0 !FILENAME 4613857b.dat !DESCRIPTION Sticker Tail Left with White Eagle Head in Circle on DkRed
+0 !FILENAME 4613857c.dat !DESCRIPTION Sticker Tail Right with White Eagle Head in Circle on DkRed
+0 !FILENAME 4613857d.dat !DESCRIPTION Sticker
+0 !FILENAME 4613857e.dat !DESCRIPTION Sticker
+0 !FILENAME 4613857f.dat !DESCRIPTION Sticker 4.8 x 1.8 Horus Head and Hieroglyphs on Tan
+0 !FILENAME 4613857g.dat !DESCRIPTION Sticker 4.8 x 1.8 Tan with Hieroglyphs
+0 !FILENAME 4613905a.dat !DESCRIPTION Sticker
+0 !FILENAME 4613905b.dat !DESCRIPTION Sticker
+0 !FILENAME 4613905c.dat !DESCRIPTION Sticker 2.2 x 1.8 Tan with Hieroglyphs, 3 Snakes
+0 !FILENAME 4613905d.dat !DESCRIPTION Sticker 5.8 x 1.8 Tan with Hieroglyphs, Scarab/Eye on Top
+0 !FILENAME 4616559cc01.dat !DESCRIPTION Sticker 1.8 x 1.8 with Maersk Logo (Formed)
+0 !FILENAME 4616559e.dat !DESCRIPTION Sticker 3.8 x 4.4 with Maersk Logo
+0 !FILENAME 4616559ec01.dat !DESCRIPTION Sticker 3.8 x 4.4 with Maersk Logo (Formed)
+0 !FILENAME 4616559g.dat !DESCRIPTION Sticker 3.7 x 2.9 with Maersk Blue/White Diagonal Up Left
+0 !FILENAME 4616559h.dat !DESCRIPTION Sticker 3.7 x 2.9 with Maersk Blue/White Diagonal Up Right
+0 !FILENAME 4616559i.dat !DESCRIPTION Sticker 3.9 x 1.8 with Maersk Blue/White Diagonal Up Left
+0 !FILENAME 4616559j.dat !DESCRIPTION Sticker 3.9 x 1.8 with Maersk Blue/White Diagonal Up Right
+0 !FILENAME 4616559k.dat !DESCRIPTION Sticker
+0 !FILENAME 4616559m.dat !DESCRIPTION Sticker
+0 !FILENAME 4616559n.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303a.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303ac01.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303b.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303bc01.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303c.dat !DESCRIPTION Sticker 1.5 x 4.5 Red/White Diagonal Stripes Right Up
+0 !FILENAME 4622303d.dat !DESCRIPTION Sticker 1.5 x 4.5 Red/White Diagonal Stripes Left Up
+0 !FILENAME 4622303e.dat !DESCRIPTION Sticker 1.63 x 1.25 Red/White Diagonal Stripes Right Up
+0 !FILENAME 4622303f.dat !DESCRIPTION Sticker 1.63 x 1.25 Red/White Diagonal Stripes Left Up
+0 !FILENAME 4622303g.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303h.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303i.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303j.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303k.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303l.dat !DESCRIPTION Sticker 1.75 x 1.75 Mercedes-Benz Logo on Orange
+0 !FILENAME 4622303m.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303n.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303o.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303p.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303q.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303r.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303s.dat !DESCRIPTION Sticker
+0 !FILENAME 4622303t.dat !DESCRIPTION Sticker
+0 !FILENAME 4629677a.dat !DESCRIPTION Sticker 2.8 x 3.8 with Golden Post Horn
+0 !FILENAME 4629677c.dat !DESCRIPTION Sticker 1.8 x
+0 !FILENAME 4629677d.dat !DESCRIPTION Sticker
+0 !FILENAME 4629677e.dat !DESCRIPTION Sticker 1.9 x 1.9 with Stamps and Price List
+0 !FILENAME 4629677f.dat !DESCRIPTION Sticker 1.9 Round with Five-String Banjo
+0 !FILENAME 47261a.dat !DESCRIPTION Sticker 2.9 x 2.9 Round with Axlehole Black and White
+0 !FILENAME 59718a.dat !DESCRIPTION Sticker
+0 !FILENAME 59718b.dat !DESCRIPTION Sticker
+0 !FILENAME 59718c.dat !DESCRIPTION Sticker 2.5 x 2.5 with Round Green Arrows
+0 !FILENAME 59718d.dat !DESCRIPTION Sticker
+0 !FILENAME 59826a.dat !DESCRIPTION Sticker 3 x 9.4 with Blue and White Diagonal Stripes
+0 !FILENAME 59826ac01.dat !DESCRIPTION Sticker 3 x 9.4 with Blue and White Diagonal Stripes (Formed)
+0 !FILENAME 59826d.dat !DESCRIPTION Sticker 1 x 3.8 with Cement Mixer and Blue Stripes
+0 !FILENAME 59826e.dat !DESCRIPTION Sticker 1 x 3.8 with "HA 799
+0 !FILENAME 59826f.dat !DESCRIPTION Sticker
+0 !FILENAME 59826h.dat !DESCRIPTION Sticker 1 x 3.8 with "HA 799
+0 !FILENAME 820675a.dat !DESCRIPTION Sticker 1.8 x 1.2 with Yellow Outline "5"
+0 !FILENAME 820785a.dat !DESCRIPTION Sticker 4.8 x 6 with Crossed Cannons Blue Crossed Flag Left
+0 !FILENAME 820785b.dat !DESCRIPTION Sticker 4.8 x 6 with Crossed Cannons Blue Crossed Flag Right
+0 !FILENAME 821410a.dat !DESCRIPTION Sticker 3.5 x 3.5 with White/Clear Stripes Pattern
+0 !FILENAME 821410b.dat !DESCRIPTION Sticker 1.6 x 3.5 with White/Clear Stripes
+0 !FILENAME 821410c.dat !DESCRIPTION Sticker
+0 !FILENAME 821410d.dat !DESCRIPTION Sticker with Black "POLICE" and Red Line Large
+0 !FILENAME 86037a.dat !DESCRIPTION Sticker 17.5 x 77.5 with "MK 8265" Banner Side A
+0 !FILENAME 86037b.dat !DESCRIPTION Sticker 17.5 x 77.5 with "MK 8265" Banner Side B
+0 !FILENAME s10.dat !DESCRIPTION Sticker 2 x 2 Round with Lifepreserver Pattern
+0 !FILENAME s11.dat !DESCRIPTION Sticker 1 x 6 with Thin Black "POLICE" Pattern
+0 !FILENAME s12a.dat !DESCRIPTION Sticker 1.9 x 1.9 Round with Hot Heat Sensitive UFO Drawing
+0 !FILENAME s12b.dat !DESCRIPTION Sticker 1.9 x 1.9 Round with Warm Heat Sensitive UFO Drawing
+0 !FILENAME s12c.dat !DESCRIPTION Sticker 1.9 x 1.9 Round with Cold Heat Sensitive UFO Drawing
+0 !FILENAME s12d.dat !DESCRIPTION Sticker 1.9 x 1.9 Round with V.Cold Heat Sensitive UFO Drawing
+0 !FILENAME s7.dat !DESCRIPTION Sticker 1 x 4 with Yellow/Black Chevrons Pattern
+0 !FILENAME s8.dat !DESCRIPTION Sticker
+0 !FILENAME s9.dat !DESCRIPTION Sticker Technic Blue Snowflake

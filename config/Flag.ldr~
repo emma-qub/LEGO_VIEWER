@@ -1,0 +1,140 @@
+0 !FILENAME 2335.dat !DESCRIPTION Flag 2 x 2
+0 !FILENAME 2335p01.dat !DESCRIPTION Flag 2 x 2 with Diver Pattern
+0 !FILENAME 2335p02.dat !DESCRIPTION Flag 2 x 2 with Diver Stripe Pattern
+0 !FILENAME 2335p03.dat !DESCRIPTION Flag 2 x 2 with Chequered Pattern
+0 !FILENAME 2335p04.dat !DESCRIPTION Flag 2 x 2 with Blue Imperial Guard Pattern
+0 !FILENAME 2335p30.dat !DESCRIPTION Flag 2 x 2 with Jolly Roger Pattern
+0 !FILENAME 2335p40.dat !DESCRIPTION Flag 2 x 2 with Goblets and Grapes Pattern
+0 !FILENAME 2335p43.dat !DESCRIPTION Flag 2 x 2 with Black Falcon Pattern
+0 !FILENAME 2335p44.dat !DESCRIPTION Flag 2 x 2 with Wolfman Pattern
+0 !FILENAME 2335p45.dat !DESCRIPTION Flag 2 x 2 Square with Lion Gold on Blue Shield Pattern
+0 !FILENAME 2335p4l.dat !DESCRIPTION Flag 2 x 2 with Gold Lion on Red/White Quarters Pattern
+0 !FILENAME 2335ps1.dat !DESCRIPTION Flag 2 x 2 with SW Pod Racer Circuitry Pattern
+0 !FILENAME 2335ps2.dat !DESCRIPTION Flag 2 x 2 with SW Mini AT-ST Pattern
+0 !FILENAME 2335pw1.dat !DESCRIPTION Flag 2 x 2 with Cavalry Logo Pattern
+0 !FILENAME 2525.dat !DESCRIPTION Flag 6 x 4
+0 !FILENAME 2525p31.dat !DESCRIPTION Flag 6 x 4 with Jolly Roger Pattern
+0 !FILENAME 2525p32.dat !DESCRIPTION Flag 6 x 4 with Crossed Cannons over Blue Crossed Flag Pattern
+0 !FILENAME 2525ps1.dat !DESCRIPTION Flag 6 x 4 with SW Jedi Starfighter Pattern
+0 !FILENAME 30292.dat !DESCRIPTION Flag 7 x 3 with Rod
+0 !FILENAME 3596.dat !DESCRIPTION Flag on Flagpole Type 5
+0 !FILENAME 3596p01.dat !DESCRIPTION Flag on Flagpole with Stripes Pattern
+0 !FILENAME 3596p04.dat !DESCRIPTION Flag on Flagpole Type 5 with Tri-Coloured Shield Pattern
+0 !FILENAME 44676.dat !DESCRIPTION Flag 2 x 2 Trapezoid
+0 !FILENAME 4495a.dat !DESCRIPTION Flag 4 x 1 with First Wave Left
+0 !FILENAME 4495b.dat !DESCRIPTION Flag 4 x 1 with First Wave Right
+0 !FILENAME 51000.dat !DESCRIPTION Flag 5 x 6 Hexagonal
+0 !FILENAME 776.dat !DESCRIPTION Flag on Flagpole Type 1
+0 !FILENAME 776p01.dat !DESCRIPTION Flag on Flagpole Type 1 with Germany Pattern
+0 !FILENAME 776p02.dat !DESCRIPTION Flag on Flagpole Type 1 with Sweden Pattern
+0 !FILENAME 776p03.dat !DESCRIPTION Flag on Flagpole Type 1 with Denmark Pattern
+0 !FILENAME 776p04.dat !DESCRIPTION Flag on Flagpole Type 1 with Finland Pattern
+0 !FILENAME 776p05.dat !DESCRIPTION Flag on Flagpole Type 1 with Norway Pattern
+0 !FILENAME 776p06.dat !DESCRIPTION Flag on Flagpole Type 1 with Austria Pattern
+0 !FILENAME 776p07.dat !DESCRIPTION Flag on Flagpole Type 1 with The Netherlands Pattern
+0 !FILENAME 776p08.dat !DESCRIPTION Flag on Flagpole Type 1 with Italy Pattern
+0 !FILENAME 776p09.dat !DESCRIPTION Flag on Flagpole Type 1 with Belgium Pattern
+0 !FILENAME 776p10.dat !DESCRIPTION Flag on Flagpole Type 1 with France Pattern
+0 !FILENAME 776p11.dat !DESCRIPTION Flag on Flagpole Type 1 with United Kingdom Pattern
+0 !FILENAME 776p12.dat !DESCRIPTION Flag on Flagpole Type 1 with Portugal Pattern
+0 !FILENAME 776p13.dat !DESCRIPTION Flag on Flagpole Type 1 with Switzerland Pattern
+0 !FILENAME 776p14.dat !DESCRIPTION Flag on Flagpole Type 1 with Iceland Pattern
+0 !FILENAME 776p15.dat !DESCRIPTION Flag on Flagpole Type 1 with United States Pattern
+0 !FILENAME 776pt0.dat !DESCRIPTION Flag on Flagpole Type 1 with Oval Lego Logo w/ Open "O" Pattern
+0 !FILENAME 777.dat !DESCRIPTION Flag on Flagpole Type 2
+0 !FILENAME 777p01.dat !DESCRIPTION Flag on Flagpole Type 2 with Germany Pattern
+0 !FILENAME 777p02.dat !DESCRIPTION Flag on Flagpole Type 2 with Sweden Pattern
+0 !FILENAME 777p03.dat !DESCRIPTION Flag on Flagpole Type 2 with Denmark Pattern
+0 !FILENAME 777p04.dat !DESCRIPTION Flag on Flagpole Type 2 with Finland Pattern
+0 !FILENAME 777p05.dat !DESCRIPTION Flag on Flagpole Type 2 with Norway Pattern
+0 !FILENAME 777p06.dat !DESCRIPTION Flag on Flagpole Type 2 with Austria Pattern
+0 !FILENAME 777p07.dat !DESCRIPTION Flag on Flagpole Type 2 with The Netherlands Pattern
+0 !FILENAME 777p08.dat !DESCRIPTION Flag on Flagpole Type 2 with Italy Pattern
+0 !FILENAME 777p09.dat !DESCRIPTION Flag on Flagpole Type 2 with Belgium Pattern
+0 !FILENAME 777p10.dat !DESCRIPTION Flag on Flagpole Type 2 with France Pattern
+0 !FILENAME 777p11.dat !DESCRIPTION Flag on Flagpole Type 2 with United Kingdom Pattern
+0 !FILENAME 777p12.dat !DESCRIPTION Flag on Flagpole Type 2 with Portugal Pattern
+0 !FILENAME 777p13.dat !DESCRIPTION Flag on Flagpole Type 2 with Switzerland Pattern
+0 !FILENAME 777p14.dat !DESCRIPTION Flag on Flagpole Type 2 with Iceland Pattern
+0 !FILENAME 777p15.dat !DESCRIPTION Flag on Flagpole Type 2 with United States Pattern
+0 !FILENAME 777p16.dat !DESCRIPTION Flag on Flagpole Type 2 with Faroe Islands Pattern
+0 !FILENAME 777pt0.dat !DESCRIPTION Flag on Flagpole Type 2 with Oval Lego Logo w/ Open "O" Pattern
+0 !FILENAME 783.dat !DESCRIPTION Flag on Flagpole Type 3
+0 !FILENAME 783p03.dat !DESCRIPTION Flag on Flagpole Type 3 with Denmark Pattern
+0 !FILENAME 783p11.dat !DESCRIPTION Flag on Flagpole Type 3 with United Kingdom Pattern
+0 !FILENAME 783p13.dat !DESCRIPTION Flag on Flagpole Type 3 with Switzerland Pattern
+0 !FILENAME 783p16.dat !DESCRIPTION Flag on Flagpole Type 3 with Australia Pattern
+0 !FILENAME 783pt0.dat !DESCRIPTION Flag on Flagpole Type 3 with Oval Lego Logo w/ Open "O" Pattern
+0 !FILENAME 786.dat !DESCRIPTION Flag on Flagpole Type 4
+0 !FILENAME 786p01.dat !DESCRIPTION Flag on Flagpole Type 4 with Germany Pattern
+0 !FILENAME 786p17.dat !DESCRIPTION Flag on Flagpole Type 4 with Canada Pattern
+0 !FILENAME 2335.dat !DESCRIPTION Flag 2 x 2
+0 !FILENAME 2335p01.dat !DESCRIPTION Flag 2 x 2 with Diver Pattern
+0 !FILENAME 2335p02.dat !DESCRIPTION Flag 2 x 2 with Diver Stripe Pattern
+0 !FILENAME 2335p03.dat !DESCRIPTION Flag 2 x 2 with Chequered Pattern
+0 !FILENAME 2335p04.dat !DESCRIPTION Flag 2 x 2 with Blue Imperial Guard Pattern
+0 !FILENAME 2335p30.dat !DESCRIPTION Flag 2 x 2 with Jolly Roger Pattern
+0 !FILENAME 2335p40.dat !DESCRIPTION Flag 2 x 2 with Goblets and Grapes Pattern
+0 !FILENAME 2335p43.dat !DESCRIPTION Flag 2 x 2 with Black Falcon Pattern
+0 !FILENAME 2335p44.dat !DESCRIPTION Flag 2 x 2 with Wolfman Pattern
+0 !FILENAME 2335p45.dat !DESCRIPTION Flag 2 x 2 Square with Lion Gold on Blue Shield Pattern
+0 !FILENAME 2335p4l.dat !DESCRIPTION Flag 2 x 2 with Gold Lion on Red/White Quarters Pattern
+0 !FILENAME 2335ps1.dat !DESCRIPTION Flag 2 x 2 with SW Pod Racer Circuitry Pattern
+0 !FILENAME 2335ps2.dat !DESCRIPTION Flag 2 x 2 with SW Mini AT-ST Pattern
+0 !FILENAME 2335pw1.dat !DESCRIPTION Flag 2 x 2 with Cavalry Logo Pattern
+0 !FILENAME 2525.dat !DESCRIPTION Flag 6 x 4
+0 !FILENAME 2525p31.dat !DESCRIPTION Flag 6 x 4 with Jolly Roger Pattern
+0 !FILENAME 2525p32.dat !DESCRIPTION Flag 6 x 4 with Crossed Cannons over Blue Crossed Flag Pattern
+0 !FILENAME 2525ps1.dat !DESCRIPTION Flag 6 x 4 with SW Jedi Starfighter Pattern
+0 !FILENAME 30292.dat !DESCRIPTION Flag 7 x 3 with Rod
+0 !FILENAME 3596.dat !DESCRIPTION Flag on Flagpole Type 5
+0 !FILENAME 3596p01.dat !DESCRIPTION Flag on Flagpole with Stripes Pattern
+0 !FILENAME 3596p04.dat !DESCRIPTION Flag on Flagpole Type 5 with Tri-Coloured Shield Pattern
+0 !FILENAME 44676.dat !DESCRIPTION Flag 2 x 2 Trapezoid
+0 !FILENAME 4495a.dat !DESCRIPTION Flag 4 x 1 with First Wave Left
+0 !FILENAME 4495b.dat !DESCRIPTION Flag 4 x 1 with First Wave Right
+0 !FILENAME 51000.dat !DESCRIPTION Flag 5 x 6 Hexagonal
+0 !FILENAME 776.dat !DESCRIPTION Flag on Flagpole Type 1
+0 !FILENAME 776p01.dat !DESCRIPTION Flag on Flagpole Type 1 with Germany Pattern
+0 !FILENAME 776p02.dat !DESCRIPTION Flag on Flagpole Type 1 with Sweden Pattern
+0 !FILENAME 776p03.dat !DESCRIPTION Flag on Flagpole Type 1 with Denmark Pattern
+0 !FILENAME 776p04.dat !DESCRIPTION Flag on Flagpole Type 1 with Finland Pattern
+0 !FILENAME 776p05.dat !DESCRIPTION Flag on Flagpole Type 1 with Norway Pattern
+0 !FILENAME 776p06.dat !DESCRIPTION Flag on Flagpole Type 1 with Austria Pattern
+0 !FILENAME 776p07.dat !DESCRIPTION Flag on Flagpole Type 1 with The Netherlands Pattern
+0 !FILENAME 776p08.dat !DESCRIPTION Flag on Flagpole Type 1 with Italy Pattern
+0 !FILENAME 776p09.dat !DESCRIPTION Flag on Flagpole Type 1 with Belgium Pattern
+0 !FILENAME 776p10.dat !DESCRIPTION Flag on Flagpole Type 1 with France Pattern
+0 !FILENAME 776p11.dat !DESCRIPTION Flag on Flagpole Type 1 with United Kingdom Pattern
+0 !FILENAME 776p12.dat !DESCRIPTION Flag on Flagpole Type 1 with Portugal Pattern
+0 !FILENAME 776p13.dat !DESCRIPTION Flag on Flagpole Type 1 with Switzerland Pattern
+0 !FILENAME 776p14.dat !DESCRIPTION Flag on Flagpole Type 1 with Iceland Pattern
+0 !FILENAME 776p15.dat !DESCRIPTION Flag on Flagpole Type 1 with United States Pattern
+0 !FILENAME 776pt0.dat !DESCRIPTION Flag on Flagpole Type 1 with Oval Lego Logo w/ Open "O" Pattern
+0 !FILENAME 777.dat !DESCRIPTION Flag on Flagpole Type 2
+0 !FILENAME 777p01.dat !DESCRIPTION Flag on Flagpole Type 2 with Germany Pattern
+0 !FILENAME 777p02.dat !DESCRIPTION Flag on Flagpole Type 2 with Sweden Pattern
+0 !FILENAME 777p03.dat !DESCRIPTION Flag on Flagpole Type 2 with Denmark Pattern
+0 !FILENAME 777p04.dat !DESCRIPTION Flag on Flagpole Type 2 with Finland Pattern
+0 !FILENAME 777p05.dat !DESCRIPTION Flag on Flagpole Type 2 with Norway Pattern
+0 !FILENAME 777p06.dat !DESCRIPTION Flag on Flagpole Type 2 with Austria Pattern
+0 !FILENAME 777p07.dat !DESCRIPTION Flag on Flagpole Type 2 with The Netherlands Pattern
+0 !FILENAME 777p08.dat !DESCRIPTION Flag on Flagpole Type 2 with Italy Pattern
+0 !FILENAME 777p09.dat !DESCRIPTION Flag on Flagpole Type 2 with Belgium Pattern
+0 !FILENAME 777p10.dat !DESCRIPTION Flag on Flagpole Type 2 with France Pattern
+0 !FILENAME 777p11.dat !DESCRIPTION Flag on Flagpole Type 2 with United Kingdom Pattern
+0 !FILENAME 777p12.dat !DESCRIPTION Flag on Flagpole Type 2 with Portugal Pattern
+0 !FILENAME 777p13.dat !DESCRIPTION Flag on Flagpole Type 2 with Switzerland Pattern
+0 !FILENAME 777p14.dat !DESCRIPTION Flag on Flagpole Type 2 with Iceland Pattern
+0 !FILENAME 777p15.dat !DESCRIPTION Flag on Flagpole Type 2 with United States Pattern
+0 !FILENAME 777p16.dat !DESCRIPTION Flag on Flagpole Type 2 with Faroe Islands Pattern
+0 !FILENAME 777pt0.dat !DESCRIPTION Flag on Flagpole Type 2 with Oval Lego Logo w/ Open "O" Pattern
+0 !FILENAME 783.dat !DESCRIPTION Flag on Flagpole Type 3
+0 !FILENAME 783p03.dat !DESCRIPTION Flag on Flagpole Type 3 with Denmark Pattern
+0 !FILENAME 783p11.dat !DESCRIPTION Flag on Flagpole Type 3 with United Kingdom Pattern
+0 !FILENAME 783p13.dat !DESCRIPTION Flag on Flagpole Type 3 with Switzerland Pattern
+0 !FILENAME 783p16.dat !DESCRIPTION Flag on Flagpole Type 3 with Australia Pattern
+0 !FILENAME 783pt0.dat !DESCRIPTION Flag on Flagpole Type 3 with Oval Lego Logo w/ Open "O" Pattern
+0 !FILENAME 786.dat !DESCRIPTION Flag on Flagpole Type 4
+0 !FILENAME 786p01.dat !DESCRIPTION Flag on Flagpole Type 4 with Germany Pattern
+0 !FILENAME 786p17.dat !DESCRIPTION Flag on Flagpole Type 4 with Canada Pattern

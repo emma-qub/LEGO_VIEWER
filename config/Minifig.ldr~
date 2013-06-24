@@ -1,0 +1,972 @@
+0 !FILENAME 15.dat !DESCRIPTION Minifig Legs Old
+0 !FILENAME 17.dat !DESCRIPTION Minifig Torso with Integral Arms
+0 !FILENAME 2531.dat !DESCRIPTION Minifig Hand Hook
+0 !FILENAME 2532.dat !DESCRIPTION Minifig Leg Wooden
+0 !FILENAME 2533.dat !DESCRIPTION ~Minifig Cannon Shooting Barrel
+0 !FILENAME 2534.dat !DESCRIPTION ~Minifig Cannon Shooting Plunger
+0 !FILENAME 2535.dat !DESCRIPTION ~Minifig Cannon Shooting Breech
+0 !FILENAME 286.dat !DESCRIPTION ~Minifig Suitcase Joiner Tab
+0 !FILENAME 287.dat !DESCRIPTION ~Minifig Suitcase Male Half
+0 !FILENAME 288.dat !DESCRIPTION ~Minifig Suitcase Female Half
+0 !FILENAME 30152.dat !DESCRIPTION Minifig Tool Magnifying Glass
+0 !FILENAME 30362.dat !DESCRIPTION Minifig Robot Leg
+0 !FILENAME 30375.dat !DESCRIPTION Minifig Mechanical Torso
+0 !FILENAME 30375ps1.dat !DESCRIPTION Minifig Mechanical Torso with Orange Insignia Pattern
+0 !FILENAME 30375ps2.dat !DESCRIPTION Minifig Mechanical Torso with Tan Insignia Pattern
+0 !FILENAME 30375ps3.dat !DESCRIPTION Minifig Mechanical Torso with Blue Insignia Pattern
+0 !FILENAME 30376.dat !DESCRIPTION Minifig Mechanical Legs
+0 !FILENAME 30377.dat !DESCRIPTION Minifig Mechanical Arm
+0 !FILENAME 30378.dat !DESCRIPTION Minifig Mechanical Head SW Battle Droid
+0 !FILENAME 30378ps1.dat !DESCRIPTION Minifig Mechanical Head with Orange Insignia Pattern
+0 !FILENAME 30378ps2.dat !DESCRIPTION Minifig Mechanical Head with Rust Insignia Pattern
+0 !FILENAME 30480.dat !DESCRIPTION Minifig Head Protocol Droid
+0 !FILENAME 30529.dat !DESCRIPTION Minifig Martian Head with Clip
+0 !FILENAME 30529p01.dat !DESCRIPTION Minifig Martian Head with Clip with Eyes Plain Pattern
+0 !FILENAME 30529p02.dat !DESCRIPTION Minifig Martian Head with Clip with Eyelashes Pattern
+0 !FILENAME 30530.dat !DESCRIPTION Minifig Martian Legs
+0 !FILENAME 3626a.dat !DESCRIPTION Minifig Head with Solid Stud
+0 !FILENAME 3626ap01.dat !DESCRIPTION Minifig Head with Stud Solid with Standard Grin Pattern
+0 !FILENAME 3626b.dat !DESCRIPTION Minifig Head with Hollow Stud
+0 !FILENAME 3626bp01.dat !DESCRIPTION Minifig Head with Standard Grin Pattern
+0 !FILENAME 3626bp02.dat !DESCRIPTION Minifig Head with Standard Woman Pattern
+0 !FILENAME 3626bp03.dat !DESCRIPTION Minifig Head with Standard Grin and Pointed Moustache Pattern
+0 !FILENAME 3626bp04.dat !DESCRIPTION Minifig Head with Standard Grin and Sunglasses Pattern
+0 !FILENAME 3626bp05.dat !DESCRIPTION Minifig Head with Standard Grin and Eyebrows Pattern
+0 !FILENAME 3626bp06.dat !DESCRIPTION Minifig Head with Standard Grin, Eyebrows and Microphone Pattern
+0 !FILENAME 3626bp07.dat !DESCRIPTION Minifig Head with Freckle Nose and Standard Grin Pattern
+0 !FILENAME 3626bp08.dat !DESCRIPTION Minifig Head Female with Red Lips Small Eyebrows Pattern
+0 !FILENAME 3626bp30.dat !DESCRIPTION Minifig Head with Messy Hair and Moustache Pattern
+0 !FILENAME 3626bp31.dat !DESCRIPTION Minifig Head with Messy Hair and Eye Patch Pattern
+0 !FILENAME 3626bp32.dat !DESCRIPTION Minifig Head with Messy Hair, Moustache, and Eye Patch Pattern
+0 !FILENAME 3626bp33.dat !DESCRIPTION Minifig Head with Messy Hair, Moustache, and Beard Pattern
+0 !FILENAME 3626bp34.dat !DESCRIPTION Minifig Head with Messy Hair, Beard and Eye Patch Pattern
+0 !FILENAME 3626bp35.dat !DESCRIPTION Minifig Head with Messy Hair, Moustache and Stubble Pattern
+0 !FILENAME 3626bp39.dat !DESCRIPTION Minifig Head with Dark Grey Facial Hair Pattern
+0 !FILENAME 3626bp3e.dat !DESCRIPTION Minifig Head with Wiry Moustache, Goatee and Eyebrows Pattern
+0 !FILENAME 3626bp3j.dat !DESCRIPTION Minifig Head with Islander White/Red Painted Face Pattern
+0 !FILENAME 3626bp3k.dat !DESCRIPTION Minifig Head with Islander White/Blue Painted Face Pattern
+0 !FILENAME 3626bp3n.dat !DESCRIPTION Minifig Head with Sideburns and Droopy Moustache Black Pattern
+0 !FILENAME 3626bp3q.dat !DESCRIPTION Minifig Head with Sideburns and Droopy Moustache Brown Pattern
+0 !FILENAME 3626bp40.dat !DESCRIPTION Minifig Head with Messy Hair Female Pattern
+0 !FILENAME 3626bp61.dat !DESCRIPTION Minifig Head with Ice Planet Moustache and Eyebrows Pattern
+0 !FILENAME 3626bp62.dat !DESCRIPTION Minifig Head with Ice Planet Messy White Hair
+0 !FILENAME 3626bp63.dat !DESCRIPTION Minifig Head with Silver Robot Pattern
+0 !FILENAME 3626bp64.dat !DESCRIPTION Minifig Head with Gold Robot Pattern
+0 !FILENAME 3626bp65.dat !DESCRIPTION Minifig Head with Ice Planet Female Red Hair Pattern
+0 !FILENAME 3626bp69.dat !DESCRIPTION Minifig Head with Headset Over Brown Hair & Eyebrows Pattern
+0 !FILENAME 3626bp6f.dat !DESCRIPTION Minifig Head with Red Lips and Black Upswept Eyelashes Pattern
+0 !FILENAME 3626bp6u.dat !DESCRIPTION Minifig Head with Gold Paint and Slanted Eyes Pattern
+0 !FILENAME 3626bp6v.dat !DESCRIPTION Minifig Head with Large Blue Mask Pattern
+0 !FILENAME 3626bp6w.dat !DESCRIPTION Minifig Head with Small Blue Mask Pattern
+0 !FILENAME 3626bp6x.dat !DESCRIPTION Minifig Head with Silver Mask and Mouth Grille Pattern
+0 !FILENAME 3626bp6y.dat !DESCRIPTION Minifig Head with Green Brain and Yellow Mouth Pattern
+0 !FILENAME 3626bp7a.dat !DESCRIPTION Minifig Head with Brown Hair over Eye and Black Eyebrows Pattern
+0 !FILENAME 3626bp7b.dat !DESCRIPTION Minifig Head with Blue Sunglasses Pattern
+0 !FILENAME 3626bp7c.dat !DESCRIPTION Minifig Head with Blue Wrap-Around Sunglasses Pattern
+0 !FILENAME 3626bp80.dat !DESCRIPTION Minifig Head with Orange Beard and White Smile Pattern
+0 !FILENAME 3626bp81.dat !DESCRIPTION Minifig Head Lefty Mouth and Stubble Pattern
+0 !FILENAME 3626bp82.dat !DESCRIPTION Minifig Head with Smirk, Black Hair and Goatee Pattern
+0 !FILENAME 3626bp83.dat !DESCRIPTION Minifig Head with Brown Eyebrows, Smirking Face, Pupils Pattern
+0 !FILENAME 3626bp84.dat !DESCRIPTION Minifig Head with Smile, Black Eyebrows and White Pupils Pattern
+0 !FILENAME 3626bp85.dat !DESCRIPTION Minifig Head with Smile, Brown Eyebrows and White Pupils Pattern
+0 !FILENAME 3626bp86.dat !DESCRIPTION Minifig Head with Smile and Gold Tooth Pattern
+0 !FILENAME 3626bpa1.dat !DESCRIPTION Minifig Head with Glasses and White Muttonchops Pattern
+0 !FILENAME 3626bpa2.dat !DESCRIPTION Minifig Head with Adventurers Mummy Pattern
+0 !FILENAME 3626bpa3.dat !DESCRIPTION Minifig Head with Smirk & Black Moustache Pattern
+0 !FILENAME 3626bpa4.dat !DESCRIPTION Minifig Head with Villian Black Facial Hair Pattern
+0 !FILENAME 3626bpa5.dat !DESCRIPTION Minifig Head with Stubble, Moustache and Smirk Pattern
+0 !FILENAME 3626bpa6.dat !DESCRIPTION Minifig Head with Brown Hair, Eyelashes, and Lipstick Pattern
+0 !FILENAME 3626bpa7.dat !DESCRIPTION Minifig Head with Monocle, Scar, and Moustache Pattern
+0 !FILENAME 3626bpa8.dat !DESCRIPTION Minifig Head with Evil Skeleton Skull Pattern
+0 !FILENAME 3626bpa9.dat !DESCRIPTION Minifig Head with Villainous Glasses & Black Facial Hair Pattern
+0 !FILENAME 3626bpac.dat !DESCRIPTION Minifig Head with Tribal Paint and Frown Pattern
+0 !FILENAME 3626bpao.dat !DESCRIPTION Minifig Head w/ Big Eyes, Curved Eyebrows, Orange Mouth Pattern
+0 !FILENAME 3626bpb1.dat !DESCRIPTION Minifig Head with Pursed Lips and White Forehead Pattern
+0 !FILENAME 3626bpb2.dat !DESCRIPTION Minifig Head with Mask Br.Green with Eyeholes and Smile Pattern
+0 !FILENAME 3626bpb5.dat !DESCRIPTION Minifig Head with Green Lips and Red Eyebrows Pattern
+0 !FILENAME 3626bpb6.dat !DESCRIPTION Minifig Head with Mask Purple with Eyeholes and Smile Pattern
+0 !FILENAME 3626bpb7.dat !DESCRIPTION Minifig Head with Monocle and Black Slanted Eyebrows Pattern
+0 !FILENAME 3626bph1.dat !DESCRIPTION Minifig Head with Eyeglasses and Lightning Scar Pattern
+0 !FILENAME 3626bph2.dat !DESCRIPTION Minifig Head with Tan Eyebrows and Frown Pattern
+0 !FILENAME 3626bph3.dat !DESCRIPTION Minifig Head with Ron Weasley Pattern
+0 !FILENAME 3626bph4.dat !DESCRIPTION Minifig Head with Gregory Goyle/Harry Potter Pattern
+0 !FILENAME 3626bph5.dat !DESCRIPTION Minifig Head with Vincent Crabbe/Ron Weasley Pattern
+0 !FILENAME 3626bpha.dat !DESCRIPTION Minifig Head with Half-Moon Glasses and Grey Eyebrows Pattern
+0 !FILENAME 3626bphb.dat !DESCRIPTION Minifig Head with Severus Snape Pattern
+0 !FILENAME 3626bpn1.dat !DESCRIPTION Minifig Head with White Hair, Eyebrows, and Moustache Pattern
+0 !FILENAME 3626bpq0.dat !DESCRIPTION Minifig Head Mummy Face 2-Sided with 2 Eyes / 1 Eye Pattern
+0 !FILENAME 3626bpq1.dat !DESCRIPTION Minifig Head Mummy Face 2-Sided with 2 Eyes / Gold Death Mask
+0 !FILENAME 3626bps0.dat !DESCRIPTION Minifig Head with SW Red Lips, Black Eyes, Thin Eyebrows Pattern
+0 !FILENAME 3626bps2.dat !DESCRIPTION Minifig Head with SW Brown Eyebrows Pattern
+0 !FILENAME 3626bps3.dat !DESCRIPTION Minifig Head with SW Small Black Eyebrows Pattern
+0 !FILENAME 3626bps4.dat !DESCRIPTION Minifig Head with SW Grey Beard and Eyebrows Pattern
+0 !FILENAME 3626bps5.dat !DESCRIPTION Minifig Head with SW Smirk and Brown Eyebrows Pattern
+0 !FILENAME 3626bps7.dat !DESCRIPTION Minifig Head with SW Black Eyebrows and Scars Pattern
+0 !FILENAME 3626bps8.dat !DESCRIPTION Minifig Head with SW Darth Maul Pattern
+0 !FILENAME 3626bps9.dat !DESCRIPTION Minifig Head with SW Brown Eyebrows and Beard Pattern
+0 !FILENAME 3626bpsb.dat !DESCRIPTION Minifig Head with SW Alien with Large Black Eyes Pattern
+0 !FILENAME 3626bpsc.dat !DESCRIPTION Minifig Head with SW Grey Eyebrows & Implant Pattern
+0 !FILENAME 3626bpsd.dat !DESCRIPTION Minifig Head with SW Freckles and Thin Brown Eyebrows Pattern
+0 !FILENAME 3626bpse.dat !DESCRIPTION Minifig Head with SW Scout Trooper Black Visor Pattern
+0 !FILENAME 3626bpst.dat !DESCRIPTION Minifig Head with SW Tusken Raider Pattern
+0 !FILENAME 3626c.dat !DESCRIPTION Minifig Head with Closed Hollow Stud
+0 !FILENAME 3626cpm1.dat !DESCRIPTION Minifig Head with LOTR Thick Gray Eyebrows and Smile Pattern
+0 !FILENAME 3626cpm2.dat !DESCRIPTION Minifig Head with LOTR Brown Eyebrows Worried/Smile Pattern
+0 !FILENAME 3815.dat !DESCRIPTION Minifig Hips
+0 !FILENAME 3815p4f.dat !DESCRIPTION Minifig Hips with Leather Belt (Red Studs) Pattern
+0 !FILENAME 3815p63.dat !DESCRIPTION Minifig Hips with Robot Pattern
+0 !FILENAME 3815p6u.dat !DESCRIPTION Minifig Hips with Gold Belt and Orange Cable Pattern
+0 !FILENAME 3815p6v.dat !DESCRIPTION Minifig Hips with Silver Belt and Salmon Cable Pattern
+0 !FILENAME 3815p6w.dat !DESCRIPTION Minifig Hips with Silver Belt Pattern
+0 !FILENAME 3815pa9.dat !DESCRIPTION Minifig Hips with Holster and Belt Pattern
+0 !FILENAME 3815pc67.dat !DESCRIPTION Minifig Hips with Clockwork Robot Pattern
+0 !FILENAME 3815pde.dat !DESCRIPTION Minifig Hips with Laboratory Smock Pattern
+0 !FILENAME 3815phb.dat !DESCRIPTION Minifig Hips with Purple Greatcoat Pattern
+0 !FILENAME 3815pm0.dat !DESCRIPTION Minifig Hips with LOTR Leather Armor Pattern
+0 !FILENAME 3815pq0.dat !DESCRIPTION Minifig Hips with Gold Belt and DarkBlue Loincloth Pattern
+0 !FILENAME 3815pq1.dat !DESCRIPTION Minifig Hips with Gold X-Belt and Decorated Loincloth Pattern
+0 !FILENAME 3815pq2.dat !DESCRIPTION Minifig Hips with Gold O-Belt and Loincloth Pattern
+0 !FILENAME 3815ps5.dat !DESCRIPTION Minifig Hips with SW Gunbelt Pattern
+0 !FILENAME 3816.dat !DESCRIPTION Minifig Leg Right
+0 !FILENAME 3816p3j.dat !DESCRIPTION Minifig Leg Right with Grass Skirt Pattern
+0 !FILENAME 3816p4f.dat !DESCRIPTION Minifig Leg Right with Leather Straps (Red Studs) Pattern
+0 !FILENAME 3816p63.dat !DESCRIPTION Minifig Leg Right with Robot Pattern
+0 !FILENAME 3816p6f.dat !DESCRIPTION Minifig Leg Right with Astro Pattern
+0 !FILENAME 3816p6u.dat !DESCRIPTION Minifig Leg Right with Orange Cable Pattern
+0 !FILENAME 3816p6v.dat !DESCRIPTION Minifig Leg Right with Salmon Cable Pattern
+0 !FILENAME 3816p6w.dat !DESCRIPTION Minifig Leg Right with Golden Circuit Pattern
+0 !FILENAME 3816pa2.dat !DESCRIPTION Minifig Leg Right with Green Kilt and Toes Pattern
+0 !FILENAME 3816pa3.dat !DESCRIPTION Minifig Leg Right with Buttoned Pocket Pattern
+0 !FILENAME 3816pa9.dat !DESCRIPTION Minifig Leg Right with Holster and Belt Pattern
+0 !FILENAME 3816pc67.dat !DESCRIPTION Minifig Leg Right with Clockwork Robot Pattern
+0 !FILENAME 3816pde.dat !DESCRIPTION Minifig Leg Right with Laboratory Smock Pattern
+0 !FILENAME 3816phb.dat !DESCRIPTION Minifig Leg Right with Purple Greatcoat Pattern
+0 !FILENAME 3816pm0.dat !DESCRIPTION Minifig Leg Right with LOTR Leather Armor Pattern
+0 !FILENAME 3816pq0.dat !DESCRIPTION Minifig Leg Right with DarkBlue Loincloth Pattern
+0 !FILENAME 3816pq1.dat !DESCRIPTION Minifig Leg Right with DarkBlue and Gold Loincloth Pattern
+0 !FILENAME 3816ps0.dat !DESCRIPTION Minifig Leg Right with SW White Leggings Pattern
+0 !FILENAME 3816ps5.dat !DESCRIPTION Minifig Leg Right with SW Gunbelt Pattern
+0 !FILENAME 3817.dat !DESCRIPTION Minifig Leg Left
+0 !FILENAME 3817p3j.dat !DESCRIPTION Minifig Leg Left with Grass Skirt Pattern
+0 !FILENAME 3817p4f.dat !DESCRIPTION Minifig Leg Left with Leather Straps (Red Studs) Pattern
+0 !FILENAME 3817p63.dat !DESCRIPTION Minifig Leg Left with Robot Pattern
+0 !FILENAME 3817p6f.dat !DESCRIPTION Minifig Leg Left with Astro Pattern
+0 !FILENAME 3817p6u.dat !DESCRIPTION Minifig Leg Left with Orange Cable Pattern
+0 !FILENAME 3817p6v.dat !DESCRIPTION Minifig Leg Left with Salmon Cable Pattern
+0 !FILENAME 3817p6w.dat !DESCRIPTION Minifig Leg Left with Golden Circuit Pattern
+0 !FILENAME 3817pa2.dat !DESCRIPTION Minifig Leg Left with Green Kilt and Toes Pattern
+0 !FILENAME 3817pa3.dat !DESCRIPTION Minifig Leg Left with Buttoned Pocket Pattern
+0 !FILENAME 3817pa9.dat !DESCRIPTION Minifig Leg Left with Holster and Belt Pattern
+0 !FILENAME 3817pc67.dat !DESCRIPTION Minifig Leg Left with Clockwork Robot Pattern
+0 !FILENAME 3817pde.dat !DESCRIPTION Minifig Leg Left with Laboratory Smock Pattern
+0 !FILENAME 3817phb.dat !DESCRIPTION Minifig Leg Left with Purple Greatcoat Pattern
+0 !FILENAME 3817pm0.dat !DESCRIPTION Minifig Leg Left with LOTR Leather Armor Pattern
+0 !FILENAME 3817pq0.dat !DESCRIPTION Minifig Leg Left with DarkBlue Loincloth Pattern
+0 !FILENAME 3817pq1.dat !DESCRIPTION Minifig Leg Left with DarkBlue and Gold Loincloth Pattern
+0 !FILENAME 3817ps0.dat !DESCRIPTION Minifig Leg Left with SW White Leggings Pattern
+0 !FILENAME 3818.dat !DESCRIPTION Minifig Arm Right
+0 !FILENAME 3819.dat !DESCRIPTION Minifig Arm Left
+0 !FILENAME 3820.dat !DESCRIPTION Minifig Hand
+0 !FILENAME 3836.dat !DESCRIPTION Minifig Tool Pushbroom
+0 !FILENAME 41879.dat !DESCRIPTION Minifig Hips and Legs Short
+0 !FILENAME 41880.dat !DESCRIPTION Minifig Head Yoda with Curved Ears
+0 !FILENAME 42109.dat !DESCRIPTION Minifig Head Goblin
+0 !FILENAME 43745.dat !DESCRIPTION Minifig Head Elf
+0 !FILENAME 43745p01.dat !DESCRIPTION Minifig Head Elf with Green Eyes Pattern
+0 !FILENAME 466a.dat !DESCRIPTION ~Minifig Book Spine
+0 !FILENAME 466b.dat !DESCRIPTION ~Minifig Book Front
+0 !FILENAME 466d.dat !DESCRIPTION ~Minifig Book Joint Curved
+0 !FILENAME 466e.dat !DESCRIPTION ~Minifig Book Joint Straight
+0 !FILENAME 4719.dat !DESCRIPTION Minifig Bicycle Frame (needs work)
+0 !FILENAME 53984.dat !DESCRIPTION Minifig Mechanical Leg
+0 !FILENAME 53988.dat !DESCRIPTION Minifig Mechanical Head and Torso
+0 !FILENAME 53989.dat !DESCRIPTION Minifig Mechanical Arm with Clip and Rod Hole
+0 !FILENAME 54275.dat !DESCRIPTION Minifig Mechanical Torso with 4 Side Attachment Cylinders
+0 !FILENAME 54872.dat !DESCRIPTION Minifig Head SpongeBob
+0 !FILENAME 54872p01.dat !DESCRIPTION Minifig Head SpongeBob with Happy Pattern
+0 !FILENAME 57588.dat !DESCRIPTION Minifig Arm Bionicle Barraki
+0 !FILENAME 59230.dat !DESCRIPTION Minifig Mechanical Arm Straight
+0 !FILENAME 60115.dat !DESCRIPTION Minifig Skeleton Torso with Shoulder Rods
+0 !FILENAME 6260.dat !DESCRIPTION Minifig Skeleton Torso
+0 !FILENAME 6265.dat !DESCRIPTION Minifig Skeleton Arm
+0 !FILENAME 6266.dat !DESCRIPTION Minifig Skeleton Leg
+0 !FILENAME 64805.dat !DESCRIPTION Minifig Head Ewok
+0 !FILENAME 82359.dat !DESCRIPTION Minifig Head with Skull Type 1 (Happy) Pattern
+0 !FILENAME 887.dat !DESCRIPTION ~Minifig Compass Base
+0 !FILENAME 888.dat !DESCRIPTION ~Minifig Compass Cover
+0 !FILENAME 889.dat !DESCRIPTION ~Minifig Compass Dial
+0 !FILENAME 93613.dat !DESCRIPTION ~Minifig Skeleton Leg with Square Foot, Foot
+0 !FILENAME 973.dat !DESCRIPTION Minifig Torso
+0 !FILENAME 973p01.dat !DESCRIPTION Minifig Torso with Vertical Striped Red/Blue Pattern
+0 !FILENAME 973p02.dat !DESCRIPTION Minifig Torso with Vertical Striped Blue/Red Pattern
+0 !FILENAME 973p03.dat !DESCRIPTION Minifig Torso with White Shirt and Jacket Pattern
+0 !FILENAME 973p04.dat !DESCRIPTION Minifig Torso with Six Button Suit and Airplane Pattern
+0 !FILENAME 973p05.dat !DESCRIPTION Minifig Torso with Six Button Suit and Anchor Pattern
+0 !FILENAME 973p09.dat !DESCRIPTION Minifig Torso with Anchor Motif Pattern
+0 !FILENAME 973p0a.dat !DESCRIPTION Minifig Torso with White Diagonal Zip and Pocket Pattern
+0 !FILENAME 973p0b.dat !DESCRIPTION Minifig Torso with Black Diagonal Zip and Pocket Pattern
+0 !FILENAME 973p11.dat !DESCRIPTION ~Minifig Torso with Dungarees Pattern, Obsolete
+0 !FILENAME 973p12.dat !DESCRIPTION Minifig Torso with Riding Jacket Pattern
+0 !FILENAME 973p13.dat !DESCRIPTION Minifig Torso with Straight Zipper Jacket Pattern
+0 !FILENAME 973p14.dat !DESCRIPTION Minifig Torso with "S" Logo Red / Black Pattern
+0 !FILENAME 973p15.dat !DESCRIPTION ~Minifig Torso with Horizontal Stripes Pattern, Obsolete
+0 !FILENAME 973p16.dat !DESCRIPTION Minifig Torso with Airplane Logo Pattern
+0 !FILENAME 973p17.dat !DESCRIPTION Minifig Torso with Red V-Neck and Buttons Pattern
+0 !FILENAME 973p18.dat !DESCRIPTION Minifig Torso with Suit and Tie Pattern
+0 !FILENAME 973p19.dat !DESCRIPTION Minifig Torso with Train Chevron Pattern
+0 !FILENAME 973p1a.dat !DESCRIPTION Minifig Torso with Black Dungarees Pattern
+0 !FILENAME 973p1b.dat !DESCRIPTION Minifig Torso with Blue Dungarees Pattern
+0 !FILENAME 973p1c.dat !DESCRIPTION Minifig Torso with Red Dungarees Pattern
+0 !FILENAME 973p1d.dat !DESCRIPTION Minifig Torso with Blue Horizontal Stripes Pattern
+0 !FILENAME 973p1e.dat !DESCRIPTION Minifig Torso with Red Horizontal Stripes Pattern
+0 !FILENAME 973p1f.dat !DESCRIPTION Minifig Torso with Buttons and Old Police Badge Pattern
+0 !FILENAME 973p1g.dat !DESCRIPTION Minifig Torso with Zipper and Old Police Badge Pattern
+0 !FILENAME 973p1h.dat !DESCRIPTION Minifig Torso with Racing Jacket and Two Stars Pattern
+0 !FILENAME 973p1j.dat !DESCRIPTION Minifig Torso with Green Dungarees Pattern
+0 !FILENAME 973p1k.dat !DESCRIPTION Minifig Torso with TV Logo Pattern Small
+0 !FILENAME 973p1m.dat !DESCRIPTION Minifig Torso with TV Logo Pattern Large
+0 !FILENAME 973p1n.dat !DESCRIPTION Minifig Torso with Racing Jacket and Two Stars Red Pattern
+0 !FILENAME 973p1q.dat !DESCRIPTION Minifig Torso with Launch Command Logo and Equipment Pattern
+0 !FILENAME 973p1r.dat !DESCRIPTION Minifig Torso with Blue Striped Dungarees Pattern
+0 !FILENAME 973p1s.dat !DESCRIPTION Minifig Torso with Mail Horn Pattern
+0 !FILENAME 973p20.dat !DESCRIPTION Minifig Torso with Waiter Pattern
+0 !FILENAME 973p21.dat !DESCRIPTION Minifig Torso with Five Button Fire Fighter Pattern
+0 !FILENAME 973p22.dat !DESCRIPTION Minifig Torso with Red Shirt and Suit Pattern
+0 !FILENAME 973p23.dat !DESCRIPTION Minifig Torso with "S" Logo Grey / Blue Pattern
+0 !FILENAME 973p24.dat !DESCRIPTION Minifig Torso with Red Cross Pattern
+0 !FILENAME 973p25.dat !DESCRIPTION Minifig Torso with Red Cross and Stethoscope Pattern
+0 !FILENAME 973p26.dat !DESCRIPTION Minifig Torso with Patch Pocket Pattern
+0 !FILENAME 973p27.dat !DESCRIPTION Minifig Torso with Autoroute Pattern
+0 !FILENAME 973p28.dat !DESCRIPTION Minifig Torso with Leather Jacket Pattern
+0 !FILENAME 973p29.dat !DESCRIPTION Minifig Torso with Air Gauge and Pocket Pattern
+0 !FILENAME 973p2a.dat !DESCRIPTION Minifig Torso with Chef Pattern
+0 !FILENAME 973p2c.dat !DESCRIPTION Minifig Torso with Strapless Suntop Pattern
+0 !FILENAME 973p2d.dat !DESCRIPTION Minifig Torso with Windsurfboard Pattern
+0 !FILENAME 973p2e.dat !DESCRIPTION Minifig Torso with Blue and Mint Green Stripes Pattern
+0 !FILENAME 973p2f.dat !DESCRIPTION Minifig Torso with Spotted Singlet and Necklace Pattern
+0 !FILENAME 973p2g.dat !DESCRIPTION Minifig Torso with Blue Flowers on Tied Shirt Pattern
+0 !FILENAME 973p2h.dat !DESCRIPTION Minifig Torso with Palm Tree Pattern
+0 !FILENAME 973p2j.dat !DESCRIPTION Minifig Torso with Palm Tree and Dolphin Pattern
+0 !FILENAME 973p2k.dat !DESCRIPTION Minifig Torso with Palm Tree and Horse Pattern
+0 !FILENAME 973p2m.dat !DESCRIPTION Minifig Torso with Horse Head Pattern
+0 !FILENAME 973p30.dat !DESCRIPTION Minifig Torso with Pirate Purple Vest and Anchor Tattoo Pattern
+0 !FILENAME 973p31.dat !DESCRIPTION Minifig Torso with Pirate Stripes Pattern (Red/Cream)
+0 !FILENAME 973p32.dat !DESCRIPTION Minifig Torso with Pirate Stripes Pattern (Blue/Cream)
+0 !FILENAME 973p33.dat !DESCRIPTION Minifig Torso with Pirate Stripes Pattern (Red/Black)
+0 !FILENAME 973p34.dat !DESCRIPTION Minifig Torso with Open Jacket over Striped Vest Pattern
+0 !FILENAME 973p35.dat !DESCRIPTION ~Minifig Torso with Imperial Guard Pattern, Obsolete
+0 !FILENAME 973p36.dat !DESCRIPTION Minifig Torso with Pirate Captain Pattern
+0 !FILENAME 973p37.dat !DESCRIPTION ~Minifig Torso with Imperial Guard Officer Pattern, Obsolete
+0 !FILENAME 973p38.dat !DESCRIPTION Minifig Torso with Female Pirate Pattern
+0 !FILENAME 973p39.dat !DESCRIPTION Minifig Torso with Pirate Open Jacket over Brown Vest Pattern
+0 !FILENAME 973p3a.dat !DESCRIPTION Minifig Torso with Pirate Ragged Shirt and Dagger Pattern
+0 !FILENAME 973p3b.dat !DESCRIPTION Minifig Torso with Brown Vest, Ascot and Belt Pattern
+0 !FILENAME 973p3c.dat !DESCRIPTION Minifig Torso with Pirate Green Vest, Shirt, and Belt Pattern
+0 !FILENAME 973p3d.dat !DESCRIPTION Minifig Torso with Medallion, Belt and Silver Buttons Pattern
+0 !FILENAME 973p3f.dat !DESCRIPTION Minifig Torso with Striped Shirt and Silver Buttons Pattern
+0 !FILENAME 973p3n.dat !DESCRIPTION Minifig Torso with Blue Imperial Guard Pattern
+0 !FILENAME 973p3q.dat !DESCRIPTION Minifig Torso with Red Imperial Guard Pattern
+0 !FILENAME 973p3r.dat !DESCRIPTION Minifig Torso with Blue Imperial Guard Officer Pattern
+0 !FILENAME 973p3s.dat !DESCRIPTION Minifig Torso with Red Imperial Guard Officer Pattern
+0 !FILENAME 973p3t.dat !DESCRIPTION Minifig Torso with Green Stripes and Leather Strap Pattern
+0 !FILENAME 973p3u.dat !DESCRIPTION Minifig Torso with Imperial Soldier Pattern
+0 !FILENAME 973p3v.dat !DESCRIPTION Minifig Torso Pirate Vest, Anchor Tattoo, Rope on Back Pattern
+0 !FILENAME 973p40.dat !DESCRIPTION Minifig Torso with Castle Breastplate Pattern
+0 !FILENAME 973p41.dat !DESCRIPTION Minifig Torso with Castle Chainmail Pattern
+0 !FILENAME 973p42.dat !DESCRIPTION Minifig Torso with Castle Crossed Pikes Pattern
+0 !FILENAME 973p43.dat !DESCRIPTION Minifig Torso with Black Falcon Pattern
+0 !FILENAME 973p44.dat !DESCRIPTION Minifig Torso with Wolfpack Pattern
+0 !FILENAME 973p45.dat !DESCRIPTION Minifig Torso with Studded Armor Pattern
+0 !FILENAME 973p46.dat !DESCRIPTION Minifig Torso with Forestman and Purse Pattern
+0 !FILENAME 973p47.dat !DESCRIPTION Minifig Torso with Castle Red/Grey Pattern
+0 !FILENAME 973p48.dat !DESCRIPTION Minifig Torso with Forestman Maroon Collar Pattern
+0 !FILENAME 973p49.dat !DESCRIPTION Minifig Torso with Forestman Blue Collar Pattern
+0 !FILENAME 973p4a.dat !DESCRIPTION ~Minifig Torso with Castle Bodice Pattern, Obsolete
+0 !FILENAME 973p4b.dat !DESCRIPTION Minifig Torso with Dragon Head Pattern
+0 !FILENAME 973p4d.dat !DESCRIPTION Minifig Torso with Royal Knights Lion-Head Shield Pattern
+0 !FILENAME 973p4e.dat !DESCRIPTION Minifig Torso with Royal Knights Lion Head & Neck-Chain Pattern
+0 !FILENAME 973p4f.dat !DESCRIPTION Minifig Torso with Lion Gold on Blue Shield Pattern
+0 !FILENAME 973p4g.dat !DESCRIPTION Minifig Torso with Castle Female Armour Pattern
+0 !FILENAME 973p4h.dat !DESCRIPTION Minifig Torso with Castle Bodice and Cloak Pattern
+0 !FILENAME 973p4j.dat !DESCRIPTION Minifig Torso with Crown on DarkBlue/MediumBlue Quarters Pattern
+0 !FILENAME 973p4l.dat !DESCRIPTION Minifig Torso w/ Gold Lion and Belt on Red/White Quart. Pattern
+0 !FILENAME 973p4n.dat !DESCRIPTION Minifig Torso with Blue Castle Bodice Pattern
+0 !FILENAME 973p4q.dat !DESCRIPTION Minifig Torso with Green Castle Bodice Pattern
+0 !FILENAME 973p4r.dat !DESCRIPTION Minifig Torso with Tri-Coloured Shield Large Pattern
+0 !FILENAME 973p4s.dat !DESCRIPTION Minifig Torso with Tri-Coloured Shield and Gold Trim Pattern
+0 !FILENAME 973p4t.dat !DESCRIPTION Minifig Torso with Red/Peach Quarters Shield Pattern
+0 !FILENAME 973p4u.dat !DESCRIPTION Minifig Torso with Maroon/Red Quarters Shield Pattern
+0 !FILENAME 973p4v.dat !DESCRIPTION Minifig Torso with Fantasy Era Peasant Rope Belt Pattern
+0 !FILENAME 973p4w.dat !DESCRIPTION Minifig Torso with Corset with Reddish Brown Laces Pattern
+0 !FILENAME 973p4x.dat !DESCRIPTION Minifig Torso with Dk Green Corset with Leather Belt Pattern
+0 !FILENAME 973p50.dat !DESCRIPTION Minifig Torso with Forestman Black Collar Pattern
+0 !FILENAME 973p51.dat !DESCRIPTION Minifig Torso with Blacktron II Pattern
+0 !FILENAME 973p52.dat !DESCRIPTION Minifig Torso with Blacktron I Pattern
+0 !FILENAME 973p54.dat !DESCRIPTION Minifig Torso with UFO Alien Orange and Silver Pattern
+0 !FILENAME 973p55.dat !DESCRIPTION Minifig Torso with Explorien Logo Pattern
+0 !FILENAME 973p60.dat !DESCRIPTION Minifig Torso with Shell Logo Pattern
+0 !FILENAME 973p61.dat !DESCRIPTION Minifig Torso with Gold Ice Planet Pattern
+0 !FILENAME 973p62.dat !DESCRIPTION Minifig Torso with Silver Ice Planet Pattern
+0 !FILENAME 973p63.dat !DESCRIPTION Minifig Torso with Robot Pattern
+0 !FILENAME 973p64.dat !DESCRIPTION Minifig Torso with Unitron Pattern
+0 !FILENAME 973p65.dat !DESCRIPTION ~Minifig Torso with Futuron Pattern, Obsolete
+0 !FILENAME 973p66.dat !DESCRIPTION Minifig Torso with Spyrius Pattern
+0 !FILENAME 973p68.dat !DESCRIPTION Minifig Torso with MTron Logo Pattern
+0 !FILENAME 973p69.dat !DESCRIPTION Minifig Torso with Space Police II and Radio Pattern
+0 !FILENAME 973p6a.dat !DESCRIPTION Minifig Torso with Space Police II Chief Pattern
+0 !FILENAME 973p6b.dat !DESCRIPTION Minifig Torso with Black Futuron Pattern
+0 !FILENAME 973p6c.dat !DESCRIPTION Minifig Torso with Blue Futuron Pattern
+0 !FILENAME 973p6d.dat !DESCRIPTION Minifig Torso with Red Futuron Pattern
+0 !FILENAME 973p6e.dat !DESCRIPTION Minifig Torso with Yellow Futuron Pattern
+0 !FILENAME 973p6f.dat !DESCRIPTION Minifig Torso with Astro Pattern
+0 !FILENAME 973p6u.dat !DESCRIPTION Minifig Torso with UFO Alien Triangular Insignia Pattern
+0 !FILENAME 973p6v.dat !DESCRIPTION Minifig Torso with UFO Alien Insignia and 3 Blue Bars Pattern
+0 !FILENAME 973p6w.dat !DESCRIPTION Minifig Torso with UFO Alien Circuitry and Red Lever Pattern
+0 !FILENAME 973p6x.dat !DESCRIPTION Minifig Torso with UFO Alien Silver and Gold Circuitry Pattern
+0 !FILENAME 973p70.dat !DESCRIPTION Minifig Torso with Bomber Jacket & Black Shirt Pattern
+0 !FILENAME 973p71.dat !DESCRIPTION Minifig Torso with Red Necklace and Blue Undershirt Pattern
+0 !FILENAME 973p72.dat !DESCRIPTION Minifig Torso with Gold Necklace and Yellow Undershirt Pattern
+0 !FILENAME 973p73.dat !DESCRIPTION Minifig Torso with Vest with Patch Pockets Pattern
+0 !FILENAME 973p74.dat !DESCRIPTION Minifig Torso with Vest, Patch Pockets and Police Badge Pattern
+0 !FILENAME 973p75.dat !DESCRIPTION Minifig Torso with Zipper Jacket and Police Logo Pattern
+0 !FILENAME 973p76.dat !DESCRIPTION Minifig Torso with Jacket, Tie and Police Badge Pattern
+0 !FILENAME 973p77.dat !DESCRIPTION Minifig Torso with Modern Firefighter Pattern Type 1
+0 !FILENAME 973p78.dat !DESCRIPTION Minifig Torso with Modern Firefighter Pattern Type 2
+0 !FILENAME 973p79.dat !DESCRIPTION Minifig Torso with Lifebelt Logo and ID Card Pattern
+0 !FILENAME 973p7a.dat !DESCRIPTION Minifig Torso with Arctic Parka A1 Pattern
+0 !FILENAME 973p7b.dat !DESCRIPTION Minifig Torso with Arctic Parka A2 Pattern
+0 !FILENAME 973p7g.dat !DESCRIPTION Minifig Torso with Plain Shirt with Pockets Pattern
+0 !FILENAME 973p7h.dat !DESCRIPTION Minifig Torso with Jacket, Pink Shirt, Ring on Necklace Pattern
+0 !FILENAME 973p7j.dat !DESCRIPTION Minifig Torso with Hooded Sweatshirt/Blue Pocket/Drawstring Patt
+0 !FILENAME 973p7k.dat !DESCRIPTION Minifig Torso with Jail Stripes and "23768" Pattern
+0 !FILENAME 973p7m.dat !DESCRIPTION Minifig Torso w/ Shirt, Badge, Blue Tie, "POLICE" Back Pattern
+0 !FILENAME 973p7n.dat !DESCRIPTION Minifig Torso w/ Leather Jacket, Badge, "POLICE" Back Pattern
+0 !FILENAME 973p7q.dat !DESCRIPTION Minifig Torso with Jacket, Pocket, Badge, Blue Tie Pattern
+0 !FILENAME 973p7r.dat !DESCRIPTION Minifig Torso with Jacket, Badge and Red Tie Pattern
+0 !FILENAME 973p7s.dat !DESCRIPTION Minifig Torso with Prisoner and "5
+0 !FILENAME 973p7t.dat !DESCRIPTION Minifig Torso with Jacket over Shirt and Prison Stripes Pattern
+0 !FILENAME 973p7u.dat !DESCRIPTION Minifig Torso with Leather Jacket and Badge Pattern
+0 !FILENAME 973p7v.dat !DESCRIPTION Minifig Torso with Neon Yellow Stripes, Radio and Badge Pattern
+0 !FILENAME 973p7w.dat !DESCRIPTION Minifig Torso with V-Neck Shirt and Blue Overalls Pattern
+0 !FILENAME 973p7x.dat !DESCRIPTION Minifig Torso with White Envelope and Zipper Pattern
+0 !FILENAME 973p7y.dat !DESCRIPTION Minifig Torso Female with LtPurple Scarf and Gray Belt Pattern
+0 !FILENAME 973p7z.dat !DESCRIPTION Minifig Torso with Jacket over Lt Blue Button Down Shirt Pattern
+0 !FILENAME 973p80.dat !DESCRIPTION Minifig Torso with #1 Racing Pattern
+0 !FILENAME 973p81.dat !DESCRIPTION Minifig Torso with Octan "OIL" Badge Pattern
+0 !FILENAME 973p82.dat !DESCRIPTION Minifig Torso with Red Vest and Train Logo Pattern
+0 !FILENAME 973p83.dat !DESCRIPTION Minifig Torso with Suit and Tie with Train Pattern
+0 !FILENAME 973p84.dat !DESCRIPTION Minifig Torso with Four Button Suit and Train Logo Pattern
+0 !FILENAME 973p85.dat !DESCRIPTION Minifig Torso with Airplane Logo and "AIR" Badge Pattern
+0 !FILENAME 973p86.dat !DESCRIPTION Minifig Torso with Stethoscope and Pocket with Pens Pattern
+0 !FILENAME 973p8a.dat !DESCRIPTION Minifig Torso with Extreme Team Jacket Logo Pattern
+0 !FILENAME 973p8b.dat !DESCRIPTION Minifig Torso with RES-Q Orange Pockets and Logo Pattern
+0 !FILENAME 973p8f.dat !DESCRIPTION Minifig Torso with Telephone Pattern
+0 !FILENAME 973p8g.dat !DESCRIPTION Minifig Torso with Blue Shirt and Safety Stripes Pattern
+0 !FILENAME 973p90.dat !DESCRIPTION Minifig Torso with Classic Space Pattern
+0 !FILENAME 973pa1.dat !DESCRIPTION Minifig Torso with Suspenders and Red Bowtie Pattern
+0 !FILENAME 973pa2.dat !DESCRIPTION Minifig Torso with Pharaoh Breastplate Pattern
+0 !FILENAME 973pa3.dat !DESCRIPTION Minifig Torso with Safari Shirt, Gun & Red Bandana Pattern
+0 !FILENAME 973pa4.dat !DESCRIPTION Minifig Torso with White Suit, Brown Vest and Tie Pattern
+0 !FILENAME 973pa5.dat !DESCRIPTION Minifig Torso with Bomber Jacket, Belt, & Black Shirt Pattern
+0 !FILENAME 973pa6.dat !DESCRIPTION Minifig Torso with Safari Shirt,Blue Tee & Red Bandana Pattern
+0 !FILENAME 973pa7.dat !DESCRIPTION Minifig Torso with Safari Shirt, Black Tee, and Holster Pattern
+0 !FILENAME 973pa8.dat !DESCRIPTION Minifig Torso with Jacket, White Shirt, and Necklace Pattern
+0 !FILENAME 973pa9.dat !DESCRIPTION Minifig Torso with Leather Jacket and Light Gray Shirt Pattern
+0 !FILENAME 973paa.dat !DESCRIPTION Minifig Torso with Rumpled Shirt, 2 Revolvers in Belt Pattern
+0 !FILENAME 973pab.dat !DESCRIPTION Minifig Torso with Tank Top, Stains, Wrench, and Tattoo Pattern
+0 !FILENAME 973pac.dat !DESCRIPTION Minifig Torso with Mayan Necklace, Tribal Shirt & Navel Pattern
+0 !FILENAME 973pad.dat !DESCRIPTION Minifig Torso with Vest, Slingshot in Belt Pattern
+0 !FILENAME 973pae.dat !DESCRIPTION Minifig Torso with Female White Shirt, Open Jacket Pattern
+0 !FILENAME 973paf.dat !DESCRIPTION Minifig Torso with Red & Gray Shirt, Pot Belly, Jacket Pattern
+0 !FILENAME 973paj.dat !DESCRIPTION Minifig Torso with Rock Raiders Jet Pattern
+0 !FILENAME 973paq.dat !DESCRIPTION Minifig Torso with 2 Chinese Letters Yellow Stripe Pattern
+0 !FILENAME 973pb0.dat !DESCRIPTION Minifig Torso with Grey and Gold Batman Pattern
+0 !FILENAME 973pb1.dat !DESCRIPTION Minifig Torso with DkGray, Black, and Yellow Batman Pattern
+0 !FILENAME 973pb2.dat !DESCRIPTION Minifig Torso with Batman Robin Pattern
+0 !FILENAME 973pb3.dat !DESCRIPTION Minifig Torso with Jacket, Orange Vest, Green Neck-chief Pattern
+0 !FILENAME 973pb4.dat !DESCRIPTION Minifig Torso with Security Guard Pattern
+0 !FILENAME 973pb5.dat !DESCRIPTION Minifig Torso with Ivy Dress Pattern
+0 !FILENAME 973pb6.dat !DESCRIPTION Minifig Torso with Magenta Questionmark Pattern
+0 !FILENAME 973pb7.dat !DESCRIPTION Minifig Torso with Dark Orange Vest and Purple Bow Tie Pattern
+0 !FILENAME 973pb8.dat !DESCRIPTION Minifig Torso with Catsuit, O-Ring and Belt Pattern
+0 !FILENAME 973pb9.dat !DESCRIPTION Minifig Torso with Superman Logo and Dark Blue Muscles Pattern
+0 !FILENAME 973pc23.dat !DESCRIPTION Minifig Torso with Jacket, Bow Tie, Vest, Boutonniere Pattern
+0 !FILENAME 973pc3g.dat !DESCRIPTION Minifig Torso with Vertical Red Stripes and 'Clutchers' Pattern
+0 !FILENAME 973pc67.dat !DESCRIPTION Minifig Torso with Clockwork Robot Pattern
+0 !FILENAME 973pd0.dat !DESCRIPTION Minifig Torso with Studios Director Pattern
+0 !FILENAME 973pdb.dat !DESCRIPTION Minifig Torso with 3-Piece Suit, White Shirt and Red Tie Pattern
+0 !FILENAME 973pdd.dat !DESCRIPTION Minifig Torso with Blue Plaid Shirt Pattern
+0 !FILENAME 973pdf.dat !DESCRIPTION Minifig Torso with Black Suit, Red Shirt, Gold Clasps Pattern
+0 !FILENAME 973pdg.dat !DESCRIPTION Minifig Torso with White Rope & Patched Collar Pattern
+0 !FILENAME 973pg0.dat !DESCRIPTION Minifig Torso with Soccer Shirt "1
+0 !FILENAME 973ph0.dat !DESCRIPTION Minifig Torso with Hogwarts Uniform Pattern
+0 !FILENAME 973ph1.dat !DESCRIPTION Minifig Torso with Gryffindor Uniform Pattern
+0 !FILENAME 973ph2.dat !DESCRIPTION Minifig Torso with Slytherin Uniform Pattern
+0 !FILENAME 973ph3.dat !DESCRIPTION Minifig Torso with Voldemort Robe Pattern
+0 !FILENAME 973ph5.dat !DESCRIPTION Minifig Torso HP with Jacket and Light Grey Sweater Pattern
+0 !FILENAME 973ph6.dat !DESCRIPTION Minifig Torso HP with Jacket and Dark Red Sweater Pattern
+0 !FILENAME 973ph7.dat !DESCRIPTION Minifig Torso HP with Grey Sweater and Light Flesh Neck Pattern
+0 !FILENAME 973ph8.dat !DESCRIPTION Minifig Torso HP with Dark Red Sweater and Yellow Neck Pattern
+0 !FILENAME 973phb.dat !DESCRIPTION Minifig Torso with Purple Greatcoat Pattern
+0 !FILENAME 973pm0.dat !DESCRIPTION Minifig Torso with LOTR Leather Armor with Buckle Pattern
+0 !FILENAME 973pm1.dat !DESCRIPTION Minifig Torso with LOTR Cloak, Rope and Belt Pattern
+0 !FILENAME 973pm2.dat !DESCRIPTION Minifig Torso with LOTR Button Shirt with Braces Pattern
+0 !FILENAME 973pn0.dat !DESCRIPTION Minifig Torso with Samurai Dragon Robe Pattern
+0 !FILENAME 973pn1.dat !DESCRIPTION Minifig Torso with Samurai Robe, Sash and Dagger Pattern
+0 !FILENAME 973pn5.dat !DESCRIPTION Minifig Torso with Ninja Wrap, Silver Shuriken & Dagger Pattern
+0 !FILENAME 973pn6.dat !DESCRIPTION Minifig Torso with Ninja Wrap, Gold Shuriken, and Armour Pattern
+0 !FILENAME 973pn7.dat !DESCRIPTION Minifig Torso with Ninja Wrap, Gold Shuriken, and Dagger Pattern
+0 !FILENAME 973pq0.dat !DESCRIPTION Minifig Torso with Bandage and Gold Necklace Pattern
+0 !FILENAME 973pq1.dat !DESCRIPTION Minifig Torso with Bandage, Gold Necklace and Gold Belt Pattern
+0 !FILENAME 973pq2.dat !DESCRIPTION Minifig Torso with DarkBlue Muscles and Gold Necklace Pattern
+0 !FILENAME 973pq3.dat !DESCRIPTION Minifig Torso with Waistcoat, White Shirt and Bandolier Pattern
+0 !FILENAME 973pq4.dat !DESCRIPTION Minifig Torso with Tank Top, Braces & Yellow Skin Pattern
+0 !FILENAME 973pr0.dat !DESCRIPTION Minifig Torso with SW Closed Shirt and Brown Belt Pattern
+0 !FILENAME 973pr1.dat !DESCRIPTION Minifig Torso with SW Robe, Sash and Silver Neck Clasp Pattern
+0 !FILENAME 973pr2.dat !DESCRIPTION Minifig Torso with SW Robe and Rope Belt Pattern
+0 !FILENAME 973pr3.dat !DESCRIPTION Minifig Torso with SW Layered Shirt, Brown Belt Pattern
+0 !FILENAME 973pr4.dat !DESCRIPTION Minifig Torso with SW Layered Shirt, Brown Belt, Braid Pattern
+0 !FILENAME 973pr5.dat !DESCRIPTION Minifig Torso with SW Vest, White Shirt & Lt Flesh Neck Pattern
+0 !FILENAME 973pr6.dat !DESCRIPTION Minifig Torso with SW Gungan Dark Grey/Dark Tan Shirts Pattern
+0 !FILENAME 973pr7.dat !DESCRIPTION Minifig Torso with SW Grey Shirt, Belt with Red Buckle Pattern
+0 !FILENAME 973pr8.dat !DESCRIPTION Minifig Torso with SW Rebel Pilot Bluish Grey Pattern
+0 !FILENAME 973pr9.dat !DESCRIPTION Minifig Torso with SW Imperial Grand Moff Pattern
+0 !FILENAME 973pra.dat !DESCRIPTION Minifig Torso with SW Darth Vader Bluish Grey Pattern
+0 !FILENAME 973prb.dat !DESCRIPTION Minifig Torso with SW Blast Armor (Green Plates) Bl.Grey Pattern
+0 !FILENAME 973prc.dat !DESCRIPTION Minifig Torso with SW Blast Armor (Uncolored Plates) Pattern
+0 !FILENAME 973prd.dat !DESCRIPTION Minifig Torso with SW Leia Hoth Jacket Pattern
+0 !FILENAME 973pre.dat !DESCRIPTION Minifig Torso with SW Scout Trooper Bluish Grey Pattern
+0 !FILENAME 973prf.dat !DESCRIPTION Minifig Torso SW Tank Top Pattern
+0 !FILENAME 973pry.dat !DESCRIPTION Minifig Torso w/ SW Loose Dress Light Grey Folds Pattern
+0 !FILENAME 973ps0.dat !DESCRIPTION Minifig Torso with SW Rebel A-Wing Pilot Pattern
+0 !FILENAME 973ps1.dat !DESCRIPTION Minifig Torso with SW Rebel Pilot Pattern
+0 !FILENAME 973ps2.dat !DESCRIPTION Minifig Torso with SW Jedi Robes and Sash Pattern
+0 !FILENAME 973ps3.dat !DESCRIPTION Minifig Torso with SW Wrap-Around Tunic Pattern
+0 !FILENAME 973ps4.dat !DESCRIPTION Minifig Torso with SW Shirt (Open Collar, No Vest) Pattern
+0 !FILENAME 973ps5.dat !DESCRIPTION Minifig Torso with SW Vest, White Shirt & Yellow Neck Pattern
+0 !FILENAME 973ps6.dat !DESCRIPTION Minifig Torso with SW Ben Kenobi Pattern
+0 !FILENAME 973ps7.dat !DESCRIPTION Minifig Torso with SW Darth Vader Grey Pattern
+0 !FILENAME 973ps8.dat !DESCRIPTION Minifig Torso with SW Layered Shirt, Waist Sash Pattern
+0 !FILENAME 973psa.dat !DESCRIPTION Minifig Torso with SW Rebel Mechanic Pattern
+0 !FILENAME 973psb.dat !DESCRIPTION Minifig Torso with SW Blast Armor (Green Plates) Grey Pattern
+0 !FILENAME 973psc.dat !DESCRIPTION Minifig Torso with SW Pocket-Vest and Techno-Buckle Pattern
+0 !FILENAME 973pse.dat !DESCRIPTION Minifig Torso with SW Scout Trooper Grey Pattern
+0 !FILENAME 973psf.dat !DESCRIPTION Minifig Torso with SW Tunic and Belt Pattern
+0 !FILENAME 973psh.dat !DESCRIPTION Minifig Torso with SW Hoth Trooper Pattern
+0 !FILENAME 973psj.dat !DESCRIPTION Minifig Torso with SW Blast Armor (Silver Plates) Pattern
+0 !FILENAME 973psk.dat !DESCRIPTION Minifig Torso with SW Stormtrooper Pattern
+0 !FILENAME 973psm.dat !DESCRIPTION Minifig Torso with SW Camouflage Smock Pattern
+0 !FILENAME 973psn.dat !DESCRIPTION Minifig Torso with SW Imperial Shuttle Pilot Pattern
+0 !FILENAME 973psq.dat !DESCRIPTION Minifig Torso with SW Imperial Officer Pattern
+0 !FILENAME 973psr.dat !DESCRIPTION Minifig Torso with SW Protocol Droid Pattern
+0 !FILENAME 973pss.dat !DESCRIPTION Minifig Torso with SW Jawa Pattern
+0 !FILENAME 973pst.dat !DESCRIPTION Minifig Torso with Black Collar and Pockets Pattern
+0 !FILENAME 973psv.dat !DESCRIPTION Minifig Torso with SW Moisture Farmer Pattern
+0 !FILENAME 973psw.dat !DESCRIPTION Minifig Torso with SW Cad Bane Pattern
+0 !FILENAME 973psx.dat !DESCRIPTION Minifig Torso with SW Dark Red Robe Pattern
+0 !FILENAME 973psy.dat !DESCRIPTION Minifig Torso w/ SW Loose Dress Light Bluish Grey Folds Pattern
+0 !FILENAME 973psz.dat !DESCRIPTION Minifig Torso with SW Darth Vader Death Star Pattern
+0 !FILENAME 973pt2.dat !DESCRIPTION Minifig Torso with Octan Logo Pattern
+0 !FILENAME 973pw1.dat !DESCRIPTION Minifig Torso with US Cavalry General Pattern
+0 !FILENAME 973pw2.dat !DESCRIPTION Minifig Torso with US Cavalry Officer Pattern
+0 !FILENAME 973pw3.dat !DESCRIPTION Minifig Torso with US Cavalry Soldier Pattern
+0 !FILENAME 973pw4.dat !DESCRIPTION Minifig Torso with Sheriff Pattern
+0 !FILENAME 973pw5.dat !DESCRIPTION Minifig Torso with Blue Undershirt Green Bow and Gun Pattern
+0 !FILENAME 973pw6.dat !DESCRIPTION Minifig Torso with White Braces and Cartridge Belt Pattern
+0 !FILENAME 973pw7.dat !DESCRIPTION Minifig Torso with Red Undershirt and Fringe Pattern
+0 !FILENAME 973pw8.dat !DESCRIPTION Minifig Torso with Card, Suit, Vest, and Gold Fob Pattern
+0 !FILENAME 973pw9.dat !DESCRIPTION Minifig Torso with Brown Vest, Buckle and String Bowtie Pattern
+0 !FILENAME 973pwa.dat !DESCRIPTION Minifig Torso with Gold Fob and 1
+0 !FILENAME 973pwb.dat !DESCRIPTION Minifig Torso w/ White/Blue Triangles, Red/White Amulet Pattern
+0 !FILENAME 973pwc.dat !DESCRIPTION Minifig Torso w/ White/Blue Triangles, Blue/White Amulet Pattern
+0 !FILENAME 973pwd.dat !DESCRIPTION Minifig Torso with Red on Bottom and Fringe Pattern
+0 !FILENAME 973pwe.dat !DESCRIPTION Minifig Torso with Necklace and Blue Squares Pattern
+0 !FILENAME 975.dat !DESCRIPTION ~Minifig Arm Right (Obsolete)
+0 !FILENAME 976.dat !DESCRIPTION ~Minifig Arm Left (Obsolete)
+0 !FILENAME 977.dat !DESCRIPTION ~Minifig Hand (Obsolete)
+0 !FILENAME 15.dat !DESCRIPTION Minifig Legs Old
+0 !FILENAME 17.dat !DESCRIPTION Minifig Torso with Integral Arms
+0 !FILENAME 2531.dat !DESCRIPTION Minifig Hand Hook
+0 !FILENAME 2532.dat !DESCRIPTION Minifig Leg Wooden
+0 !FILENAME 2533.dat !DESCRIPTION ~Minifig Cannon Shooting Barrel
+0 !FILENAME 2534.dat !DESCRIPTION ~Minifig Cannon Shooting Plunger
+0 !FILENAME 2535.dat !DESCRIPTION ~Minifig Cannon Shooting Breech
+0 !FILENAME 286.dat !DESCRIPTION ~Minifig Suitcase Joiner Tab
+0 !FILENAME 287.dat !DESCRIPTION ~Minifig Suitcase Male Half
+0 !FILENAME 288.dat !DESCRIPTION ~Minifig Suitcase Female Half
+0 !FILENAME 30152.dat !DESCRIPTION Minifig Tool Magnifying Glass
+0 !FILENAME 30362.dat !DESCRIPTION Minifig Robot Leg
+0 !FILENAME 30375.dat !DESCRIPTION Minifig Mechanical Torso
+0 !FILENAME 30375ps1.dat !DESCRIPTION Minifig Mechanical Torso with Orange Insignia Pattern
+0 !FILENAME 30375ps2.dat !DESCRIPTION Minifig Mechanical Torso with Tan Insignia Pattern
+0 !FILENAME 30375ps3.dat !DESCRIPTION Minifig Mechanical Torso with Blue Insignia Pattern
+0 !FILENAME 30376.dat !DESCRIPTION Minifig Mechanical Legs
+0 !FILENAME 30377.dat !DESCRIPTION Minifig Mechanical Arm
+0 !FILENAME 30378.dat !DESCRIPTION Minifig Mechanical Head SW Battle Droid
+0 !FILENAME 30378ps1.dat !DESCRIPTION Minifig Mechanical Head with Orange Insignia Pattern
+0 !FILENAME 30378ps2.dat !DESCRIPTION Minifig Mechanical Head with Rust Insignia Pattern
+0 !FILENAME 30480.dat !DESCRIPTION Minifig Head Protocol Droid
+0 !FILENAME 30529.dat !DESCRIPTION Minifig Martian Head with Clip
+0 !FILENAME 30529p01.dat !DESCRIPTION Minifig Martian Head with Clip with Eyes Plain Pattern
+0 !FILENAME 30529p02.dat !DESCRIPTION Minifig Martian Head with Clip with Eyelashes Pattern
+0 !FILENAME 30530.dat !DESCRIPTION Minifig Martian Legs
+0 !FILENAME 3626a.dat !DESCRIPTION Minifig Head with Solid Stud
+0 !FILENAME 3626ap01.dat !DESCRIPTION Minifig Head with Stud Solid with Standard Grin Pattern
+0 !FILENAME 3626b.dat !DESCRIPTION Minifig Head with Hollow Stud
+0 !FILENAME 3626bp01.dat !DESCRIPTION Minifig Head with Standard Grin Pattern
+0 !FILENAME 3626bp02.dat !DESCRIPTION Minifig Head with Standard Woman Pattern
+0 !FILENAME 3626bp03.dat !DESCRIPTION Minifig Head with Standard Grin and Pointed Moustache Pattern
+0 !FILENAME 3626bp04.dat !DESCRIPTION Minifig Head with Standard Grin and Sunglasses Pattern
+0 !FILENAME 3626bp05.dat !DESCRIPTION Minifig Head with Standard Grin and Eyebrows Pattern
+0 !FILENAME 3626bp06.dat !DESCRIPTION Minifig Head with Standard Grin, Eyebrows and Microphone Pattern
+0 !FILENAME 3626bp07.dat !DESCRIPTION Minifig Head with Freckle Nose and Standard Grin Pattern
+0 !FILENAME 3626bp08.dat !DESCRIPTION Minifig Head Female with Red Lips Small Eyebrows Pattern
+0 !FILENAME 3626bp30.dat !DESCRIPTION Minifig Head with Messy Hair and Moustache Pattern
+0 !FILENAME 3626bp31.dat !DESCRIPTION Minifig Head with Messy Hair and Eye Patch Pattern
+0 !FILENAME 3626bp32.dat !DESCRIPTION Minifig Head with Messy Hair, Moustache, and Eye Patch Pattern
+0 !FILENAME 3626bp33.dat !DESCRIPTION Minifig Head with Messy Hair, Moustache, and Beard Pattern
+0 !FILENAME 3626bp34.dat !DESCRIPTION Minifig Head with Messy Hair, Beard and Eye Patch Pattern
+0 !FILENAME 3626bp35.dat !DESCRIPTION Minifig Head with Messy Hair, Moustache and Stubble Pattern
+0 !FILENAME 3626bp39.dat !DESCRIPTION Minifig Head with Dark Grey Facial Hair Pattern
+0 !FILENAME 3626bp3e.dat !DESCRIPTION Minifig Head with Wiry Moustache, Goatee and Eyebrows Pattern
+0 !FILENAME 3626bp3j.dat !DESCRIPTION Minifig Head with Islander White/Red Painted Face Pattern
+0 !FILENAME 3626bp3k.dat !DESCRIPTION Minifig Head with Islander White/Blue Painted Face Pattern
+0 !FILENAME 3626bp3n.dat !DESCRIPTION Minifig Head with Sideburns and Droopy Moustache Black Pattern
+0 !FILENAME 3626bp3q.dat !DESCRIPTION Minifig Head with Sideburns and Droopy Moustache Brown Pattern
+0 !FILENAME 3626bp40.dat !DESCRIPTION Minifig Head with Messy Hair Female Pattern
+0 !FILENAME 3626bp61.dat !DESCRIPTION Minifig Head with Ice Planet Moustache and Eyebrows Pattern
+0 !FILENAME 3626bp62.dat !DESCRIPTION Minifig Head with Ice Planet Messy White Hair
+0 !FILENAME 3626bp63.dat !DESCRIPTION Minifig Head with Silver Robot Pattern
+0 !FILENAME 3626bp64.dat !DESCRIPTION Minifig Head with Gold Robot Pattern
+0 !FILENAME 3626bp65.dat !DESCRIPTION Minifig Head with Ice Planet Female Red Hair Pattern
+0 !FILENAME 3626bp69.dat !DESCRIPTION Minifig Head with Headset Over Brown Hair & Eyebrows Pattern
+0 !FILENAME 3626bp6f.dat !DESCRIPTION Minifig Head with Red Lips and Black Upswept Eyelashes Pattern
+0 !FILENAME 3626bp6u.dat !DESCRIPTION Minifig Head with Gold Paint and Slanted Eyes Pattern
+0 !FILENAME 3626bp6v.dat !DESCRIPTION Minifig Head with Large Blue Mask Pattern
+0 !FILENAME 3626bp6w.dat !DESCRIPTION Minifig Head with Small Blue Mask Pattern
+0 !FILENAME 3626bp6x.dat !DESCRIPTION Minifig Head with Silver Mask and Mouth Grille Pattern
+0 !FILENAME 3626bp6y.dat !DESCRIPTION Minifig Head with Green Brain and Yellow Mouth Pattern
+0 !FILENAME 3626bp7a.dat !DESCRIPTION Minifig Head with Brown Hair over Eye and Black Eyebrows Pattern
+0 !FILENAME 3626bp7b.dat !DESCRIPTION Minifig Head with Blue Sunglasses Pattern
+0 !FILENAME 3626bp7c.dat !DESCRIPTION Minifig Head with Blue Wrap-Around Sunglasses Pattern
+0 !FILENAME 3626bp80.dat !DESCRIPTION Minifig Head with Orange Beard and White Smile Pattern
+0 !FILENAME 3626bp81.dat !DESCRIPTION Minifig Head Lefty Mouth and Stubble Pattern
+0 !FILENAME 3626bp82.dat !DESCRIPTION Minifig Head with Smirk, Black Hair and Goatee Pattern
+0 !FILENAME 3626bp83.dat !DESCRIPTION Minifig Head with Brown Eyebrows, Smirking Face, Pupils Pattern
+0 !FILENAME 3626bp84.dat !DESCRIPTION Minifig Head with Smile, Black Eyebrows and White Pupils Pattern
+0 !FILENAME 3626bp85.dat !DESCRIPTION Minifig Head with Smile, Brown Eyebrows and White Pupils Pattern
+0 !FILENAME 3626bp86.dat !DESCRIPTION Minifig Head with Smile and Gold Tooth Pattern
+0 !FILENAME 3626bpa1.dat !DESCRIPTION Minifig Head with Glasses and White Muttonchops Pattern
+0 !FILENAME 3626bpa2.dat !DESCRIPTION Minifig Head with Adventurers Mummy Pattern
+0 !FILENAME 3626bpa3.dat !DESCRIPTION Minifig Head with Smirk & Black Moustache Pattern
+0 !FILENAME 3626bpa4.dat !DESCRIPTION Minifig Head with Villian Black Facial Hair Pattern
+0 !FILENAME 3626bpa5.dat !DESCRIPTION Minifig Head with Stubble, Moustache and Smirk Pattern
+0 !FILENAME 3626bpa6.dat !DESCRIPTION Minifig Head with Brown Hair, Eyelashes, and Lipstick Pattern
+0 !FILENAME 3626bpa7.dat !DESCRIPTION Minifig Head with Monocle, Scar, and Moustache Pattern
+0 !FILENAME 3626bpa8.dat !DESCRIPTION Minifig Head with Evil Skeleton Skull Pattern
+0 !FILENAME 3626bpa9.dat !DESCRIPTION Minifig Head with Villainous Glasses & Black Facial Hair Pattern
+0 !FILENAME 3626bpac.dat !DESCRIPTION Minifig Head with Tribal Paint and Frown Pattern
+0 !FILENAME 3626bpao.dat !DESCRIPTION Minifig Head w/ Big Eyes, Curved Eyebrows, Orange Mouth Pattern
+0 !FILENAME 3626bpb1.dat !DESCRIPTION Minifig Head with Pursed Lips and White Forehead Pattern
+0 !FILENAME 3626bpb2.dat !DESCRIPTION Minifig Head with Mask Br.Green with Eyeholes and Smile Pattern
+0 !FILENAME 3626bpb5.dat !DESCRIPTION Minifig Head with Green Lips and Red Eyebrows Pattern
+0 !FILENAME 3626bpb6.dat !DESCRIPTION Minifig Head with Mask Purple with Eyeholes and Smile Pattern
+0 !FILENAME 3626bpb7.dat !DESCRIPTION Minifig Head with Monocle and Black Slanted Eyebrows Pattern
+0 !FILENAME 3626bph1.dat !DESCRIPTION Minifig Head with Eyeglasses and Lightning Scar Pattern
+0 !FILENAME 3626bph2.dat !DESCRIPTION Minifig Head with Tan Eyebrows and Frown Pattern
+0 !FILENAME 3626bph3.dat !DESCRIPTION Minifig Head with Ron Weasley Pattern
+0 !FILENAME 3626bph4.dat !DESCRIPTION Minifig Head with Gregory Goyle/Harry Potter Pattern
+0 !FILENAME 3626bph5.dat !DESCRIPTION Minifig Head with Vincent Crabbe/Ron Weasley Pattern
+0 !FILENAME 3626bpha.dat !DESCRIPTION Minifig Head with Half-Moon Glasses and Grey Eyebrows Pattern
+0 !FILENAME 3626bphb.dat !DESCRIPTION Minifig Head with Severus Snape Pattern
+0 !FILENAME 3626bpn1.dat !DESCRIPTION Minifig Head with White Hair, Eyebrows, and Moustache Pattern
+0 !FILENAME 3626bpq0.dat !DESCRIPTION Minifig Head Mummy Face 2-Sided with 2 Eyes / 1 Eye Pattern
+0 !FILENAME 3626bpq1.dat !DESCRIPTION Minifig Head Mummy Face 2-Sided with 2 Eyes / Gold Death Mask
+0 !FILENAME 3626bps0.dat !DESCRIPTION Minifig Head with SW Red Lips, Black Eyes, Thin Eyebrows Pattern
+0 !FILENAME 3626bps2.dat !DESCRIPTION Minifig Head with SW Brown Eyebrows Pattern
+0 !FILENAME 3626bps3.dat !DESCRIPTION Minifig Head with SW Small Black Eyebrows Pattern
+0 !FILENAME 3626bps4.dat !DESCRIPTION Minifig Head with SW Grey Beard and Eyebrows Pattern
+0 !FILENAME 3626bps5.dat !DESCRIPTION Minifig Head with SW Smirk and Brown Eyebrows Pattern
+0 !FILENAME 3626bps7.dat !DESCRIPTION Minifig Head with SW Black Eyebrows and Scars Pattern
+0 !FILENAME 3626bps8.dat !DESCRIPTION Minifig Head with SW Darth Maul Pattern
+0 !FILENAME 3626bps9.dat !DESCRIPTION Minifig Head with SW Brown Eyebrows and Beard Pattern
+0 !FILENAME 3626bpsb.dat !DESCRIPTION Minifig Head with SW Alien with Large Black Eyes Pattern
+0 !FILENAME 3626bpsc.dat !DESCRIPTION Minifig Head with SW Grey Eyebrows & Implant Pattern
+0 !FILENAME 3626bpsd.dat !DESCRIPTION Minifig Head with SW Freckles and Thin Brown Eyebrows Pattern
+0 !FILENAME 3626bpse.dat !DESCRIPTION Minifig Head with SW Scout Trooper Black Visor Pattern
+0 !FILENAME 3626bpst.dat !DESCRIPTION Minifig Head with SW Tusken Raider Pattern
+0 !FILENAME 3626c.dat !DESCRIPTION Minifig Head with Closed Hollow Stud
+0 !FILENAME 3626cpm1.dat !DESCRIPTION Minifig Head with LOTR Thick Gray Eyebrows and Smile Pattern
+0 !FILENAME 3626cpm2.dat !DESCRIPTION Minifig Head with LOTR Brown Eyebrows Worried/Smile Pattern
+0 !FILENAME 3815.dat !DESCRIPTION Minifig Hips
+0 !FILENAME 3815p4f.dat !DESCRIPTION Minifig Hips with Leather Belt (Red Studs) Pattern
+0 !FILENAME 3815p63.dat !DESCRIPTION Minifig Hips with Robot Pattern
+0 !FILENAME 3815p6u.dat !DESCRIPTION Minifig Hips with Gold Belt and Orange Cable Pattern
+0 !FILENAME 3815p6v.dat !DESCRIPTION Minifig Hips with Silver Belt and Salmon Cable Pattern
+0 !FILENAME 3815p6w.dat !DESCRIPTION Minifig Hips with Silver Belt Pattern
+0 !FILENAME 3815pa9.dat !DESCRIPTION Minifig Hips with Holster and Belt Pattern
+0 !FILENAME 3815pc67.dat !DESCRIPTION Minifig Hips with Clockwork Robot Pattern
+0 !FILENAME 3815pde.dat !DESCRIPTION Minifig Hips with Laboratory Smock Pattern
+0 !FILENAME 3815phb.dat !DESCRIPTION Minifig Hips with Purple Greatcoat Pattern
+0 !FILENAME 3815pm0.dat !DESCRIPTION Minifig Hips with LOTR Leather Armor Pattern
+0 !FILENAME 3815pq0.dat !DESCRIPTION Minifig Hips with Gold Belt and DarkBlue Loincloth Pattern
+0 !FILENAME 3815pq1.dat !DESCRIPTION Minifig Hips with Gold X-Belt and Decorated Loincloth Pattern
+0 !FILENAME 3815pq2.dat !DESCRIPTION Minifig Hips with Gold O-Belt and Loincloth Pattern
+0 !FILENAME 3815ps5.dat !DESCRIPTION Minifig Hips with SW Gunbelt Pattern
+0 !FILENAME 3816.dat !DESCRIPTION Minifig Leg Right
+0 !FILENAME 3816p3j.dat !DESCRIPTION Minifig Leg Right with Grass Skirt Pattern
+0 !FILENAME 3816p4f.dat !DESCRIPTION Minifig Leg Right with Leather Straps (Red Studs) Pattern
+0 !FILENAME 3816p63.dat !DESCRIPTION Minifig Leg Right with Robot Pattern
+0 !FILENAME 3816p6f.dat !DESCRIPTION Minifig Leg Right with Astro Pattern
+0 !FILENAME 3816p6u.dat !DESCRIPTION Minifig Leg Right with Orange Cable Pattern
+0 !FILENAME 3816p6v.dat !DESCRIPTION Minifig Leg Right with Salmon Cable Pattern
+0 !FILENAME 3816p6w.dat !DESCRIPTION Minifig Leg Right with Golden Circuit Pattern
+0 !FILENAME 3816pa2.dat !DESCRIPTION Minifig Leg Right with Green Kilt and Toes Pattern
+0 !FILENAME 3816pa3.dat !DESCRIPTION Minifig Leg Right with Buttoned Pocket Pattern
+0 !FILENAME 3816pa9.dat !DESCRIPTION Minifig Leg Right with Holster and Belt Pattern
+0 !FILENAME 3816pc67.dat !DESCRIPTION Minifig Leg Right with Clockwork Robot Pattern
+0 !FILENAME 3816pde.dat !DESCRIPTION Minifig Leg Right with Laboratory Smock Pattern
+0 !FILENAME 3816phb.dat !DESCRIPTION Minifig Leg Right with Purple Greatcoat Pattern
+0 !FILENAME 3816pm0.dat !DESCRIPTION Minifig Leg Right with LOTR Leather Armor Pattern
+0 !FILENAME 3816pq0.dat !DESCRIPTION Minifig Leg Right with DarkBlue Loincloth Pattern
+0 !FILENAME 3816pq1.dat !DESCRIPTION Minifig Leg Right with DarkBlue and Gold Loincloth Pattern
+0 !FILENAME 3816ps0.dat !DESCRIPTION Minifig Leg Right with SW White Leggings Pattern
+0 !FILENAME 3816ps5.dat !DESCRIPTION Minifig Leg Right with SW Gunbelt Pattern
+0 !FILENAME 3817.dat !DESCRIPTION Minifig Leg Left
+0 !FILENAME 3817p3j.dat !DESCRIPTION Minifig Leg Left with Grass Skirt Pattern
+0 !FILENAME 3817p4f.dat !DESCRIPTION Minifig Leg Left with Leather Straps (Red Studs) Pattern
+0 !FILENAME 3817p63.dat !DESCRIPTION Minifig Leg Left with Robot Pattern
+0 !FILENAME 3817p6f.dat !DESCRIPTION Minifig Leg Left with Astro Pattern
+0 !FILENAME 3817p6u.dat !DESCRIPTION Minifig Leg Left with Orange Cable Pattern
+0 !FILENAME 3817p6v.dat !DESCRIPTION Minifig Leg Left with Salmon Cable Pattern
+0 !FILENAME 3817p6w.dat !DESCRIPTION Minifig Leg Left with Golden Circuit Pattern
+0 !FILENAME 3817pa2.dat !DESCRIPTION Minifig Leg Left with Green Kilt and Toes Pattern
+0 !FILENAME 3817pa3.dat !DESCRIPTION Minifig Leg Left with Buttoned Pocket Pattern
+0 !FILENAME 3817pa9.dat !DESCRIPTION Minifig Leg Left with Holster and Belt Pattern
+0 !FILENAME 3817pc67.dat !DESCRIPTION Minifig Leg Left with Clockwork Robot Pattern
+0 !FILENAME 3817pde.dat !DESCRIPTION Minifig Leg Left with Laboratory Smock Pattern
+0 !FILENAME 3817phb.dat !DESCRIPTION Minifig Leg Left with Purple Greatcoat Pattern
+0 !FILENAME 3817pm0.dat !DESCRIPTION Minifig Leg Left with LOTR Leather Armor Pattern
+0 !FILENAME 3817pq0.dat !DESCRIPTION Minifig Leg Left with DarkBlue Loincloth Pattern
+0 !FILENAME 3817pq1.dat !DESCRIPTION Minifig Leg Left with DarkBlue and Gold Loincloth Pattern
+0 !FILENAME 3817ps0.dat !DESCRIPTION Minifig Leg Left with SW White Leggings Pattern
+0 !FILENAME 3818.dat !DESCRIPTION Minifig Arm Right
+0 !FILENAME 3819.dat !DESCRIPTION Minifig Arm Left
+0 !FILENAME 3820.dat !DESCRIPTION Minifig Hand
+0 !FILENAME 3836.dat !DESCRIPTION Minifig Tool Pushbroom
+0 !FILENAME 41879.dat !DESCRIPTION Minifig Hips and Legs Short
+0 !FILENAME 41880.dat !DESCRIPTION Minifig Head Yoda with Curved Ears
+0 !FILENAME 42109.dat !DESCRIPTION Minifig Head Goblin
+0 !FILENAME 43745.dat !DESCRIPTION Minifig Head Elf
+0 !FILENAME 43745p01.dat !DESCRIPTION Minifig Head Elf with Green Eyes Pattern
+0 !FILENAME 466a.dat !DESCRIPTION ~Minifig Book Spine
+0 !FILENAME 466b.dat !DESCRIPTION ~Minifig Book Front
+0 !FILENAME 466d.dat !DESCRIPTION ~Minifig Book Joint Curved
+0 !FILENAME 466e.dat !DESCRIPTION ~Minifig Book Joint Straight
+0 !FILENAME 4719.dat !DESCRIPTION Minifig Bicycle Frame (needs work)
+0 !FILENAME 53984.dat !DESCRIPTION Minifig Mechanical Leg
+0 !FILENAME 53988.dat !DESCRIPTION Minifig Mechanical Head and Torso
+0 !FILENAME 53989.dat !DESCRIPTION Minifig Mechanical Arm with Clip and Rod Hole
+0 !FILENAME 54275.dat !DESCRIPTION Minifig Mechanical Torso with 4 Side Attachment Cylinders
+0 !FILENAME 54872.dat !DESCRIPTION Minifig Head SpongeBob
+0 !FILENAME 54872p01.dat !DESCRIPTION Minifig Head SpongeBob with Happy Pattern
+0 !FILENAME 57588.dat !DESCRIPTION Minifig Arm Bionicle Barraki
+0 !FILENAME 59230.dat !DESCRIPTION Minifig Mechanical Arm Straight
+0 !FILENAME 60115.dat !DESCRIPTION Minifig Skeleton Torso with Shoulder Rods
+0 !FILENAME 6260.dat !DESCRIPTION Minifig Skeleton Torso
+0 !FILENAME 6265.dat !DESCRIPTION Minifig Skeleton Arm
+0 !FILENAME 6266.dat !DESCRIPTION Minifig Skeleton Leg
+0 !FILENAME 64805.dat !DESCRIPTION Minifig Head Ewok
+0 !FILENAME 82359.dat !DESCRIPTION Minifig Head with Skull Type 1 (Happy) Pattern
+0 !FILENAME 887.dat !DESCRIPTION ~Minifig Compass Base
+0 !FILENAME 888.dat !DESCRIPTION ~Minifig Compass Cover
+0 !FILENAME 889.dat !DESCRIPTION ~Minifig Compass Dial
+0 !FILENAME 93613.dat !DESCRIPTION ~Minifig Skeleton Leg with Square Foot, Foot
+0 !FILENAME 973.dat !DESCRIPTION Minifig Torso
+0 !FILENAME 973p01.dat !DESCRIPTION Minifig Torso with Vertical Striped Red/Blue Pattern
+0 !FILENAME 973p02.dat !DESCRIPTION Minifig Torso with Vertical Striped Blue/Red Pattern
+0 !FILENAME 973p03.dat !DESCRIPTION Minifig Torso with White Shirt and Jacket Pattern
+0 !FILENAME 973p04.dat !DESCRIPTION Minifig Torso with Six Button Suit and Airplane Pattern
+0 !FILENAME 973p05.dat !DESCRIPTION Minifig Torso with Six Button Suit and Anchor Pattern
+0 !FILENAME 973p09.dat !DESCRIPTION Minifig Torso with Anchor Motif Pattern
+0 !FILENAME 973p0a.dat !DESCRIPTION Minifig Torso with White Diagonal Zip and Pocket Pattern
+0 !FILENAME 973p0b.dat !DESCRIPTION Minifig Torso with Black Diagonal Zip and Pocket Pattern
+0 !FILENAME 973p11.dat !DESCRIPTION ~Minifig Torso with Dungarees Pattern, Obsolete
+0 !FILENAME 973p12.dat !DESCRIPTION Minifig Torso with Riding Jacket Pattern
+0 !FILENAME 973p13.dat !DESCRIPTION Minifig Torso with Straight Zipper Jacket Pattern
+0 !FILENAME 973p14.dat !DESCRIPTION Minifig Torso with "S" Logo Red / Black Pattern
+0 !FILENAME 973p15.dat !DESCRIPTION ~Minifig Torso with Horizontal Stripes Pattern, Obsolete
+0 !FILENAME 973p16.dat !DESCRIPTION Minifig Torso with Airplane Logo Pattern
+0 !FILENAME 973p17.dat !DESCRIPTION Minifig Torso with Red V-Neck and Buttons Pattern
+0 !FILENAME 973p18.dat !DESCRIPTION Minifig Torso with Suit and Tie Pattern
+0 !FILENAME 973p19.dat !DESCRIPTION Minifig Torso with Train Chevron Pattern
+0 !FILENAME 973p1a.dat !DESCRIPTION Minifig Torso with Black Dungarees Pattern
+0 !FILENAME 973p1b.dat !DESCRIPTION Minifig Torso with Blue Dungarees Pattern
+0 !FILENAME 973p1c.dat !DESCRIPTION Minifig Torso with Red Dungarees Pattern
+0 !FILENAME 973p1d.dat !DESCRIPTION Minifig Torso with Blue Horizontal Stripes Pattern
+0 !FILENAME 973p1e.dat !DESCRIPTION Minifig Torso with Red Horizontal Stripes Pattern
+0 !FILENAME 973p1f.dat !DESCRIPTION Minifig Torso with Buttons and Old Police Badge Pattern
+0 !FILENAME 973p1g.dat !DESCRIPTION Minifig Torso with Zipper and Old Police Badge Pattern
+0 !FILENAME 973p1h.dat !DESCRIPTION Minifig Torso with Racing Jacket and Two Stars Pattern
+0 !FILENAME 973p1j.dat !DESCRIPTION Minifig Torso with Green Dungarees Pattern
+0 !FILENAME 973p1k.dat !DESCRIPTION Minifig Torso with TV Logo Pattern Small
+0 !FILENAME 973p1m.dat !DESCRIPTION Minifig Torso with TV Logo Pattern Large
+0 !FILENAME 973p1n.dat !DESCRIPTION Minifig Torso with Racing Jacket and Two Stars Red Pattern
+0 !FILENAME 973p1q.dat !DESCRIPTION Minifig Torso with Launch Command Logo and Equipment Pattern
+0 !FILENAME 973p1r.dat !DESCRIPTION Minifig Torso with Blue Striped Dungarees Pattern
+0 !FILENAME 973p1s.dat !DESCRIPTION Minifig Torso with Mail Horn Pattern
+0 !FILENAME 973p20.dat !DESCRIPTION Minifig Torso with Waiter Pattern
+0 !FILENAME 973p21.dat !DESCRIPTION Minifig Torso with Five Button Fire Fighter Pattern
+0 !FILENAME 973p22.dat !DESCRIPTION Minifig Torso with Red Shirt and Suit Pattern
+0 !FILENAME 973p23.dat !DESCRIPTION Minifig Torso with "S" Logo Grey / Blue Pattern
+0 !FILENAME 973p24.dat !DESCRIPTION Minifig Torso with Red Cross Pattern
+0 !FILENAME 973p25.dat !DESCRIPTION Minifig Torso with Red Cross and Stethoscope Pattern
+0 !FILENAME 973p26.dat !DESCRIPTION Minifig Torso with Patch Pocket Pattern
+0 !FILENAME 973p27.dat !DESCRIPTION Minifig Torso with Autoroute Pattern
+0 !FILENAME 973p28.dat !DESCRIPTION Minifig Torso with Leather Jacket Pattern
+0 !FILENAME 973p29.dat !DESCRIPTION Minifig Torso with Air Gauge and Pocket Pattern
+0 !FILENAME 973p2a.dat !DESCRIPTION Minifig Torso with Chef Pattern
+0 !FILENAME 973p2c.dat !DESCRIPTION Minifig Torso with Strapless Suntop Pattern
+0 !FILENAME 973p2d.dat !DESCRIPTION Minifig Torso with Windsurfboard Pattern
+0 !FILENAME 973p2e.dat !DESCRIPTION Minifig Torso with Blue and Mint Green Stripes Pattern
+0 !FILENAME 973p2f.dat !DESCRIPTION Minifig Torso with Spotted Singlet and Necklace Pattern
+0 !FILENAME 973p2g.dat !DESCRIPTION Minifig Torso with Blue Flowers on Tied Shirt Pattern
+0 !FILENAME 973p2h.dat !DESCRIPTION Minifig Torso with Palm Tree Pattern
+0 !FILENAME 973p2j.dat !DESCRIPTION Minifig Torso with Palm Tree and Dolphin Pattern
+0 !FILENAME 973p2k.dat !DESCRIPTION Minifig Torso with Palm Tree and Horse Pattern
+0 !FILENAME 973p2m.dat !DESCRIPTION Minifig Torso with Horse Head Pattern
+0 !FILENAME 973p30.dat !DESCRIPTION Minifig Torso with Pirate Purple Vest and Anchor Tattoo Pattern
+0 !FILENAME 973p31.dat !DESCRIPTION Minifig Torso with Pirate Stripes Pattern (Red/Cream)
+0 !FILENAME 973p32.dat !DESCRIPTION Minifig Torso with Pirate Stripes Pattern (Blue/Cream)
+0 !FILENAME 973p33.dat !DESCRIPTION Minifig Torso with Pirate Stripes Pattern (Red/Black)
+0 !FILENAME 973p34.dat !DESCRIPTION Minifig Torso with Open Jacket over Striped Vest Pattern
+0 !FILENAME 973p35.dat !DESCRIPTION ~Minifig Torso with Imperial Guard Pattern, Obsolete
+0 !FILENAME 973p36.dat !DESCRIPTION Minifig Torso with Pirate Captain Pattern
+0 !FILENAME 973p37.dat !DESCRIPTION ~Minifig Torso with Imperial Guard Officer Pattern, Obsolete
+0 !FILENAME 973p38.dat !DESCRIPTION Minifig Torso with Female Pirate Pattern
+0 !FILENAME 973p39.dat !DESCRIPTION Minifig Torso with Pirate Open Jacket over Brown Vest Pattern
+0 !FILENAME 973p3a.dat !DESCRIPTION Minifig Torso with Pirate Ragged Shirt and Dagger Pattern
+0 !FILENAME 973p3b.dat !DESCRIPTION Minifig Torso with Brown Vest, Ascot and Belt Pattern
+0 !FILENAME 973p3c.dat !DESCRIPTION Minifig Torso with Pirate Green Vest, Shirt, and Belt Pattern
+0 !FILENAME 973p3d.dat !DESCRIPTION Minifig Torso with Medallion, Belt and Silver Buttons Pattern
+0 !FILENAME 973p3f.dat !DESCRIPTION Minifig Torso with Striped Shirt and Silver Buttons Pattern
+0 !FILENAME 973p3n.dat !DESCRIPTION Minifig Torso with Blue Imperial Guard Pattern
+0 !FILENAME 973p3q.dat !DESCRIPTION Minifig Torso with Red Imperial Guard Pattern
+0 !FILENAME 973p3r.dat !DESCRIPTION Minifig Torso with Blue Imperial Guard Officer Pattern
+0 !FILENAME 973p3s.dat !DESCRIPTION Minifig Torso with Red Imperial Guard Officer Pattern
+0 !FILENAME 973p3t.dat !DESCRIPTION Minifig Torso with Green Stripes and Leather Strap Pattern
+0 !FILENAME 973p3u.dat !DESCRIPTION Minifig Torso with Imperial Soldier Pattern
+0 !FILENAME 973p3v.dat !DESCRIPTION Minifig Torso Pirate Vest, Anchor Tattoo, Rope on Back Pattern
+0 !FILENAME 973p40.dat !DESCRIPTION Minifig Torso with Castle Breastplate Pattern
+0 !FILENAME 973p41.dat !DESCRIPTION Minifig Torso with Castle Chainmail Pattern
+0 !FILENAME 973p42.dat !DESCRIPTION Minifig Torso with Castle Crossed Pikes Pattern
+0 !FILENAME 973p43.dat !DESCRIPTION Minifig Torso with Black Falcon Pattern
+0 !FILENAME 973p44.dat !DESCRIPTION Minifig Torso with Wolfpack Pattern
+0 !FILENAME 973p45.dat !DESCRIPTION Minifig Torso with Studded Armor Pattern
+0 !FILENAME 973p46.dat !DESCRIPTION Minifig Torso with Forestman and Purse Pattern
+0 !FILENAME 973p47.dat !DESCRIPTION Minifig Torso with Castle Red/Grey Pattern
+0 !FILENAME 973p48.dat !DESCRIPTION Minifig Torso with Forestman Maroon Collar Pattern
+0 !FILENAME 973p49.dat !DESCRIPTION Minifig Torso with Forestman Blue Collar Pattern
+0 !FILENAME 973p4a.dat !DESCRIPTION ~Minifig Torso with Castle Bodice Pattern, Obsolete
+0 !FILENAME 973p4b.dat !DESCRIPTION Minifig Torso with Dragon Head Pattern
+0 !FILENAME 973p4d.dat !DESCRIPTION Minifig Torso with Royal Knights Lion-Head Shield Pattern
+0 !FILENAME 973p4e.dat !DESCRIPTION Minifig Torso with Royal Knights Lion Head & Neck-Chain Pattern
+0 !FILENAME 973p4f.dat !DESCRIPTION Minifig Torso with Lion Gold on Blue Shield Pattern
+0 !FILENAME 973p4g.dat !DESCRIPTION Minifig Torso with Castle Female Armour Pattern
+0 !FILENAME 973p4h.dat !DESCRIPTION Minifig Torso with Castle Bodice and Cloak Pattern
+0 !FILENAME 973p4j.dat !DESCRIPTION Minifig Torso with Crown on DarkBlue/MediumBlue Quarters Pattern
+0 !FILENAME 973p4l.dat !DESCRIPTION Minifig Torso w/ Gold Lion and Belt on Red/White Quart. Pattern
+0 !FILENAME 973p4n.dat !DESCRIPTION Minifig Torso with Blue Castle Bodice Pattern
+0 !FILENAME 973p4q.dat !DESCRIPTION Minifig Torso with Green Castle Bodice Pattern
+0 !FILENAME 973p4r.dat !DESCRIPTION Minifig Torso with Tri-Coloured Shield Large Pattern
+0 !FILENAME 973p4s.dat !DESCRIPTION Minifig Torso with Tri-Coloured Shield and Gold Trim Pattern
+0 !FILENAME 973p4t.dat !DESCRIPTION Minifig Torso with Red/Peach Quarters Shield Pattern
+0 !FILENAME 973p4u.dat !DESCRIPTION Minifig Torso with Maroon/Red Quarters Shield Pattern
+0 !FILENAME 973p4v.dat !DESCRIPTION Minifig Torso with Fantasy Era Peasant Rope Belt Pattern
+0 !FILENAME 973p4w.dat !DESCRIPTION Minifig Torso with Corset with Reddish Brown Laces Pattern
+0 !FILENAME 973p4x.dat !DESCRIPTION Minifig Torso with Dk Green Corset with Leather Belt Pattern
+0 !FILENAME 973p50.dat !DESCRIPTION Minifig Torso with Forestman Black Collar Pattern
+0 !FILENAME 973p51.dat !DESCRIPTION Minifig Torso with Blacktron II Pattern
+0 !FILENAME 973p52.dat !DESCRIPTION Minifig Torso with Blacktron I Pattern
+0 !FILENAME 973p54.dat !DESCRIPTION Minifig Torso with UFO Alien Orange and Silver Pattern
+0 !FILENAME 973p55.dat !DESCRIPTION Minifig Torso with Explorien Logo Pattern
+0 !FILENAME 973p60.dat !DESCRIPTION Minifig Torso with Shell Logo Pattern
+0 !FILENAME 973p61.dat !DESCRIPTION Minifig Torso with Gold Ice Planet Pattern
+0 !FILENAME 973p62.dat !DESCRIPTION Minifig Torso with Silver Ice Planet Pattern
+0 !FILENAME 973p63.dat !DESCRIPTION Minifig Torso with Robot Pattern
+0 !FILENAME 973p64.dat !DESCRIPTION Minifig Torso with Unitron Pattern
+0 !FILENAME 973p65.dat !DESCRIPTION ~Minifig Torso with Futuron Pattern, Obsolete
+0 !FILENAME 973p66.dat !DESCRIPTION Minifig Torso with Spyrius Pattern
+0 !FILENAME 973p68.dat !DESCRIPTION Minifig Torso with MTron Logo Pattern
+0 !FILENAME 973p69.dat !DESCRIPTION Minifig Torso with Space Police II and Radio Pattern
+0 !FILENAME 973p6a.dat !DESCRIPTION Minifig Torso with Space Police II Chief Pattern
+0 !FILENAME 973p6b.dat !DESCRIPTION Minifig Torso with Black Futuron Pattern
+0 !FILENAME 973p6c.dat !DESCRIPTION Minifig Torso with Blue Futuron Pattern
+0 !FILENAME 973p6d.dat !DESCRIPTION Minifig Torso with Red Futuron Pattern
+0 !FILENAME 973p6e.dat !DESCRIPTION Minifig Torso with Yellow Futuron Pattern
+0 !FILENAME 973p6f.dat !DESCRIPTION Minifig Torso with Astro Pattern
+0 !FILENAME 973p6u.dat !DESCRIPTION Minifig Torso with UFO Alien Triangular Insignia Pattern
+0 !FILENAME 973p6v.dat !DESCRIPTION Minifig Torso with UFO Alien Insignia and 3 Blue Bars Pattern
+0 !FILENAME 973p6w.dat !DESCRIPTION Minifig Torso with UFO Alien Circuitry and Red Lever Pattern
+0 !FILENAME 973p6x.dat !DESCRIPTION Minifig Torso with UFO Alien Silver and Gold Circuitry Pattern
+0 !FILENAME 973p70.dat !DESCRIPTION Minifig Torso with Bomber Jacket & Black Shirt Pattern
+0 !FILENAME 973p71.dat !DESCRIPTION Minifig Torso with Red Necklace and Blue Undershirt Pattern
+0 !FILENAME 973p72.dat !DESCRIPTION Minifig Torso with Gold Necklace and Yellow Undershirt Pattern
+0 !FILENAME 973p73.dat !DESCRIPTION Minifig Torso with Vest with Patch Pockets Pattern
+0 !FILENAME 973p74.dat !DESCRIPTION Minifig Torso with Vest, Patch Pockets and Police Badge Pattern
+0 !FILENAME 973p75.dat !DESCRIPTION Minifig Torso with Zipper Jacket and Police Logo Pattern
+0 !FILENAME 973p76.dat !DESCRIPTION Minifig Torso with Jacket, Tie and Police Badge Pattern
+0 !FILENAME 973p77.dat !DESCRIPTION Minifig Torso with Modern Firefighter Pattern Type 1
+0 !FILENAME 973p78.dat !DESCRIPTION Minifig Torso with Modern Firefighter Pattern Type 2
+0 !FILENAME 973p79.dat !DESCRIPTION Minifig Torso with Lifebelt Logo and ID Card Pattern
+0 !FILENAME 973p7a.dat !DESCRIPTION Minifig Torso with Arctic Parka A1 Pattern
+0 !FILENAME 973p7b.dat !DESCRIPTION Minifig Torso with Arctic Parka A2 Pattern
+0 !FILENAME 973p7g.dat !DESCRIPTION Minifig Torso with Plain Shirt with Pockets Pattern
+0 !FILENAME 973p7h.dat !DESCRIPTION Minifig Torso with Jacket, Pink Shirt, Ring on Necklace Pattern
+0 !FILENAME 973p7j.dat !DESCRIPTION Minifig Torso with Hooded Sweatshirt/Blue Pocket/Drawstring Patt
+0 !FILENAME 973p7k.dat !DESCRIPTION Minifig Torso with Jail Stripes and "23768" Pattern
+0 !FILENAME 973p7m.dat !DESCRIPTION Minifig Torso w/ Shirt, Badge, Blue Tie, "POLICE" Back Pattern
+0 !FILENAME 973p7n.dat !DESCRIPTION Minifig Torso w/ Leather Jacket, Badge, "POLICE" Back Pattern
+0 !FILENAME 973p7q.dat !DESCRIPTION Minifig Torso with Jacket, Pocket, Badge, Blue Tie Pattern
+0 !FILENAME 973p7r.dat !DESCRIPTION Minifig Torso with Jacket, Badge and Red Tie Pattern
+0 !FILENAME 973p7s.dat !DESCRIPTION Minifig Torso with Prisoner and "5
+0 !FILENAME 973p7t.dat !DESCRIPTION Minifig Torso with Jacket over Shirt and Prison Stripes Pattern
+0 !FILENAME 973p7u.dat !DESCRIPTION Minifig Torso with Leather Jacket and Badge Pattern
+0 !FILENAME 973p7v.dat !DESCRIPTION Minifig Torso with Neon Yellow Stripes, Radio and Badge Pattern
+0 !FILENAME 973p7w.dat !DESCRIPTION Minifig Torso with V-Neck Shirt and Blue Overalls Pattern
+0 !FILENAME 973p7x.dat !DESCRIPTION Minifig Torso with White Envelope and Zipper Pattern
+0 !FILENAME 973p7y.dat !DESCRIPTION Minifig Torso Female with LtPurple Scarf and Gray Belt Pattern
+0 !FILENAME 973p7z.dat !DESCRIPTION Minifig Torso with Jacket over Lt Blue Button Down Shirt Pattern
+0 !FILENAME 973p80.dat !DESCRIPTION Minifig Torso with #1 Racing Pattern
+0 !FILENAME 973p81.dat !DESCRIPTION Minifig Torso with Octan "OIL" Badge Pattern
+0 !FILENAME 973p82.dat !DESCRIPTION Minifig Torso with Red Vest and Train Logo Pattern
+0 !FILENAME 973p83.dat !DESCRIPTION Minifig Torso with Suit and Tie with Train Pattern
+0 !FILENAME 973p84.dat !DESCRIPTION Minifig Torso with Four Button Suit and Train Logo Pattern
+0 !FILENAME 973p85.dat !DESCRIPTION Minifig Torso with Airplane Logo and "AIR" Badge Pattern
+0 !FILENAME 973p86.dat !DESCRIPTION Minifig Torso with Stethoscope and Pocket with Pens Pattern
+0 !FILENAME 973p8a.dat !DESCRIPTION Minifig Torso with Extreme Team Jacket Logo Pattern
+0 !FILENAME 973p8b.dat !DESCRIPTION Minifig Torso with RES-Q Orange Pockets and Logo Pattern
+0 !FILENAME 973p8f.dat !DESCRIPTION Minifig Torso with Telephone Pattern
+0 !FILENAME 973p8g.dat !DESCRIPTION Minifig Torso with Blue Shirt and Safety Stripes Pattern
+0 !FILENAME 973p90.dat !DESCRIPTION Minifig Torso with Classic Space Pattern
+0 !FILENAME 973pa1.dat !DESCRIPTION Minifig Torso with Suspenders and Red Bowtie Pattern
+0 !FILENAME 973pa2.dat !DESCRIPTION Minifig Torso with Pharaoh Breastplate Pattern
+0 !FILENAME 973pa3.dat !DESCRIPTION Minifig Torso with Safari Shirt, Gun & Red Bandana Pattern
+0 !FILENAME 973pa4.dat !DESCRIPTION Minifig Torso with White Suit, Brown Vest and Tie Pattern
+0 !FILENAME 973pa5.dat !DESCRIPTION Minifig Torso with Bomber Jacket, Belt, & Black Shirt Pattern
+0 !FILENAME 973pa6.dat !DESCRIPTION Minifig Torso with Safari Shirt,Blue Tee & Red Bandana Pattern
+0 !FILENAME 973pa7.dat !DESCRIPTION Minifig Torso with Safari Shirt, Black Tee, and Holster Pattern
+0 !FILENAME 973pa8.dat !DESCRIPTION Minifig Torso with Jacket, White Shirt, and Necklace Pattern
+0 !FILENAME 973pa9.dat !DESCRIPTION Minifig Torso with Leather Jacket and Light Gray Shirt Pattern
+0 !FILENAME 973paa.dat !DESCRIPTION Minifig Torso with Rumpled Shirt, 2 Revolvers in Belt Pattern
+0 !FILENAME 973pab.dat !DESCRIPTION Minifig Torso with Tank Top, Stains, Wrench, and Tattoo Pattern
+0 !FILENAME 973pac.dat !DESCRIPTION Minifig Torso with Mayan Necklace, Tribal Shirt & Navel Pattern
+0 !FILENAME 973pad.dat !DESCRIPTION Minifig Torso with Vest, Slingshot in Belt Pattern
+0 !FILENAME 973pae.dat !DESCRIPTION Minifig Torso with Female White Shirt, Open Jacket Pattern
+0 !FILENAME 973paf.dat !DESCRIPTION Minifig Torso with Red & Gray Shirt, Pot Belly, Jacket Pattern
+0 !FILENAME 973paj.dat !DESCRIPTION Minifig Torso with Rock Raiders Jet Pattern
+0 !FILENAME 973paq.dat !DESCRIPTION Minifig Torso with 2 Chinese Letters Yellow Stripe Pattern
+0 !FILENAME 973pb0.dat !DESCRIPTION Minifig Torso with Grey and Gold Batman Pattern
+0 !FILENAME 973pb1.dat !DESCRIPTION Minifig Torso with DkGray, Black, and Yellow Batman Pattern
+0 !FILENAME 973pb2.dat !DESCRIPTION Minifig Torso with Batman Robin Pattern
+0 !FILENAME 973pb3.dat !DESCRIPTION Minifig Torso with Jacket, Orange Vest, Green Neck-chief Pattern
+0 !FILENAME 973pb4.dat !DESCRIPTION Minifig Torso with Security Guard Pattern
+0 !FILENAME 973pb5.dat !DESCRIPTION Minifig Torso with Ivy Dress Pattern
+0 !FILENAME 973pb6.dat !DESCRIPTION Minifig Torso with Magenta Questionmark Pattern
+0 !FILENAME 973pb7.dat !DESCRIPTION Minifig Torso with Dark Orange Vest and Purple Bow Tie Pattern
+0 !FILENAME 973pb8.dat !DESCRIPTION Minifig Torso with Catsuit, O-Ring and Belt Pattern
+0 !FILENAME 973pb9.dat !DESCRIPTION Minifig Torso with Superman Logo and Dark Blue Muscles Pattern
+0 !FILENAME 973pc23.dat !DESCRIPTION Minifig Torso with Jacket, Bow Tie, Vest, Boutonniere Pattern
+0 !FILENAME 973pc3g.dat !DESCRIPTION Minifig Torso with Vertical Red Stripes and 'Clutchers' Pattern
+0 !FILENAME 973pc67.dat !DESCRIPTION Minifig Torso with Clockwork Robot Pattern
+0 !FILENAME 973pd0.dat !DESCRIPTION Minifig Torso with Studios Director Pattern
+0 !FILENAME 973pdb.dat !DESCRIPTION Minifig Torso with 3-Piece Suit, White Shirt and Red Tie Pattern
+0 !FILENAME 973pdd.dat !DESCRIPTION Minifig Torso with Blue Plaid Shirt Pattern
+0 !FILENAME 973pdf.dat !DESCRIPTION Minifig Torso with Black Suit, Red Shirt, Gold Clasps Pattern
+0 !FILENAME 973pdg.dat !DESCRIPTION Minifig Torso with White Rope & Patched Collar Pattern
+0 !FILENAME 973pg0.dat !DESCRIPTION Minifig Torso with Soccer Shirt "1
+0 !FILENAME 973ph0.dat !DESCRIPTION Minifig Torso with Hogwarts Uniform Pattern
+0 !FILENAME 973ph1.dat !DESCRIPTION Minifig Torso with Gryffindor Uniform Pattern
+0 !FILENAME 973ph2.dat !DESCRIPTION Minifig Torso with Slytherin Uniform Pattern
+0 !FILENAME 973ph3.dat !DESCRIPTION Minifig Torso with Voldemort Robe Pattern
+0 !FILENAME 973ph5.dat !DESCRIPTION Minifig Torso HP with Jacket and Light Grey Sweater Pattern
+0 !FILENAME 973ph6.dat !DESCRIPTION Minifig Torso HP with Jacket and Dark Red Sweater Pattern
+0 !FILENAME 973ph7.dat !DESCRIPTION Minifig Torso HP with Grey Sweater and Light Flesh Neck Pattern
+0 !FILENAME 973ph8.dat !DESCRIPTION Minifig Torso HP with Dark Red Sweater and Yellow Neck Pattern
+0 !FILENAME 973phb.dat !DESCRIPTION Minifig Torso with Purple Greatcoat Pattern
+0 !FILENAME 973pm0.dat !DESCRIPTION Minifig Torso with LOTR Leather Armor with Buckle Pattern
+0 !FILENAME 973pm1.dat !DESCRIPTION Minifig Torso with LOTR Cloak, Rope and Belt Pattern
+0 !FILENAME 973pm2.dat !DESCRIPTION Minifig Torso with LOTR Button Shirt with Braces Pattern
+0 !FILENAME 973pn0.dat !DESCRIPTION Minifig Torso with Samurai Dragon Robe Pattern
+0 !FILENAME 973pn1.dat !DESCRIPTION Minifig Torso with Samurai Robe, Sash and Dagger Pattern
+0 !FILENAME 973pn5.dat !DESCRIPTION Minifig Torso with Ninja Wrap, Silver Shuriken & Dagger Pattern
+0 !FILENAME 973pn6.dat !DESCRIPTION Minifig Torso with Ninja Wrap, Gold Shuriken, and Armour Pattern
+0 !FILENAME 973pn7.dat !DESCRIPTION Minifig Torso with Ninja Wrap, Gold Shuriken, and Dagger Pattern
+0 !FILENAME 973pq0.dat !DESCRIPTION Minifig Torso with Bandage and Gold Necklace Pattern
+0 !FILENAME 973pq1.dat !DESCRIPTION Minifig Torso with Bandage, Gold Necklace and Gold Belt Pattern
+0 !FILENAME 973pq2.dat !DESCRIPTION Minifig Torso with DarkBlue Muscles and Gold Necklace Pattern
+0 !FILENAME 973pq3.dat !DESCRIPTION Minifig Torso with Waistcoat, White Shirt and Bandolier Pattern
+0 !FILENAME 973pq4.dat !DESCRIPTION Minifig Torso with Tank Top, Braces & Yellow Skin Pattern
+0 !FILENAME 973pr0.dat !DESCRIPTION Minifig Torso with SW Closed Shirt and Brown Belt Pattern
+0 !FILENAME 973pr1.dat !DESCRIPTION Minifig Torso with SW Robe, Sash and Silver Neck Clasp Pattern
+0 !FILENAME 973pr2.dat !DESCRIPTION Minifig Torso with SW Robe and Rope Belt Pattern
+0 !FILENAME 973pr3.dat !DESCRIPTION Minifig Torso with SW Layered Shirt, Brown Belt Pattern
+0 !FILENAME 973pr4.dat !DESCRIPTION Minifig Torso with SW Layered Shirt, Brown Belt, Braid Pattern
+0 !FILENAME 973pr5.dat !DESCRIPTION Minifig Torso with SW Vest, White Shirt & Lt Flesh Neck Pattern
+0 !FILENAME 973pr6.dat !DESCRIPTION Minifig Torso with SW Gungan Dark Grey/Dark Tan Shirts Pattern
+0 !FILENAME 973pr7.dat !DESCRIPTION Minifig Torso with SW Grey Shirt, Belt with Red Buckle Pattern
+0 !FILENAME 973pr8.dat !DESCRIPTION Minifig Torso with SW Rebel Pilot Bluish Grey Pattern
+0 !FILENAME 973pr9.dat !DESCRIPTION Minifig Torso with SW Imperial Grand Moff Pattern
+0 !FILENAME 973pra.dat !DESCRIPTION Minifig Torso with SW Darth Vader Bluish Grey Pattern
+0 !FILENAME 973prb.dat !DESCRIPTION Minifig Torso with SW Blast Armor (Green Plates) Bl.Grey Pattern
+0 !FILENAME 973prc.dat !DESCRIPTION Minifig Torso with SW Blast Armor (Uncolored Plates) Pattern
+0 !FILENAME 973prd.dat !DESCRIPTION Minifig Torso with SW Leia Hoth Jacket Pattern
+0 !FILENAME 973pre.dat !DESCRIPTION Minifig Torso with SW Scout Trooper Bluish Grey Pattern
+0 !FILENAME 973prf.dat !DESCRIPTION Minifig Torso SW Tank Top Pattern
+0 !FILENAME 973pry.dat !DESCRIPTION Minifig Torso w/ SW Loose Dress Light Grey Folds Pattern
+0 !FILENAME 973ps0.dat !DESCRIPTION Minifig Torso with SW Rebel A-Wing Pilot Pattern
+0 !FILENAME 973ps1.dat !DESCRIPTION Minifig Torso with SW Rebel Pilot Pattern
+0 !FILENAME 973ps2.dat !DESCRIPTION Minifig Torso with SW Jedi Robes and Sash Pattern
+0 !FILENAME 973ps3.dat !DESCRIPTION Minifig Torso with SW Wrap-Around Tunic Pattern
+0 !FILENAME 973ps4.dat !DESCRIPTION Minifig Torso with SW Shirt (Open Collar, No Vest) Pattern
+0 !FILENAME 973ps5.dat !DESCRIPTION Minifig Torso with SW Vest, White Shirt & Yellow Neck Pattern
+0 !FILENAME 973ps6.dat !DESCRIPTION Minifig Torso with SW Ben Kenobi Pattern
+0 !FILENAME 973ps7.dat !DESCRIPTION Minifig Torso with SW Darth Vader Grey Pattern
+0 !FILENAME 973ps8.dat !DESCRIPTION Minifig Torso with SW Layered Shirt, Waist Sash Pattern
+0 !FILENAME 973psa.dat !DESCRIPTION Minifig Torso with SW Rebel Mechanic Pattern
+0 !FILENAME 973psb.dat !DESCRIPTION Minifig Torso with SW Blast Armor (Green Plates) Grey Pattern
+0 !FILENAME 973psc.dat !DESCRIPTION Minifig Torso with SW Pocket-Vest and Techno-Buckle Pattern
+0 !FILENAME 973pse.dat !DESCRIPTION Minifig Torso with SW Scout Trooper Grey Pattern
+0 !FILENAME 973psf.dat !DESCRIPTION Minifig Torso with SW Tunic and Belt Pattern
+0 !FILENAME 973psh.dat !DESCRIPTION Minifig Torso with SW Hoth Trooper Pattern
+0 !FILENAME 973psj.dat !DESCRIPTION Minifig Torso with SW Blast Armor (Silver Plates) Pattern
+0 !FILENAME 973psk.dat !DESCRIPTION Minifig Torso with SW Stormtrooper Pattern
+0 !FILENAME 973psm.dat !DESCRIPTION Minifig Torso with SW Camouflage Smock Pattern
+0 !FILENAME 973psn.dat !DESCRIPTION Minifig Torso with SW Imperial Shuttle Pilot Pattern
+0 !FILENAME 973psq.dat !DESCRIPTION Minifig Torso with SW Imperial Officer Pattern
+0 !FILENAME 973psr.dat !DESCRIPTION Minifig Torso with SW Protocol Droid Pattern
+0 !FILENAME 973pss.dat !DESCRIPTION Minifig Torso with SW Jawa Pattern
+0 !FILENAME 973pst.dat !DESCRIPTION Minifig Torso with Black Collar and Pockets Pattern
+0 !FILENAME 973psv.dat !DESCRIPTION Minifig Torso with SW Moisture Farmer Pattern
+0 !FILENAME 973psw.dat !DESCRIPTION Minifig Torso with SW Cad Bane Pattern
+0 !FILENAME 973psx.dat !DESCRIPTION Minifig Torso with SW Dark Red Robe Pattern
+0 !FILENAME 973psy.dat !DESCRIPTION Minifig Torso w/ SW Loose Dress Light Bluish Grey Folds Pattern
+0 !FILENAME 973psz.dat !DESCRIPTION Minifig Torso with SW Darth Vader Death Star Pattern
+0 !FILENAME 973pt2.dat !DESCRIPTION Minifig Torso with Octan Logo Pattern
+0 !FILENAME 973pw1.dat !DESCRIPTION Minifig Torso with US Cavalry General Pattern
+0 !FILENAME 973pw2.dat !DESCRIPTION Minifig Torso with US Cavalry Officer Pattern
+0 !FILENAME 973pw3.dat !DESCRIPTION Minifig Torso with US Cavalry Soldier Pattern
+0 !FILENAME 973pw4.dat !DESCRIPTION Minifig Torso with Sheriff Pattern
+0 !FILENAME 973pw5.dat !DESCRIPTION Minifig Torso with Blue Undershirt Green Bow and Gun Pattern
+0 !FILENAME 973pw6.dat !DESCRIPTION Minifig Torso with White Braces and Cartridge Belt Pattern
+0 !FILENAME 973pw7.dat !DESCRIPTION Minifig Torso with Red Undershirt and Fringe Pattern
+0 !FILENAME 973pw8.dat !DESCRIPTION Minifig Torso with Card, Suit, Vest, and Gold Fob Pattern
+0 !FILENAME 973pw9.dat !DESCRIPTION Minifig Torso with Brown Vest, Buckle and String Bowtie Pattern
+0 !FILENAME 973pwa.dat !DESCRIPTION Minifig Torso with Gold Fob and 1
+0 !FILENAME 973pwb.dat !DESCRIPTION Minifig Torso w/ White/Blue Triangles, Red/White Amulet Pattern
+0 !FILENAME 973pwc.dat !DESCRIPTION Minifig Torso w/ White/Blue Triangles, Blue/White Amulet Pattern
+0 !FILENAME 973pwd.dat !DESCRIPTION Minifig Torso with Red on Bottom and Fringe Pattern
+0 !FILENAME 973pwe.dat !DESCRIPTION Minifig Torso with Necklace and Blue Squares Pattern
+0 !FILENAME 975.dat !DESCRIPTION ~Minifig Arm Right (Obsolete)
+0 !FILENAME 976.dat !DESCRIPTION ~Minifig Arm Left (Obsolete)
+0 !FILENAME 977.dat !DESCRIPTION ~Minifig Hand (Obsolete)

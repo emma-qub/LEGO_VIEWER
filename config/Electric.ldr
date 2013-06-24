@@ -1,0 +1,273 @@
+0 !FILENAME 10089.dat !DESCRIPTION ~Electric Power Functions Large Motor Case Back
+0 !FILENAME 10090.dat !DESCRIPTION ~Electric Power Functions Large Motor Case Front
+0 !FILENAME 10091.dat !DESCRIPTION ~Electric Power Functions Large Motor Cable Retainer
+0 !FILENAME 10092.dat !DESCRIPTION ~Electric Power Functions Large Motor Case Front Plate
+0 !FILENAME 10095.dat !DESCRIPTION Electric Power Functions Large Motor Axle Hub
+0 !FILENAME 10130.dat !DESCRIPTION ~Electric Power Functions Servo Motor Case Back
+0 !FILENAME 10131.dat !DESCRIPTION ~Electric Power Functions Servo Motor Case Front
+0 !FILENAME 10132.dat !DESCRIPTION ~Electric Power Functions Servo Motor Case Cable Retainer
+0 !FILENAME 10134.dat !DESCRIPTION ~Electric Power Functions Servo Motor Internal Front Plate
+0 !FILENAME 10152.dat !DESCRIPTION Electric Power Functions Servo Motor Axle Hub
+0 !FILENAME 187.dat !DESCRIPTION ~Electric Train Pole Reverser Directional Tab
+0 !FILENAME 189.dat !DESCRIPTION ~Electric Train 4.5V On/Off Switch Brick 2 x 4 (Needs Work)
+0 !FILENAME 22579.dat !DESCRIPTION ~Electric Technic Capacitor Circuit Board
+0 !FILENAME 2500.dat !DESCRIPTION ~Electric Light & Sound Brick 1 x 8 with 3 Light Holes Case
+0 !FILENAME 265a.dat !DESCRIPTION ~Electric Lightbrick 2 x 2 Type 1 4.5V Case
+0 !FILENAME 265b.dat !DESCRIPTION ~Electric Lightbrick 2 x 2 Type 2 4.5V Case
+0 !FILENAME 266a.dat !DESCRIPTION ~Electric Lightbrick 2 x 2 Type 1 12V Case
+0 !FILENAME 266b.dat !DESCRIPTION ~Electric Lightbrick 2 x 2 Type 2 12V Case
+0 !FILENAME 267a.dat !DESCRIPTION ~Electric Lightbrick 2 x 2 Type 1 Insert
+0 !FILENAME 267b.dat !DESCRIPTION ~Electric Lightbrick 2 x 2 Type 2 Insert with Diffusor
+0 !FILENAME 2757.dat !DESCRIPTION Electric Plug Holder 12V
+0 !FILENAME 2775.dat !DESCRIPTION ~Electric Plug (Type 4) Twin Extra-Wide
+0 !FILENAME 2837.dat !DESCRIPTION ~Electric Technic Motor 9V Shaft
+0 !FILENAME 2838.dat !DESCRIPTION ~Electric Technic Motor 9V Base
+0 !FILENAME 2839.dat !DESCRIPTION ~Electric Technic Motor 9V Top
+0 !FILENAME 2840.dat !DESCRIPTION ~Technic Control Centre II - Base Bottom (Needs Work)
+0 !FILENAME 2841.dat !DESCRIPTION ~Technic Control Centre II - Top with Power Cord Inlet
+0 !FILENAME 2842.dat !DESCRIPTION ~Technic Control Centre - Cover (Needs Work)
+0 !FILENAME 2843.dat !DESCRIPTION ~Technic Control Centre II - Rectangular Button Pair
+0 !FILENAME 2844.dat !DESCRIPTION ~Technic Control Centre II - Large Round Button
+0 !FILENAME 2845.dat !DESCRIPTION ~Technic Control Centre - Battery Cover
+0 !FILENAME 2846.dat !DESCRIPTION Electric 9V Battery Box 4 x 14 x 4 Cover
+0 !FILENAME 2847.dat !DESCRIPTION Electric 9V Battery Box 4 x 14 x 4 Bottom (Needs Work)
+0 !FILENAME 2871a.dat !DESCRIPTION Electric Train Motor 9V Decorative Side
+0 !FILENAME 2871b.dat !DESCRIPTION Electric Train Motor RC/PF Decorative Side
+0 !FILENAME 2893.dat !DESCRIPTION ~Electric Train Motor 9V Bottom Cover
+0 !FILENAME 2894.dat !DESCRIPTION ~Electric Train Motor 9V Top Cover
+0 !FILENAME 2912.dat !DESCRIPTION ~Electric Train Track 9V Power Connector Top (Needs Work)
+0 !FILENAME 2913.dat !DESCRIPTION ~Electric Train Track 9V Power Connector
+0 !FILENAME 2919.dat !DESCRIPTION Electric Train Light Prism 1 x 4
+0 !FILENAME 2928.dat !DESCRIPTION Electric Train Light Prism 1 x 4 Holder
+0 !FILENAME 2977.dat !DESCRIPTION Electric Rotation Sensor Bottom
+0 !FILENAME 2979.dat !DESCRIPTION ~Electric Temperature Sensor Top
+0 !FILENAME 2980.dat !DESCRIPTION ~Electric Temperature Sensor Bottom
+0 !FILENAME 2982.dat !DESCRIPTION Electric Light Sensor Bottom
+0 !FILENAME 2983.dat !DESCRIPTION Electric Technic Micromotor Pulley
+0 !FILENAME 2984.dat !DESCRIPTION Electric Technic Micromotor Top
+0 !FILENAME 2985.dat !DESCRIPTION Electric Technic Micromotor Base
+0 !FILENAME 32104.dat !DESCRIPTION ~Electric Mindstorms Scout Module (Needs Work)
+0 !FILENAME 32109.dat !DESCRIPTION Electric Mindstorms RCX 8 x 12 Bottom Cover (needs work)
+0 !FILENAME 32116.dat !DESCRIPTION ~Electric Mindstorms RCX/Scout Battery Holder (Needs Work)
+0 !FILENAME 322.dat !DESCRIPTION ~Electric Lightbrick 2 x 4
+0 !FILENAME 32290.dat !DESCRIPTION ~Electric Technic Motor 4.5V 6 x 17 x 5 Lid
+0 !FILENAME 323.dat !DESCRIPTION Electric Light Bulb for Electric Light Brick 2 x 4
+0 !FILENAME 32339.dat !DESCRIPTION ~Electric Technic Solar Panel Bottom (Needs Work)
+0 !FILENAME 32340.dat !DESCRIPTION ~Electric Technic Solar Panel Top
+0 !FILENAME 32341.dat !DESCRIPTION ~Electric Technic Capacitor Top
+0 !FILENAME 32342.dat !DESCRIPTION ~Electric Technic Capacitor Bottom
+0 !FILENAME 40574.dat !DESCRIPTION ~Electric Spybotic Brick Chassis (Needs Work)
+0 !FILENAME 4170.dat !DESCRIPTION ~Electric Light Prism 1 x 6 Holder
+0 !FILENAME 4171.dat !DESCRIPTION Electric Train Light Prism 1 x 3
+0 !FILENAME 43446.dat !DESCRIPTION ~Electric RC Race Buggy Battery Top
+0 !FILENAME 43447.dat !DESCRIPTION ~Electric RC Race Buggy Battery Base
+0 !FILENAME 43457.dat !DESCRIPTION ~Electric RC Race Buggy Battery Lid
+0 !FILENAME 45907.dat !DESCRIPTION ~Electric Connector Plate 2 x 2 with Contacts
+0 !FILENAME 4707.dat !DESCRIPTION ~Electric Switch Base with 1 Twin Plug Socket
+0 !FILENAME 47154.dat !DESCRIPTION ~Electric Technic Motor 9V Geared (48
+0 !FILENAME 47155.dat !DESCRIPTION ~Electric Technic Motor 9V Geared (48
+0 !FILENAME 47156.dat !DESCRIPTION ~Electric Technic Motor 9V Geared (48
+0 !FILENAME 47157.dat !DESCRIPTION ~Electric Technic Motor 9v Geared (48
+0 !FILENAME 4755.dat !DESCRIPTION Electric Plate 1 x 2 with Contacts
+0 !FILENAME 4757.dat !DESCRIPTION Electric Plate 2 x 4 with Contacts
+0 !FILENAME 4758.dat !DESCRIPTION Electric Plate 2 x 8 with Contacts
+0 !FILENAME 4760.dat !DESCRIPTION ~Electric 9V Battery Box 4 x 8 x 2.333 Cover
+0 !FILENAME 4760p01.dat !DESCRIPTION ~Electric 9V Battery Box 4 x 8 x 2.333 Cover w/ "9V" Pattern
+0 !FILENAME 4761.dat !DESCRIPTION Electric 9V Battery Box 4 x 8 x 2 1/3 Lid
+0 !FILENAME 4762.dat !DESCRIPTION ~Electric 9V Battery Box 4 x 8 x 2.333 Switch
+0 !FILENAME 4767a.dat !DESCRIPTION ~Electric Light & Sound Brick 1 x 2 w/ Single Top Light - Top
+0 !FILENAME 4768.dat !DESCRIPTION ~Electric Light & Sound Brick 1 x 2 w/ Single Top Light - Base
+0 !FILENAME 4769.dat !DESCRIPTION ~Electric Light & Sound Bulb Inner Cover
+0 !FILENAME 4770.dat !DESCRIPTION Electric Light & Sound Coloured Globe
+0 !FILENAME 4771a.dat !DESCRIPTION ~Electric Light & Sound Brick 1 x 4 w/ Twin Top Lights - Top
+0 !FILENAME 4772.dat !DESCRIPTION ~Electric Light & Sound Brick 1 x 4 w/ Twin Top Lights - Base
+0 !FILENAME 4773a.dat !DESCRIPTION ~Electric Light & Sound Brick 2 x 2 x 1.333 Siren Top
+0 !FILENAME 4774.dat !DESCRIPTION ~Electric Light & Sound Brick 2 x 2 x 1.333 Siren Base
+0 !FILENAME 501a.dat !DESCRIPTION ~Electric Train Motor 12V with 2-Hole Plugs
+0 !FILENAME 501b.dat !DESCRIPTION ~Electric Train Motor 12V Unslotted with 3-Hole Plugs
+0 !FILENAME 501c.dat !DESCRIPTION ~Electric Train Motor 12V Slotted with 3-Hole Plugs
+0 !FILENAME 502.dat !DESCRIPTION Electric Train Motor 12V Connecting Rod
+0 !FILENAME 511.dat !DESCRIPTION Electric Train 12V Track Contact Base
+0 !FILENAME 512.dat !DESCRIPTION Electric Train 12V Level Crossing Sign
+0 !FILENAME 512p01.dat !DESCRIPTION Electric Train 12V Level Crossing Sign with Red/White Pattern
+0 !FILENAME 5292.dat !DESCRIPTION ~Electric RC Race Buggy Motor
+0 !FILENAME 5306.dat !DESCRIPTION Electric Brick 2 x 2 x 2/3 with Wire End
+0 !FILENAME 53790.dat !DESCRIPTION ~Electric Mindstorms NXT Top
+0 !FILENAME 53791.dat !DESCRIPTION ~Electric Mindstorms NXT Battery Case (Needs Work)
+0 !FILENAME 54708.dat !DESCRIPTION ~Electric Mindstorms NXT Battery Lid
+0 !FILENAME 54712.dat !DESCRIPTION ~Electric Mindstorms NXT Motor Sockets / USB Cover
+0 !FILENAME 54713.dat !DESCRIPTION ~Electric Mindstorms NXT Sensor Sockets Cover
+0 !FILENAME 54714.dat !DESCRIPTION ~Electric Mindstorms NXT Motor Casing Right (Needs Work)
+0 !FILENAME 54715.dat !DESCRIPTION ~Electric Mindstorms NXT Motor Casing Left (Needs Work)
+0 !FILENAME 54716.dat !DESCRIPTION ~Electric Mindstorms NXT Motor Casing Bottom (Needs Work)
+0 !FILENAME 54717.dat !DESCRIPTION ~Electric Mindstorms NXT Motor Casing Top
+0 !FILENAME 54725.dat !DESCRIPTION ~Electric Mindstorms NXT Motor Drive Wheel
+0 !FILENAME 54732.dat !DESCRIPTION ~Electric Mindstorms NXT Cable Connector Socket
+0 !FILENAME 54929.dat !DESCRIPTION ~Electric Light Brick 2 x 3 x 1.333 Top
+0 !FILENAME 54931.dat !DESCRIPTION ~Electric Light Brick 2 x 3 x 1.333 Button with Axle Hole
+0 !FILENAME 55205.dat !DESCRIPTION ~Electric Sound Brick 2 x 4 x 2 Top
+0 !FILENAME 55206.dat !DESCRIPTION ~Electric Sound Brick 2 x 4 x 2 Bottom
+0 !FILENAME 55652.dat !DESCRIPTION ~Electric Mindstorms NXT Ultrasonic Sensor Transducer
+0 !FILENAME 55816.dat !DESCRIPTION ~Electric Mindstorms NXT Sensor Shell Back
+0 !FILENAME 55964.dat !DESCRIPTION ~Electric Mindstorms NXT Sound Sensor Shell Front
+0 !FILENAME 55965.dat !DESCRIPTION ~Electric Mindstorms NXT Sound Sensor Foam
+0 !FILENAME 55966.dat !DESCRIPTION ~Electric Mindstorms NXT Sensor Shell Top
+0 !FILENAME 55967.dat !DESCRIPTION ~Electric Mindstorms NXT Touch Sensor Shell Front (Needs Work)
+0 !FILENAME 55968.dat !DESCRIPTION Electric Mindstorms NXT Touch Sensor Button (Needs Work)
+0 !FILENAME 55970.dat !DESCRIPTION ~Electric Mindstorms NXT Light Sensor Shell Front
+0 !FILENAME 55972.dat !DESCRIPTION ~Electric Mindstorms NXT Light Sensor Red LED
+0 !FILENAME 55973.dat !DESCRIPTION ~Electric Mindstorms NXT Light Sensor Phototransistor
+0 !FILENAME 560.dat !DESCRIPTION ~Electric 4.5V Battery Box 7 x 11 x 3 Type 1 Lid
+0 !FILENAME 561.dat !DESCRIPTION ~Electric 4.5V Battery Box 7 x 11 x 3 Type 1 Base
+0 !FILENAME 562.dat !DESCRIPTION ~Electric 4.5V Battery Box Pole Reverser Type 3
+0 !FILENAME 56220.dat !DESCRIPTION ~Electric Mindstorms NXT 7.4V Rechargeable Li-ion Battery
+0 !FILENAME 563.dat !DESCRIPTION ~Electric 4.5V Battery Box 7 x 11 Switch Lever
+0 !FILENAME 56467.dat !DESCRIPTION ~Electric Mindstorms NXT Ultrasonic Sensor Front
+0 !FILENAME 56468.dat !DESCRIPTION ~Electric Mindstorms NXT Ultrasonic Sensor Shell Top
+0 !FILENAME 56474.dat !DESCRIPTION ~Electric Mindstorms NXT Ultrasonic Sensor Flexible Insert
+0 !FILENAME 56476.dat !DESCRIPTION ~Electric Mindstorms NXT Ultrasonic Sensor Insert (Needs Work)
+0 !FILENAME 565.dat !DESCRIPTION ~Electric Motor Case 4 x 12 x 3.333 Type 1 - Base
+0 !FILENAME 566.dat !DESCRIPTION ~Electric Motor Case 4 x 12 x 3.333 Type 1 - Axle
+0 !FILENAME 567.dat !DESCRIPTION ~Electric Plug (Type 2) Twin
+0 !FILENAME 58124.dat !DESCRIPTION ~Electric Power Functions Connector Top (Needs Work)
+0 !FILENAME 58124c01.dat !DESCRIPTION Electric Power Functions Connector with PF Bottom
+0 !FILENAME 58124c02.dat !DESCRIPTION Electric Power Functions Connector with 9V Bottom
+0 !FILENAME 58124c03.dat !DESCRIPTION Electric Power Functions Connector with PF Bottom and Flat Top
+0 !FILENAME 58125a.dat !DESCRIPTION ~Electric Power Functions Connector Bottom (PF Type)(Needs Work)
+0 !FILENAME 58125b.dat !DESCRIPTION ~Electric Power Functions Connector Bottom (9V Type)(Needs Work)
+0 !FILENAME 58132.dat !DESCRIPTION ~Electric Power Functions IR Remote Control Top (Needs Work)
+0 !FILENAME 58133.dat !DESCRIPTION ~Electric Power Functions IR Remote Control Front Glass
+0 !FILENAME 58134.dat !DESCRIPTION ~Electric Power Functions IR Remote Control Bottom (Needs Work)
+0 !FILENAME 58135.dat !DESCRIPTION ~Electric Power Functions IR Remote Control Battery Lid
+0 !FILENAME 58136.dat !DESCRIPTION ~Electric Power Functions IR Remote Control Direction Switch
+0 !FILENAME 58147.dat !DESCRIPTION ~Electric Power Functions Infra-Red Receiver Top (Needs Work)
+0 !FILENAME 58148.dat !DESCRIPTION ~Electric Power Functions Infrared Receiver Bottom
+0 !FILENAME 58148p01.dat !DESCRIPTION ~Electric Power Functions Infrared Receiver Bottom "V2" Pattern
+0 !FILENAME 58149.dat !DESCRIPTION ~Electric Power Functions Infra-Red Receiver Lens
+0 !FILENAME 58150.dat !DESCRIPTION ~Electric Power Functions Infra-Red Receiver Switch (Needs Work)
+0 !FILENAME 59142.dat !DESCRIPTION ~Electric Power Functions Medium Motor Back (Needs Work)
+0 !FILENAME 59143.dat !DESCRIPTION ~Electric Power Functions Medium Motor Front (Needs Work)
+0 !FILENAME 59154.dat !DESCRIPTION ~Electric Power Functions XL Motor Back (Needs Work)
+0 !FILENAME 59155.dat !DESCRIPTION ~Electric Power Functions XL Motor Front (Needs Work)
+0 !FILENAME 592.dat !DESCRIPTION ~Electric Plug Body for Electric Plug Type 1 and Type 2
+0 !FILENAME 593.dat !DESCRIPTION ~Electric 4.5V Battery Box 7 x 11 x 3 Type 2 Base
+0 !FILENAME 59365.dat !DESCRIPTION ~Electric Power Functions IR Remote Control Channel Selector
+0 !FILENAME 6035.dat !DESCRIPTION Electric Light & Sound Brick 1 x 2 with Single Side Light
+0 !FILENAME 6216m.dat !DESCRIPTION Electric Technic Motor 4.5V
+0 !FILENAME 6228a.dat !DESCRIPTION Electric Technic Motor 12V
+0 !FILENAME 62469.dat !DESCRIPTION ~Electric Power Functions Pole Reverser Top (Needs Work)
+0 !FILENAME 62470.dat !DESCRIPTION ~Electric Power Functions Pole Reverser Bottom
+0 !FILENAME 62473.dat !DESCRIPTION ~Electric Power Functions Pole Reverser Lever
+0 !FILENAME 62497.dat !DESCRIPTION ~Electric Power Functions Light Front
+0 !FILENAME 62498.dat !DESCRIPTION ~Electric Power Functions Light Back
+0 !FILENAME 62500.dat !DESCRIPTION ~Electric Power Functions Light Middle Box Top
+0 !FILENAME 62501.dat !DESCRIPTION ~Electric Power Functions Light Middle Box Bottom
+0 !FILENAME 62503.dat !DESCRIPTION ~LED
+0 !FILENAME 62836.dat !DESCRIPTION ~Electric Mindstorms NXT Temperature Sensor Probe
+0 !FILENAME 62837.dat !DESCRIPTION ~Electric Mindstorms NXT Temperature Sensor Shell Front
+0 !FILENAME 62838.dat !DESCRIPTION ~Electric Mindstorms NXT Sensor Cable Pass-Through
+0 !FILENAME 62875.dat !DESCRIPTION ~Electric Power Functions Pole Reverser Slider
+0 !FILENAME 64033.dat !DESCRIPTION ~Electric Power Functions Two Ports USB Controller Bottom
+0 !FILENAME 64034.dat !DESCRIPTION ~Electric Power Functions Two Ports USB Controller Top
+0 !FILENAME 64051.dat !DESCRIPTION ~Electric Power Functions Tilt Sensor Bottom
+0 !FILENAME 64053.dat !DESCRIPTION ~Electric Power Functions Tilt Sensor Top
+0 !FILENAME 64056.dat !DESCRIPTION ~Electric Power Functions Sensor Connector Top (Needs Work)
+0 !FILENAME 64059.dat !DESCRIPTION ~Electric Power Functions IR Distance Sensor Bottom
+0 !FILENAME 64060.dat !DESCRIPTION ~Electric Power Functions IR Distance Sensor Top
+0 !FILENAME 64893.dat !DESCRIPTION ~Electric Mindstorms NXT Color Sensor / Color Lamp Shell Front
+0 !FILENAME 64897.dat !DESCRIPTION ~Electric Mindstorms NXT Color Sensor / Color Lamp RGB LED
+0 !FILENAME 64898.dat !DESCRIPTION ~Electric Mindstorms NXT Color Sensor / Lamp Phototransistor
+0 !FILENAME 6551.dat !DESCRIPTION Electric Technic Pole Reverser
+0 !FILENAME 6552.dat !DESCRIPTION Electric Technic Pole Reverser Center
+0 !FILENAME 6637.dat !DESCRIPTION Electric Technic Fiber Optics Element
+0 !FILENAME 6637a.dat !DESCRIPTION ~Electric Technic Fiber Optics Element Top/Bottom
+0 !FILENAME 6637b.dat !DESCRIPTION ~Electric Technic Fiber Optics Element Sides
+0 !FILENAME 6637d.dat !DESCRIPTION ~Electric Technic Fiber Optics Element Front/Back
+0 !FILENAME 6639.dat !DESCRIPTION Electric Technic Fiber Optics Element Axis
+0 !FILENAME 6640.dat !DESCRIPTION Electric Technic Fiber Optics Cable 5L
+0 !FILENAME 70022.dat !DESCRIPTION Electric Train 12V Signal Light Brick 2 x 3
+0 !FILENAME 71122.dat !DESCRIPTION ~Technic Control Centre II - Rubber Plate
+0 !FILENAME 72.dat !DESCRIPTION Electric 9V Battery Box 4 x 14 x 4 Buttons (Needs Work)
+0 !FILENAME 765.dat !DESCRIPTION ~Electric Plug (Type 4) Single
+0 !FILENAME 766a.dat !DESCRIPTION ~Electric Plug (Type 4) Twin with Centre Plastic Pin
+0 !FILENAME 84724.dat !DESCRIPTION ~Electric Power Functions Rechargeable Battery Box On/Off Button
+0 !FILENAME 84725.dat !DESCRIPTION ~Electric Power Functions Rechargeable Battery Box Top
+0 !FILENAME 84726.dat !DESCRIPTION ~Electric Power Functions Rechargeable Battery Box Power Dial
+0 !FILENAME 84727.dat !DESCRIPTION ~Electric Power Functions Rechargeable Battery Box Bottom
+0 !FILENAME 84728.dat !DESCRIPTION ~Electric Power Functions Rechargeable Battery Box Power Input
+0 !FILENAME 84746.dat !DESCRIPTION ~Electric Power Functions IR Handset Increm. Top (Needs Work)
+0 !FILENAME 84747.dat !DESCRIPTION ~Electric Power Functions IR Handset Increm. Bottom (Needs Work)
+0 !FILENAME 84748.dat !DESCRIPTION ~Electric Power Functions IR Handset Increm. Lid (Needs Work)
+0 !FILENAME 84750.dat !DESCRIPTION ~Electric Power Functions IR Handset Incr. IR Glass (Needs Work)
+0 !FILENAME 84751.dat !DESCRIPTION ~Electric Power Functions IR Handset Incremental Stop Button
+0 !FILENAME 84752.dat !DESCRIPTION ~Electric Power Functions IR Handset Incremental Dial
+0 !FILENAME 877.dat !DESCRIPTION Electric Touch Sensor Brick 3 x 2 Top/Bottom Halves
+0 !FILENAME 878.dat !DESCRIPTION ~Electric Touch Sensor Brick 3 x 2 Sensor Peg
+0 !FILENAME 879.dat !DESCRIPTION Electric Touch Sensor Brick 3 x 2 (Complete Assembly Shortcut)
+0 !FILENAME 880.dat !DESCRIPTION Electric Light Sensor Top
+0 !FILENAME 881.dat !DESCRIPTION Electric Light Sensor Glass
+0 !FILENAME 883.dat !DESCRIPTION Electric Mindstorms RCX Module
+0 !FILENAME 884.dat !DESCRIPTION Electric Mindstorms RCX (Complete Assembly Shortcut)
+0 !FILENAME 885.dat !DESCRIPTION Electric Rotation Sensor Rotation Element
+0 !FILENAME 886.dat !DESCRIPTION Electric Rotation Sensor Top
+0 !FILENAME 897.dat !DESCRIPTION ~Electric Mindstorms NXT Converter Cable Centre Box
+0 !FILENAME 905.dat !DESCRIPTION ~Electric Light & Sound Computer Console Base
+0 !FILENAME 906.dat !DESCRIPTION ~Electric Light & Sound Computer Screen Pattern
+0 !FILENAME 918.dat !DESCRIPTION ~Electric Power Functions 9V Battery Box Lid
+0 !FILENAME 919.dat !DESCRIPTION ~Electric Power Functions 9V Battery Box Case
+0 !FILENAME 920.dat !DESCRIPTION ~Electric Power Functions 9V Battery Box Switch
+0 !FILENAME 921.dat !DESCRIPTION ~Electric 9V Battery Box with Pegholes Lid
+0 !FILENAME 922.dat !DESCRIPTION ~Electric 9V Battery Box with Pegholes Switch
+0 !FILENAME 923.dat !DESCRIPTION ~Electric 9V Battery Box with Pegholes Case
+0 !FILENAME 931.dat !DESCRIPTION ~Electric Mindstorms NXT Blind Shell Front
+0 !FILENAME 933.dat !DESCRIPTION ~Electric Mindstorms NXT RJ12 Style Plug
+0 !FILENAME 935.dat !DESCRIPTION ~Electric Mindstorms NXT USB Type B Socket
+0 !FILENAME 937.dat !DESCRIPTION ~Electric Power Functions IR Remote Control Direction Reverser
+0 !FILENAME 938.dat !DESCRIPTION ~Electric Mindstorms NXT IR Seeker Shell Front
+0 !FILENAME 990.dat !DESCRIPTION Electric Train 12V Flashing-Light Circuit
+0 !FILENAME 991.dat !DESCRIPTION ~Electric RC Race Buggy Motor - Axle Bush
+0 !FILENAME ms1049.dat !DESCRIPTION Electric Mindstorms NXT RFID Tag
+0 !FILENAME u9001.dat !DESCRIPTION ~Electric Switch: Key Left
+0 !FILENAME u9001p01.dat !DESCRIPTION ~Electric Switch: Key Left with Point Straight Pattern
+0 !FILENAME u9001p02.dat !DESCRIPTION ~Electric Switch: Key Left with Red Signal Pattern
+0 !FILENAME u9001p03.dat !DESCRIPTION ~Electric Switch: Key Left with Open Crossing Pattern
+0 !FILENAME u9001p04.dat !DESCRIPTION ~Electric Switch: Key Left with Yellow Triangle Down Pattern
+0 !FILENAME u9001p05.dat !DESCRIPTION ~Electric Switch: Key Left with Left Rotating Arrow Pattern
+0 !FILENAME u9002.dat !DESCRIPTION ~Electric Switch: Key Right
+0 !FILENAME u9002p01.dat !DESCRIPTION ~Electric Switch: Key Right with Point Branching Pattern
+0 !FILENAME u9002p02.dat !DESCRIPTION ~Electric Switch: Key Right with Green Signal Pattern
+0 !FILENAME u9002p03.dat !DESCRIPTION ~Electric Switch: Key Right with Closed Crossing Pattern
+0 !FILENAME u9002p04.dat !DESCRIPTION ~Electric Switch: Key Right with Yellow Triangle Up Pattern
+0 !FILENAME u9002p05.dat !DESCRIPTION ~Electric Switch: Key Right with Right Rotating Arrow Pattern
+0 !FILENAME u9004.dat !DESCRIPTION ~Electric Switch Base with 2 Twin Plug Sockets
+0 !FILENAME u9005.dat !DESCRIPTION ~Electric Switch Base with Twin and Multi-use Plug Sockets
+0 !FILENAME u9014.dat !DESCRIPTION ~Electric RC Race Buggy Axle Support
+0 !FILENAME u9015.dat !DESCRIPTION ~Electric RC Race Buggy Axle
+0 !FILENAME u9016.dat !DESCRIPTION ~Electric RC Race Buggy Motor
+0 !FILENAME u9023.dat !DESCRIPTION ~Electric 4.5V Battery Box 7 x 11 x 3 Type 2 Lid
+0 !FILENAME u9024.dat !DESCRIPTION ~Electric 4.5V Battery Box Pole Reverser Type 1
+0 !FILENAME u9025.dat !DESCRIPTION ~Electric 4.5V Battery Box 7 x 11 x 3.333 Lid
+0 !FILENAME u9028.dat !DESCRIPTION ~Electric Power Functions Twin Cable Segment
+0 !FILENAME u9038.dat !DESCRIPTION ~Technic Control Centre II - Top without Power Cord Inlet
+0 !FILENAME u9039.dat !DESCRIPTION ~Electric 4.5V Battery Box Pole Reverser Type 2
+0 !FILENAME u9040.dat !DESCRIPTION ~Electric 4.5V Battery Box 7 x 11 x 3.333 Type 1 Base
+0 !FILENAME u9041.dat !DESCRIPTION ~Electric 4.5V Battery Box 7 x 11 x 3.333 Type 2 Base
+0 !FILENAME u9042.dat !DESCRIPTION ~Electric Light & Sound Brick 1 x 8 with 3 Light Holes Lid
+0 !FILENAME u9043.dat !DESCRIPTION ~Electric Light & Sound Prism 1 x 8 with 3 Front Lights
+0 !FILENAME u9047.dat !DESCRIPTION ~Electric Mindstorms Scout Module IR Window
+0 !FILENAME u9055.dat !DESCRIPTION ~Electric Train 12V Power Pickup Plug Pin Type 2
+0 !FILENAME u9057.dat !DESCRIPTION ~Electric Train 12V Power Pickup Plug Pin Type 1
+0 !FILENAME u9058.dat !DESCRIPTION ~Electric Train 12V Transformer Type 3 Case
+0 !FILENAME u9059.dat !DESCRIPTION ~Electric Train 12V Transformer Type 3 Throttle Insert
+0 !FILENAME u9060.dat !DESCRIPTION Electric Train 12V Transformer Throttle Control Knob
+0 !FILENAME u9061.dat !DESCRIPTION Electric Train 12V Transformer AC/DC Output Plug Cover
+0 !FILENAME u9110.dat !DESCRIPTION ~Electric Mindstorms NXT Color Sensor Shell Front
+0 !FILENAME u9130.dat !DESCRIPTION ~Electric Train 12V Power Pickup
+0 !FILENAME u9144.dat !DESCRIPTION ~Electric Technic Solar Panel Cell
+0 !FILENAME u9146.dat !DESCRIPTION ~Pin for Electric Plug (Type 4) Single (Needs Work)
+0 !FILENAME u9148.dat !DESCRIPTION ~Electric Power Functions E-Motor Front Case
+0 !FILENAME u9149.dat !DESCRIPTION ~Electric Power Functions E-Motor Back Case
+0 !FILENAME u9157.dat !DESCRIPTION ~Battery Button Cell LR41
+0 !FILENAME u9190.dat !DESCRIPTION ~Electric Power Functions 4-Wire Ribbon Cable Segment
+0 !FILENAME u9202.dat !DESCRIPTION ~Technic Control Centre II - Power Socket
+0 !FILENAME u9227.dat !DESCRIPTION ~Technic Control Centre - Rubber Foot

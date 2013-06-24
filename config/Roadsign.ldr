@@ -1,0 +1,126 @@
+0 !FILENAME 2038.dat !DESCRIPTION Signpost Ornamented
+0 !FILENAME 30258.dat !DESCRIPTION Roadsign Clip-on 2 x 2 Square
+0 !FILENAME 30258p01.dat !DESCRIPTION Roadsign Clip-on 2 x 2 Square with Black Arrow Pattern
+0 !FILENAME 30258p02.dat !DESCRIPTION Roadsign Clip-on 2 x 2 Square with Black Turn Arrow Pattern
+0 !FILENAME 30258p03.dat !DESCRIPTION Roadsign Clip-on 2 x 2 Square with Pedestrian Crossing Pattern
+0 !FILENAME 30258p04.dat !DESCRIPTION Roadsign Clip-on 2 x 2 Square with Speed Limit "3
+0 !FILENAME 30258p05.dat !DESCRIPTION Roadsign Clip-on 2 x 2 Square with "P" on Blue Pattern
+0 !FILENAME 30259.dat !DESCRIPTION Roadsign Clip-on 2.2 x 2.667 Triangular
+0 !FILENAME 30259p01.dat !DESCRIPTION Roadsign Clip-on 2.2 x 2.667 Triangular with Fire Pattern
+0 !FILENAME 30259p02.dat !DESCRIPTION Roadsign Clip-on 2.2 x 2.667 Triangular with Warning Pattern
+0 !FILENAME 30259p03.dat !DESCRIPTION Roadsign Clip-on 2.2 x 2.667 Triangular with Bend Pattern
+0 !FILENAME 30259p04.dat !DESCRIPTION Roadsign Clip-on 2.2 x 2.667 Triangular w/ Traffic Light Patt.
+0 !FILENAME 30259p05.dat !DESCRIPTION Roadsign Clip-on 2.2 x 2.667 Triangular w/ Road Works Pattern
+0 !FILENAME 30259p06.dat !DESCRIPTION Roadsign Clip-on 2.2 x 2.667 Triangular w/ Narrow Road Pattern
+0 !FILENAME 30260.dat !DESCRIPTION Roadsign Clip-on 2 x 2 Octagonal
+0 !FILENAME 30260p01.dat !DESCRIPTION Roadsign Clip-on 2 x 2 Octagonal w/ Red Stop Sign Pattern
+0 !FILENAME 30261.dat !DESCRIPTION Roadsign Clip-on 2 x 2 Round
+0 !FILENAME 30261p01.dat !DESCRIPTION Roadsign Clip-on 2 x 2 Round with "POLICE" and "STOP" Pattern
+0 !FILENAME 30261p02.dat !DESCRIPTION Roadsign Clip-on 2 x 2 Round with Speed Limit "5
+0 !FILENAME 30261p03.dat !DESCRIPTION Roadsign Clip-on 2 x 2 Round with Arrow on Blue Pattern
+0 !FILENAME 30261p04.dat !DESCRIPTION Roadsign Clip-on 2 x 2 Round with No Entry Pattern
+0 !FILENAME 30261p05.dat !DESCRIPTION Roadsign Clip-on 2 x 2 Round with No Parking Pattern
+0 !FILENAME 3349.dat !DESCRIPTION Roadsign Rectangular Tall
+0 !FILENAME 3349p01.dat !DESCRIPTION Roadsign Rectangular Tall with Parking and "3
+0 !FILENAME 3350.dat !DESCRIPTION Roadsign Round
+0 !FILENAME 3350p01.dat !DESCRIPTION Roadsign Round with No Entry Pattern
+0 !FILENAME 3350p02.dat !DESCRIPTION Roadsign Round with No Left Turn Pattern
+0 !FILENAME 3350p03.dat !DESCRIPTION Roadsign Round with No Waiting Left Pattern
+0 !FILENAME 3350p04.dat !DESCRIPTION Roadsign Round with No Waiting Right Pattern
+0 !FILENAME 3350p05.dat !DESCRIPTION Roadsign Round with Speed Limit "4
+0 !FILENAME 3350p06.dat !DESCRIPTION Roadsign Round with No Passing Pattern
+0 !FILENAME 3350p07.dat !DESCRIPTION Roadsign Round with End of Speed Limit "4
+0 !FILENAME 3350p08.dat !DESCRIPTION Roadsign Round with End of No Passing Pattern
+0 !FILENAME 3350p09.dat !DESCRIPTION Roadsign Round with "BUS STOP" Pattern
+0 !FILENAME 3351a.dat !DESCRIPTION Roadsign Triangular Type 1
+0 !FILENAME 3351ap01.dat !DESCRIPTION Roadsign Triangular Type 1 with Level Crossing Large Pattern
+0 !FILENAME 3351ap02.dat !DESCRIPTION Roadsign Triangular Type 1 with Cross Intersection Pattern
+0 !FILENAME 3351ap03.dat !DESCRIPTION Roadsign Triangular Type 1 with Road Works, 1 Dirt Pile Pattern
+0 !FILENAME 3351ap04.dat !DESCRIPTION Roadsign Triangular Type 1 with Skidding Car/Spare Wheel Pattern
+0 !FILENAME 3351ap05.dat !DESCRIPTION Roadsign Triangular Type 1 with Skidding Car Pattern
+0 !FILENAME 3351ap06.dat !DESCRIPTION Roadsign Triangular Type 1 with Locomotive no Rail Pattern
+0 !FILENAME 3351ap07.dat !DESCRIPTION Roadsign Triangular Type 1 with Locomotive on Rail Pattern
+0 !FILENAME 3351ap08.dat !DESCRIPTION Roadsign Triangular Type 1 with Ped. Crossing Type 1 Pattern
+0 !FILENAME 3351ap09.dat !DESCRIPTION Roadsign Triangular Type 1 with Pedestrians Pattern
+0 !FILENAME 3351ap10.dat !DESCRIPTION Roadsign Triangular Type 1 with Road Works, 2 Piles Type 1 Patt.
+0 !FILENAME 3351ap11.dat !DESCRIPTION Roadsign Triangular Type 1 with Road Works, 2 Piles Type 2 Patt.
+0 !FILENAME 3351ap12.dat !DESCRIPTION Roadsign Triangular Type 1 with Ped. Crossing Type 2 Pattern
+0 !FILENAME 3351ap13.dat !DESCRIPTION Roadsign Triangular Type 1 with Pedestrians Pattern
+0 !FILENAME 3351ap14.dat !DESCRIPTION Roadsign Triangular Type 1 with Level Crossing Small Pattern
+0 !FILENAME 3351ap15.dat !DESCRIPTION Roadsign Triangular Type 1 with Dangerous Intersection Pattern
+0 !FILENAME 3351b.dat !DESCRIPTION Roadsign Triangular Type 2
+0 !FILENAME 3351bp06.dat !DESCRIPTION Roadsign Triangular Type 2 with Locomotive no Rail Pattern
+0 !FILENAME 3351bp15.dat !DESCRIPTION Roadsign Triangular Type 2 with Dangerous Intersection Pattern
+0 !FILENAME 3570.dat !DESCRIPTION Roadsign Octagonal
+0 !FILENAME 3570p01.dat !DESCRIPTION Roadsign Octagonal with "STOP" Short Text Pattern
+0 !FILENAME 3570p02.dat !DESCRIPTION Roadsign Octagonal with "STOP" Tall Text Pattern
+0 !FILENAME 647.dat !DESCRIPTION Roadsign Square
+0 !FILENAME 647p01.dat !DESCRIPTION Roadsign Square with Parking Pattern
+0 !FILENAME 649p01.dat !DESCRIPTION ~Roadsign Triangle with Level Crossing Pattern (Obsolete)
+0 !FILENAME 649p02.dat !DESCRIPTION ~Roadsign Triangle with Road Crossing Sign (Obsolete)
+0 !FILENAME 675p01.dat !DESCRIPTION ~Roadsign Square Tall with Parking and 3
+0 !FILENAME 676.dat !DESCRIPTION Roadsign Rectangle
+0 !FILENAME 676p01.dat !DESCRIPTION Roadsign Rectangle with Snack Bar Sign
+0 !FILENAME 723.dat !DESCRIPTION Lamppost
+0 !FILENAME 739p01.dat !DESCRIPTION ~Roadsign Octagonal with Stop Sign Pattern (Obsolete)
+0 !FILENAME 740.dat !DESCRIPTION Roadsign Old Square
+0 !FILENAME 740p01.dat !DESCRIPTION Roadsign Old Square with Free Parking Sign
+0 !FILENAME 740p02.dat !DESCRIPTION Roadsign Square Large without Base with Parking Narrow Pattern
+0 !FILENAME 745.dat !DESCRIPTION Roadsign Base Round Type 1
+0 !FILENAME 746.dat !DESCRIPTION Roadsign Base Round Type 2
+0 !FILENAME 747.dat !DESCRIPTION Roadsign Triangular without Base
+0 !FILENAME 747p01.dat !DESCRIPTION ~Roadsign Old with Generic Warning Pattern (Obsolete)
+0 !FILENAME 747p02.dat !DESCRIPTION ~Roadsign Old with Dangerous Intersection Sign (Obsolete)
+0 !FILENAME 747p03.dat !DESCRIPTION ~Roadsign Old with Level Crossing Sign (Obsolete)
+0 !FILENAME 747p04.dat !DESCRIPTION Roadsign Triangular without Base with Double Bend Left Pattern
+0 !FILENAME 747p05.dat !DESCRIPTION ~Roadsign Old with Beware of Pedestrians Sign (Obsolete)
+0 !FILENAME 747p06.dat !DESCRIPTION Roadsign Triangular without Base w/ Locomotive no Rail Pattern
+0 !FILENAME 747p07.dat !DESCRIPTION Roadsign Triangular without Base with Pedestrians Pattern
+0 !FILENAME 747p08.dat !DESCRIPTION Roadsign Triangular without Base with Generic Warning Pattern
+0 !FILENAME 747p09.dat !DESCRIPTION Roadsign Triangular without Base with Intersection Pattern
+0 !FILENAME 747p10.dat !DESCRIPTION Roadsign Triangular without Base with Ped. Crossing Pattern
+0 !FILENAME 747p11.dat !DESCRIPTION Roadsign Triangular without Base with Level Crossing Pattern
+0 !FILENAME 81294.dat !DESCRIPTION Roadsign Triangle with Dangerous Intersection Sign
+0 !FILENAME u1850.dat !DESCRIPTION Roadsign Diamond without Base
+0 !FILENAME u1850p01.dat !DESCRIPTION Roadsign Diamond without Base with Red Border Pattern
+0 !FILENAME u1850p02.dat !DESCRIPTION Roadsign Diamond without Base with Priority Road Pattern
+0 !FILENAME u1850p03.dat !DESCRIPTION Roadsign Diamond without Base with End Priority Right Pattern
+0 !FILENAME u1850p04.dat !DESCRIPTION Roadsign Diamond without Base with End Priority Left Pattern
+0 !FILENAME u1851.dat !DESCRIPTION Roadsign Round Large without Base
+0 !FILENAME u1851p01.dat !DESCRIPTION Roadsign Round Large without Base with "STOP" Pattern
+0 !FILENAME u1852.dat !DESCRIPTION Roadsign Round Small without Base
+0 !FILENAME u1852p01.dat !DESCRIPTION Roadsign Round Small without Base with No Entry Wide Pattern
+0 !FILENAME u1852p02.dat !DESCRIPTION Roadsign Round Small without Base with No Entry Narrow Pattern
+0 !FILENAME u1852p03.dat !DESCRIPTION Roadsign Round Small without Base with No Left Turn Pattern
+0 !FILENAME u1852p04.dat !DESCRIPTION Roadsign Round Small without Base with No Waiting Left Pattern
+0 !FILENAME u1852p05.dat !DESCRIPTION Roadsign Round Small without Base with No Parking Pattern
+0 !FILENAME u1852p06.dat !DESCRIPTION Roadsign Round Small without Base with Turn Left Narrow Pattern
+0 !FILENAME u1852p07.dat !DESCRIPTION Roadsign Round Small without Base with Turn Right Narrow Pattern
+0 !FILENAME u1852p08.dat !DESCRIPTION Roadsign Round Small without Base with Turn Left Wide Pattern
+0 !FILENAME u1852p09.dat !DESCRIPTION Roadsign Round Small without Base with Turn Right Wide Pattern
+0 !FILENAME u1853.dat !DESCRIPTION Roadsign Square Small without Base
+0 !FILENAME u1853p01.dat !DESCRIPTION Roadsign Square Small without Base with Ped. Crossing Pattern
+0 !FILENAME u1853p02.dat !DESCRIPTION Roadsign Square Small without Base with Parking Pattern
+0 !FILENAME u1854.dat !DESCRIPTION Roadsign Triangular Inverted without Base
+0 !FILENAME u1854p01.dat !DESCRIPTION Roadsign Triangular Inverted without Base with Give Way Pattern
+0 !FILENAME u1854p02.dat !DESCRIPTION Roadsign Triangular Inverted without Base with "HALT" Pattern
+0 !FILENAME u9006.dat !DESCRIPTION Roadsign Round Large
+0 !FILENAME u9006p01.dat !DESCRIPTION Roadsign Round Large with "STOP" Pattern
+0 !FILENAME u9007.dat !DESCRIPTION Roadsign Triangular with Round Base
+0 !FILENAME u9007p01.dat !DESCRIPTION Roadsign with Round Base with Cross Intersection Pattern
+0 !FILENAME u9007p02.dat !DESCRIPTION Roadsign Traingular with Round Base with Pedestrians Pattern
+0 !FILENAME u9007p03.dat !DESCRIPTION Roadsign Triangular with Round Base with Roundabout Pattern
+0 !FILENAME u9007p04.dat !DESCRIPTION Roadsign Triangular with Round Base with 2-way Traffic Pattern
+0 !FILENAME u9007p05.dat !DESCRIPTION Roadsign Triangular with Round Base with Right Bend Pattern
+0 !FILENAME u9007p06.dat !DESCRIPTION Roadsign Triangular with Round Base with Bends Pattern
+0 !FILENAME u9007p07.dat !DESCRIPTION Roadsign Triangular with Round Base with Ped. Crossing Pattern
+0 !FILENAME u9008.dat !DESCRIPTION Roadsign Round with Round Base
+0 !FILENAME u9008p01.dat !DESCRIPTION Roadsign Round with Round Base with No Waiting Left Pattern
+0 !FILENAME u9008p02.dat !DESCRIPTION Roadsign Round with Round Base with End Restrictions Pattern
+0 !FILENAME u9008p03.dat !DESCRIPTION Roadsign Round with Round Base with Speed Limit "3
+0 !FILENAME u9008p04.dat !DESCRIPTION Roadsign Round with Round Base with No Entry Pattern
+0 !FILENAME u9008p05.dat !DESCRIPTION Roadsign Round with Round Base with "STOP" Pattern
+0 !FILENAME u9008p06.dat !DESCRIPTION Roadsign Round with Round Base with Turn Left Pattern
+0 !FILENAME u9008p07.dat !DESCRIPTION Roadsign Round with Round Base with Turn Right Pattern
+0 !FILENAME u9009.dat !DESCRIPTION Roadsign Square with Round Base
+0 !FILENAME u9009p01.dat !DESCRIPTION Roadsign Square with Round Base with Parking Pattern
